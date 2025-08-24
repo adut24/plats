@@ -1,0 +1,951 @@
+{
+	"Recette.cbe70ca5-11fa-4a6a-b656-c41edc627835": {
+		"id": "cbe70ca5-11fa-4a6a-b656-c41edc627835",
+		"nom": "Burger de b\u0153uf au zaatar & a\u00efoli persill\u00e9",
+		"image_path": "/assets/images/burger_zaatar.jpg",
+		"categories": [
+			"Burger",
+			"B\u0153uf",
+			"Frites"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.460440",
+		"updated_at": "2025-08-20T22:48:28.460457"
+	},
+	"Recette.6ed5ddf8-269f-4adf-b382-8e24a715311f": {
+		"id": "6ed5ddf8-269f-4adf-b382-8e24a715311f",
+		"nom": "Toastie sucr\u00e9-sal\u00e9 poulet tranch\u00e9 & brie",
+		"image_path": "/assets/images/toastie.jpg",
+		"categories": [
+			"Poulet",
+			"Fromage"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.460886",
+		"updated_at": "2025-08-20T22:48:28.460893"
+	},
+	"Recette.7371c7e2-9049-4adb-a1c8-3e3af7dcda7c": {
+		"id": "7371c7e2-9049-4adb-a1c8-3e3af7dcda7c",
+		"nom": "Curry indien \u00e0 la patate douce & \u00e9pinards",
+		"image_path": "/assets/images/curry_indien.jpg",
+		"categories": [
+			"Curry",
+			"Patate Douce",
+			"Riz",
+			"V\u00e9g\u00e9tarien"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.463025",
+		"updated_at": "2025-08-20T22:48:28.463040"
+	},
+	"Recette.14d922c8-8102-4c94-9cb6-40e343b9f372": {
+		"id": "14d922c8-8102-4c94-9cb6-40e343b9f372",
+		"nom": "Porc grill\u00e9 \u00e0 la ta\u00efwanaise & pak cho\u00ef",
+		"image_path": "/assets/images/porc_grille_taiwan.jpg",
+		"categories": [
+			"Riz",
+			"Porc",
+			"Champignons"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.463723",
+		"updated_at": "2025-08-20T22:48:28.463736"
+	},
+	"Recette.4e919527-5ac7-4b29-b9e1-1939f0fb6f88": {
+		"id": "4e919527-5ac7-4b29-b9e1-1939f0fb6f88",
+		"nom": "Poulet croustillant fa\u00e7on Katsu japonais",
+		"image_path": "/assets/images/poulet_japonais.jpg",
+		"categories": [
+			"Poulet",
+			"Riz",
+			"Panko"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.464294",
+		"updated_at": "2025-08-20T22:48:28.464304"
+	},
+	"Recette.b4b7e5f8-d9e9-4e0d-b0f3-cd3a0ed2c936": {
+		"id": "b4b7e5f8-d9e9-4e0d-b0f3-cd3a0ed2c936",
+		"nom": "Porc \u00e9pic\u00e9 \u00e0 la mexicaine & riz au curcuma",
+		"image_path": "/assets/images/porc_epice_mexicain.jpg",
+		"categories": [
+			"Riz",
+			"Porc"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.464870",
+		"updated_at": "2025-08-20T22:48:28.464879"
+	},
+	"Recette.269cc79b-c67b-43da-b4ee-d3fe9604eb20": {
+		"id": "269cc79b-c67b-43da-b4ee-d3fe9604eb20",
+		"nom": "Keema : b\u0153uf hach\u00e9 \u00e0 la pakistanaise & riz",
+		"image_path": "/assets/images/keema.jpg",
+		"categories": [
+			"Riz",
+			"B\u0153uf",
+			"Patate Douce"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.465445",
+		"updated_at": "2025-08-20T22:48:28.465454"
+	},
+	"Recette.55bbac3e-12f4-4c70-91a3-148784c25716": {
+		"id": "55bbac3e-12f4-4c70-91a3-148784c25716",
+		"nom": "Arroz attollado : riz colombien au porc",
+		"image_path": "/assets/images/arroz.jpg",
+		"categories": [
+			"Riz",
+			"Porc",
+			"Chorizo"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.466249",
+		"updated_at": "2025-08-20T22:48:28.466263"
+	},
+	"Recette.662175d9-6930-455b-8fda-68a2f4870f26": {
+		"id": "662175d9-6930-455b-8fda-68a2f4870f26",
+		"nom": "Cheesy Fries cheddar & dinde BBQ grill\u00e9",
+		"image_path": "/assets/images/cheesy_fries.jpg",
+		"categories": [
+			"Frites",
+			"Dinde"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.467206",
+		"updated_at": "2025-08-20T22:48:28.467216"
+	},
+	"Recette.9662d1f6-5800-4c35-8d0e-eaf2f31826d8": {
+		"id": "9662d1f6-5800-4c35-8d0e-eaf2f31826d8",
+		"nom": "Nasi goreng : riz indon\u00e9sien au poulet",
+		"image_path": "/assets/images/nasi_goreng.jpg",
+		"categories": [
+			"Riz",
+			"Poulet"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.468391",
+		"updated_at": "2025-08-20T22:48:28.468402"
+	},
+	"Recette.4cd6a589-a6a6-4e02-98cb-740d3a6ccc99": {
+		"id": "4cd6a589-a6a6-4e02-98cb-740d3a6ccc99",
+		"nom": "Pav\u00e9 de b\u0153uf sauce Bercy",
+		"image_path": "/assets/images/pave_bercy.jpg",
+		"categories": [
+			"Nouilles",
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.469172",
+		"updated_at": "2025-08-20T22:48:28.469185"
+	},
+	"Recette.56eb37ef-bc4c-42a6-958b-70f8a8897675": {
+		"id": "56eb37ef-bc4c-42a6-958b-70f8a8897675",
+		"nom": "Gyudon : bowl de b\u0153uf \u00e0 la japonaise",
+		"image_path": "/assets/images/gyudon.jpg",
+		"categories": [
+			"B\u0153uf",
+			"Riz"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.470087",
+		"updated_at": "2025-08-20T22:48:28.470098"
+	},
+	"Recette.61a2c155-83bc-4b69-948b-e423524b2eb1": {
+		"id": "61a2c155-83bc-4b69-948b-e423524b2eb1",
+		"nom": "Po\u00eal\u00e9e de b\u0153uf \u00e0 la cambodgienne",
+		"image_path": "/assets/images/poelee_cambodge.jpg",
+		"categories": [
+			"Riz",
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.471139",
+		"updated_at": "2025-08-20T22:48:28.471151"
+	},
+	"Recette.1cc94354-3a0d-4922-a291-c22b888bfbf2": {
+		"id": "1cc94354-3a0d-4922-a291-c22b888bfbf2",
+		"nom": "Bibimbap cor\u00e9en porc hach\u00e9, miso & s\u00e9same",
+		"image_path": "/assets/images/bibimbap.jpg",
+		"categories": [
+			"Riz",
+			"Porc"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.471877",
+		"updated_at": "2025-08-20T22:48:28.471885"
+	},
+	"Recette.e539b8f6-7f66-4c2d-b496-0c35c7be9759": {
+		"id": "e539b8f6-7f66-4c2d-b496-0c35c7be9759",
+		"nom": "Gratin supersonique : gnocchi & champignons",
+		"image_path": "/assets/images/gnocchi.jpg",
+		"categories": [
+			"Gnocchi",
+			"Champignons"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.472764",
+		"updated_at": "2025-08-20T22:48:28.472777"
+	},
+	"Recette.459ff51b-2154-4140-b229-9e1b0efa37b2": {
+		"id": "459ff51b-2154-4140-b229-9e1b0efa37b2",
+		"nom": "Curry vert tha\u00ef au poulet",
+		"image_path": "/assets/images/curry_vert_thai.jpg",
+		"categories": [
+			"Curry",
+			"Riz",
+			"Poulet"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.473710",
+		"updated_at": "2025-08-20T22:48:28.473723"
+	},
+	"Recette.bb1afd4d-8a75-4b62-b95c-4f2130703d71": {
+		"id": "bb1afd4d-8a75-4b62-b95c-4f2130703d71",
+		"nom": "Wok au poulet coco \u00e9pic\u00e9 fa\u00e7on bicol",
+		"image_path": "/assets/images/wok_bicol.jpg",
+		"categories": [
+			"Poulet",
+			"Nouilles"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.474500",
+		"updated_at": "2025-08-20T22:48:28.474510"
+	},
+	"Recette.c3baf4dd-2b27-4b8a-b3c8-99d5fd4ce075": {
+		"id": "c3baf4dd-2b27-4b8a-b3c8-99d5fd4ce075",
+		"nom": "Rajma makhani : mijot\u00e9 aux haricots noirs",
+		"image_path": "/assets/images/rajma.jpg",
+		"categories": [
+			"Naan",
+			"Haricots Noirs",
+			"V\u00e9g\u00e9tarien"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.475196",
+		"updated_at": "2025-08-20T22:48:28.475203"
+	},
+	"Recette.2fee14c2-9843-48b5-94e1-d526dca45d4c": {
+		"id": "2fee14c2-9843-48b5-94e1-d526dca45d4c",
+		"nom": "One pot Tex-Mex : chorizo, riz & cheddar",
+		"image_path": "/assets/images/one_pot_tex_mex.jpg",
+		"categories": [
+			"Riz",
+			"Chorizo"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.476146",
+		"updated_at": "2025-08-20T22:48:28.476156"
+	},
+	"Recette.b6bf87c6-da66-4f49-9ef8-10bdd000443f": {
+		"id": "b6bf87c6-da66-4f49-9ef8-10bdd000443f",
+		"nom": "B\u0153uf & potatoes au thym fa\u00e7on bistrot",
+		"image_path": "/assets/images/boeuf_bistrot.jpg",
+		"categories": [
+			"B\u0153uf",
+			"Potatoes"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.477309",
+		"updated_at": "2025-08-20T22:48:28.477319"
+	},
+	"Recette.bd5167c5-9e7a-400e-926c-01844c858a4c": {
+		"id": "bd5167c5-9e7a-400e-926c-01844c858a4c",
+		"nom": "Manti turcs revisit\u00e9s : p\u00e2tes au b\u0153uf",
+		"image_path": "/assets/images/manti_turc.jpg",
+		"categories": [
+			"Nouilles",
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.478473",
+		"updated_at": "2025-08-20T22:48:28.478485"
+	},
+	"Recette.d0f24091-e645-4534-ba31-15e4e9b3952b": {
+		"id": "d0f24091-e645-4534-ba31-15e4e9b3952b",
+		"nom": "Salade couscous perl\u00e9, avocat & ch\u00e8vre",
+		"image_path": "/assets/images/salade_couscous_perle.jpg",
+		"categories": [
+			"Couscous Perl\u00e9",
+			"V\u00e9g\u00e9tarien"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.480111",
+		"updated_at": "2025-08-20T22:48:28.480128"
+	},
+	"Recette.970c43ea-0805-4f63-9b81-7c21b81664bc": {
+		"id": "970c43ea-0805-4f63-9b81-7c21b81664bc",
+		"nom": "Mijot\u00e9 vivifiant de dinde au curry jaune",
+		"image_path": "/assets/images/mijote_curry_jaune.jpg",
+		"categories": [
+			"Curry",
+			"Dinde"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.483443",
+		"updated_at": "2025-08-20T22:48:28.483459"
+	},
+	"Recette.98b640de-7514-42df-8c14-2ccf1112c4ff": {
+		"id": "98b640de-7514-42df-8c14-2ccf1112c4ff",
+		"nom": "Poulet frit \u00e0 la cor\u00e9enne & crudit\u00e9s",
+		"image_path": "/assets/images/poulet_frit_coreen.jpg",
+		"categories": [
+			"Panko",
+			"Poulet",
+			"Riz"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.484423",
+		"updated_at": "2025-08-20T22:48:28.484432"
+	},
+	"Recette.40314393-be33-4cfa-bf86-701c20852ccc": {
+		"id": "40314393-be33-4cfa-bf86-701c20852ccc",
+		"nom": "Maf\u00e9 revisit\u00e9 au poulet & carotte",
+		"image_path": "/assets/images/mafe.jpg",
+		"categories": [
+			"Riz",
+			"Poulet"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.485473",
+		"updated_at": "2025-08-20T22:48:28.485484"
+	},
+	"Recette.3f5ebf8b-3365-4ed7-a863-5bd78478de3f": {
+		"id": "3f5ebf8b-3365-4ed7-a863-5bd78478de3f",
+		"nom": "Les fameuses p\u00e2tes carbo \u00e0 la fran\u00e7aise",
+		"image_path": "/assets/images/pates_carbo.jpg",
+		"categories": [
+			"Nouilles",
+			"Porc"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.486730",
+		"updated_at": "2025-08-20T22:48:28.486743"
+	},
+	"Recette.d9ed51a4-933f-446d-9ebe-82e20a7a8de8": {
+		"id": "d9ed51a4-933f-446d-9ebe-82e20a7a8de8",
+		"nom": "Burrito au porc marin\u00e9 \u00e0 la mexicaine",
+		"image_path": "/assets/images/burrito.jpg",
+		"categories": [
+			"Tortilla",
+			"Porc"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.488395",
+		"updated_at": "2025-08-20T22:48:28.488405"
+	},
+	"Recette.9f0dc407-41bf-4fce-af9f-03ac22eb7327": {
+		"id": "9f0dc407-41bf-4fce-af9f-03ac22eb7327",
+		"nom": "Keftas de b\u0153uf & semoule aux \u00e9pices",
+		"image_path": "/assets/images/kefta.jpg",
+		"categories": [
+			"B\u0153uf",
+			"Semoule"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.489326",
+		"updated_at": "2025-08-20T22:48:28.489336"
+	},
+	"Recette.10bf5cd7-60d3-46ca-96dd-df96fc7d6ef9": {
+		"id": "10bf5cd7-60d3-46ca-96dd-df96fc7d6ef9",
+		"nom": "Porc au caramel vietnamien & riz",
+		"image_path": "/assets/images/porc_caramel.jpg",
+		"categories": [
+			"Porc",
+			"Riz"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.490328",
+		"updated_at": "2025-08-20T22:48:28.490340"
+	},
+	"Recette.9fd9d80b-4cf1-44a8-97bb-54af9e37fd7a": {
+		"id": "9fd9d80b-4cf1-44a8-97bb-54af9e37fd7a",
+		"nom": "Taquitos porc hach\u00e9, avocat relev\u00e9 & gouda",
+		"image_path": "/assets/images/taquito.jpg",
+		"categories": [
+			"Tortilla",
+			"Porc"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.491937",
+		"updated_at": "2025-08-20T22:48:28.491949"
+	},
+	"Recette.ae96e5b4-8d75-4893-96e8-978bf1bc509e": {
+		"id": "ae96e5b4-8d75-4893-96e8-978bf1bc509e",
+		"nom": "Wok de dinde au cumin \u00e0 la chinoise",
+		"image_path": "/assets/images/wok_cumin.jpg",
+		"categories": [
+			"Nouilles",
+			"Dinde"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.493245",
+		"updated_at": "2025-08-20T22:48:28.493254"
+	},
+	"Recette.7ca79d4d-45cc-46dc-901a-7cff1eb01576": {
+		"id": "7ca79d4d-45cc-46dc-901a-7cff1eb01576",
+		"nom": "Riz saut\u00e9 chinois multi-l\u00e9gumes au soja",
+		"image_path": "/assets/images/riz_saute.jpg",
+		"categories": [
+			"V\u00e9g\u00e9tarien",
+			"Riz"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.494961",
+		"updated_at": "2025-08-20T22:48:28.494974"
+	},
+	"Recette.56c55e4e-7b8e-42a8-b4a1-9729392ad300": {
+		"id": "56c55e4e-7b8e-42a8-b4a1-9729392ad300",
+		"nom": "Poulet-frites sauce poulette fa\u00e7on bistrot",
+		"image_path": "/assets/images/poulet_frites.jpg",
+		"categories": [
+			"Poulet",
+			"Frites"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.496129",
+		"updated_at": "2025-08-20T22:48:28.496141"
+	},
+	"Recette.b517105d-151e-445e-ad82-9795d1e0d332": {
+		"id": "b517105d-151e-445e-ad82-9795d1e0d332",
+		"nom": "Wok de nouilles saut\u00e9es au b\u0153uf marin\u00e9",
+		"image_path": "/assets/images/wok_boeuf.jpg",
+		"categories": [
+			"Nouilles",
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.497793",
+		"updated_at": "2025-08-20T22:48:28.497809"
+	},
+	"Recette.1f596dc7-227b-4d7f-9a69-b0c68a36a837": {
+		"id": "1f596dc7-227b-4d7f-9a69-b0c68a36a837",
+		"nom": "Poulet dor\u00e9 & r\u00e9duction fraise balsamique",
+		"image_path": "/assets/images/poulet_dore_fraise.jpg",
+		"categories": [
+			"Poulet",
+			"Potatoes"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.499857",
+		"updated_at": "2025-08-20T22:48:28.499872"
+	},
+	"Recette.ee8d4eb0-5eac-4230-bb37-d10933f18f09": {
+		"id": "ee8d4eb0-5eac-4230-bb37-d10933f18f09",
+		"nom": "Cordon bleu maison : jambon & mozzarella",
+		"image_path": "/assets/images/cordon_bleu.jpg",
+		"categories": [
+			"Poulet",
+			"Jambon",
+			"Panko"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.502001",
+		"updated_at": "2025-08-20T22:48:28.502015"
+	},
+	"Recette.e6e36530-b5ef-44a5-8f0f-a46b9aa8ce92": {
+		"id": "e6e36530-b5ef-44a5-8f0f-a46b9aa8ce92",
+		"nom": "Pizza naan cr\u00e8me de pesto, mozza & jambon",
+		"image_path": "/assets/images/pizza_naan.jpg",
+		"categories": [
+			"Naan",
+			"Jambon"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.505187",
+		"updated_at": "2025-08-20T22:48:28.505202"
+	},
+	"Recette.184e12bd-4edd-4843-bd13-d7d99ad49258": {
+		"id": "184e12bd-4edd-4843-bd13-d7d99ad49258",
+		"nom": "Pav\u00e9 de b\u0153uf & sauce estragon printani\u00e8re",
+		"image_path": "/assets/images/pave_estragon.jpg",
+		"categories": [
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.507468",
+		"updated_at": "2025-08-20T22:48:28.507482"
+	},
+	"Recette.3a8e2265-fab0-462a-9557-4bc468dec85d": {
+		"id": "3a8e2265-fab0-462a-9557-4bc468dec85d",
+		"nom": "P\u00e2tes montagnardes au cantal AOP & lardons",
+		"image_path": "/assets/images/pates_montagnardes.jpg",
+		"categories": [
+			"Nouilles",
+			"Porc"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.508865",
+		"updated_at": "2025-08-20T22:48:28.508876"
+	},
+	"Recette.91f3400e-2ae4-41e3-a12b-8a360cb50f76": {
+		"id": "91f3400e-2ae4-41e3-a12b-8a360cb50f76",
+		"nom": "Le Truff\u00e9 : burger au fromage \u00e0 la truffe",
+		"image_path": "/assets/images/burger_truffe.jpg",
+		"categories": [
+			"Burger",
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.510212",
+		"updated_at": "2025-08-20T22:48:28.510223"
+	},
+	"Recette.6d6f5a04-6af0-448f-8b37-27bde9fc6a7b": {
+		"id": "6d6f5a04-6af0-448f-8b37-27bde9fc6a7b",
+		"nom": "Schnitzel de porc & sauce BBQ maison",
+		"image_path": "/assets/images/schnitzel_porc.jpg",
+		"categories": [
+			"Porc",
+			"Panko"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.511368",
+		"updated_at": "2025-08-20T22:48:28.511376"
+	},
+	"Recette.56e8ac65-3e41-4e65-a7c0-f501811d4dbd": {
+		"id": "56e8ac65-3e41-4e65-a7c0-f501811d4dbd",
+		"nom": "Wok de nouilles b\u0153uf hach\u00e9 & l\u00e9gumes saut\u00e9s",
+		"image_path": "/assets/images/wok_boeuf_hache.jpg",
+		"categories": [
+			"Nouilles",
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.512868",
+		"updated_at": "2025-08-20T22:48:28.512879"
+	},
+	"Recette.329dcadd-2931-4996-83b7-9a09a4e29941": {
+		"id": "329dcadd-2931-4996-83b7-9a09a4e29941",
+		"nom": "Curry de dinde, nouilles & coco",
+		"image_path": "/assets/images/curry_dinde.jpg",
+		"categories": [
+			"Curry",
+			"Dinde",
+			"Nouilles"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.515018",
+		"updated_at": "2025-08-20T22:48:28.515032"
+	},
+	"Recette.abf5ce95-4ff5-4137-88de-6facb06c68b7": {
+		"id": "abf5ce95-4ff5-4137-88de-6facb06c68b7",
+		"nom": "Burrito bowl porc & cheddar \u00e0 la mexicaine",
+		"image_path": "/assets/images/burrito_bowl.jpg",
+		"categories": [
+			"Porc",
+			"Riz"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.518640",
+		"updated_at": "2025-08-20T22:48:28.518666"
+	},
+	"Recette.b78663b6-1899-4c33-bdb6-672882fb433f": {
+		"id": "b78663b6-1899-4c33-bdb6-672882fb433f",
+		"nom": "Nouilles au b\u0153uf saut\u00e9es \u00e0 la tha\u00ef",
+		"image_path": "/assets/images/nouilles_boeuf_saute.jpg",
+		"categories": [
+			"Nouilles",
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.520859",
+		"updated_at": "2025-08-20T22:48:28.520869"
+	},
+	"Recette.48d6da07-afb4-4f34-a882-8e1a6f13e8ca": {
+		"id": "48d6da07-afb4-4f34-a882-8e1a6f13e8ca",
+		"nom": "Tacos de sucrine & poulet fa\u00e7on teriyaki",
+		"image_path": "/assets/images/tacos_poulet_teriyaki.jpg",
+		"categories": [
+			"Poulet",
+			"Riz"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.522343",
+		"updated_at": "2025-08-20T22:48:28.522353"
+	},
+	"Recette.d8b4d086-9a38-4bb2-a386-53bcca05dc2f": {
+		"id": "d8b4d086-9a38-4bb2-a386-53bcca05dc2f",
+		"nom": "B\u0153uf piquant saut\u00e9 fa\u00e7on lomo saltado",
+		"image_path": "/assets/images/boeuf_piquant.jpg",
+		"categories": [
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.523695",
+		"updated_at": "2025-08-20T22:48:28.523707"
+	},
+	"Recette.3823a961-6130-44f0-aecf-af17a0411a6c": {
+		"id": "3823a961-6130-44f0-aecf-af17a0411a6c",
+		"nom": "Porc sauce \u00e0 l\u2019oignon & pur\u00e9e aux marrons",
+		"image_path": "/assets/images/porc_marrons.jpg",
+		"categories": [
+			"Porc"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.525408",
+		"updated_at": "2025-08-20T22:48:28.525419"
+	},
+	"Recette.4d8ae1d4-c391-4be6-a9d9-bf5076f0396e": {
+		"id": "4d8ae1d4-c391-4be6-a9d9-bf5076f0396e",
+		"nom": "Bicol express philippin : porc \u00e0 la coco",
+		"image_path": "/assets/images/bicol_express.jpg",
+		"categories": [
+			"Porc",
+			"Nouilles"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.527293",
+		"updated_at": "2025-08-20T22:48:28.527309"
+	},
+	"Recette.2a771fb6-4daa-478d-9e96-e36345fc43eb": {
+		"id": "2a771fb6-4daa-478d-9e96-e36345fc43eb",
+		"nom": "Taco bowl : porc tex-mex & riz citronn\u00e9",
+		"image_path": "/assets/images/taco_bowl.jpg",
+		"categories": [
+			"Porc",
+			"Riz"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.528717",
+		"updated_at": "2025-08-20T22:48:28.528729"
+	},
+	"Recette.218813c1-5a35-4918-a2b6-5d12e6a4dc99": {
+		"id": "218813c1-5a35-4918-a2b6-5d12e6a4dc99",
+		"nom": "Penne & b\u0153uf hach\u00e9 aux saveurs mexicaines",
+		"image_path": "/assets/images/penne_boeuf.jpg",
+		"categories": [
+			"Nouilles",
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.530447",
+		"updated_at": "2025-08-20T22:48:28.530461"
+	},
+	"Recette.4bfc86b4-79af-4e75-b962-a21fa995c026": {
+		"id": "4bfc86b4-79af-4e75-b962-a21fa995c026",
+		"nom": "Pitas tex-mex poulet, avocat & coriandre",
+		"image_path": "/assets/images/pitas_poulet.jpg",
+		"categories": [
+			"Pain pita",
+			"Poulet"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.534312",
+		"updated_at": "2025-08-20T22:48:28.534327"
+	},
+	"Recette.239f0a89-c769-4743-9611-e34812d7a89f": {
+		"id": "239f0a89-c769-4743-9611-e34812d7a89f",
+		"nom": "Spaghetti, pesto rosso & jambon sec",
+		"image_path": "/assets/images/spaghetti_pesto.jpg",
+		"categories": [
+			"Nouilles",
+			"Jambon"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.537794",
+		"updated_at": "2025-08-20T22:48:28.537806"
+	},
+	"Recette.38bd4e9a-b889-4243-8c8f-87ebe24d60f0": {
+		"id": "38bd4e9a-b889-4243-8c8f-87ebe24d60f0",
+		"nom": "Canette & sauce sucr\u00e9e-sal\u00e9e \u00e0 la marocaine",
+		"image_path": "/assets/images/canette_maroc.jpg",
+		"categories": [
+			"Canard"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.539464",
+		"updated_at": "2025-08-20T22:48:28.539477"
+	},
+	"Recette.cdea30fe-8d2c-4419-88a8-21fb40d4feb3": {
+		"id": "cdea30fe-8d2c-4419-88a8-21fb40d4feb3",
+		"nom": "Tenders de poulet BBQ & potatoes",
+		"image_path": "/assets/images/tenders.jpg",
+		"categories": [
+			"Poulet",
+			"Panko",
+			"Potatoes"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.541621",
+		"updated_at": "2025-08-20T22:48:28.541635"
+	},
+	"Recette.8c091105-44a4-4ae2-a9c4-620f591c6752": {
+		"id": "8c091105-44a4-4ae2-a9c4-620f591c6752",
+		"nom": "La Fra\u00eeche : poulet, crudit\u00e9s & sauce satay",
+		"image_path": "/assets/images/poulet_satay.jpg",
+		"categories": [
+			"Poulet",
+			"Nouilles"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.544284",
+		"updated_at": "2025-08-20T22:48:28.544295"
+	},
+	"Recette.6eab76bf-acff-413e-999d-6c38be38216a": {
+		"id": "6eab76bf-acff-413e-999d-6c38be38216a",
+		"nom": "Tagliata de b\u0153uf \u00e0 l'italienne & rigatoni",
+		"image_path": "/assets/images/tagliata.jpg",
+		"categories": [
+			"B\u0153uf",
+			"Nouilles"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.545722",
+		"updated_at": "2025-08-20T22:48:28.545733"
+	},
+	"Recette.66b9c599-fb70-4006-92e3-a237afa9f074": {
+		"id": "66b9c599-fb70-4006-92e3-a237afa9f074",
+		"nom": "Poulet pan\u00e9 au zaatar & sauce tahini",
+		"image_path": "/assets/images/poulet_zaatar.jpg",
+		"categories": [
+			"Bl\u00e9",
+			"Poulet",
+			"Panko"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.549640",
+		"updated_at": "2025-08-20T22:48:28.549656"
+	},
+	"Recette.e2d962a6-b3ec-44b6-b47d-f1b8c80bccfb": {
+		"id": "e2d962a6-b3ec-44b6-b47d-f1b8c80bccfb",
+		"nom": "Flash Burger poulet dor\u00e9 & guacamole maison",
+		"image_path": "/assets/images/burger_poulet.jpg",
+		"categories": [
+			"Burger",
+			"Poulet"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.554723",
+		"updated_at": "2025-08-20T22:48:28.554737"
+	},
+	"Recette.1587ee68-9118-4680-a263-7b27eb3fd139": {
+		"id": "1587ee68-9118-4680-a263-7b27eb3fd139",
+		"nom": "La Sportive : penne, poulet & pesto rosso",
+		"image_path": "/assets/images/penne_poulet.jpg",
+		"categories": [
+			"Nouilles",
+			"Poulet"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.557375",
+		"updated_at": "2025-08-20T22:48:28.557401"
+	},
+	"Recette.9da7a3ba-e1c7-4af9-b186-ff8eefd2cff5": {
+		"id": "9da7a3ba-e1c7-4af9-b186-ff8eefd2cff5",
+		"nom": "Le V\u00e9g\u00e9 : salade de nouilles sauce cacahu\u00e8tes",
+		"image_path": "/assets/images/salade_nouilles.jpg",
+		"categories": [
+			"V\u00e9g\u00e9tarien",
+			"Nouilles"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.559678",
+		"updated_at": "2025-08-20T22:48:28.559691"
+	},
+	"Recette.a653467d-e504-4ac1-905d-258b7c998054": {
+		"id": "a653467d-e504-4ac1-905d-258b7c998054",
+		"nom": "Risotto couscous perl\u00e9, fromage frais & basilic",
+		"image_path": "/assets/images/risotto_couscous_perle.jpg",
+		"categories": [
+			"Couscous Perl\u00e9",
+			"V\u00e9g\u00e9tarien"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.564012",
+		"updated_at": "2025-08-20T22:48:28.564024"
+	},
+	"Recette.1ad36126-6384-4d0b-8b68-5bd170746029": {
+		"id": "1ad36126-6384-4d0b-8b68-5bd170746029",
+		"nom": "P\u00e2tes cr\u00e9meuses au porc hach\u00e9 & paprika fum\u00e9",
+		"image_path": "/assets/images/pates_porc_hache.jpg",
+		"categories": [
+			"Nouilles",
+			"Porc"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.567125",
+		"updated_at": "2025-08-20T22:48:28.567141"
+	},
+	"Recette.5f0ea37d-20e8-4659-8afe-40bd1d19a3c5": {
+		"id": "5f0ea37d-20e8-4659-8afe-40bd1d19a3c5",
+		"nom": "Burger dinde po\u00eal\u00e9e & sauce pistou maison",
+		"image_path": "/assets/images/burger_dinde.jpg",
+		"categories": [
+			"Burger",
+			"Dinde"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.571887",
+		"updated_at": "2025-08-20T22:48:28.571900"
+	},
+	"Recette.4885c6bf-6405-4394-8995-88ccb9437937": {
+		"id": "4885c6bf-6405-4394-8995-88ccb9437937",
+		"nom": "Wok de dinde sauce umami & nouilles soba",
+		"image_path": "/assets/images/dinde_soba.jpg",
+		"categories": [
+			"Nouilles",
+			"Dinde"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.581072",
+		"updated_at": "2025-08-21T19:37:58.049611"
+	},
+	"Recette.af78d951-7ec0-4d31-88b7-39ae5af6479e": {
+		"id": "af78d951-7ec0-4d31-88b7-39ae5af6479e",
+		"nom": "Poulet croustillant fa\u00e7on parmigiana",
+		"image_path": "/assets/images/poulet_parmigiana.jpg",
+		"categories": [
+			"Poulet",
+			"Panko",
+			"Nouilles"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.582841",
+		"updated_at": "2025-08-20T22:48:28.582853"
+	},
+	"Recette.856013fa-c415-4966-8a9d-866cf8c3108e": {
+		"id": "856013fa-c415-4966-8a9d-866cf8c3108e",
+		"nom": "Penne & b\u0153uf hach\u00e9 aux saveurs mexicaines",
+		"image_path": "/assets/images/penne_boeuf_hache.jpg",
+		"categories": [
+			"Nouilles",
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.585375",
+		"updated_at": "2025-08-20T22:48:28.585388"
+	},
+	"Recette.5b345db0-6407-4dda-8c10-d6eba4b7517c": {
+		"id": "5b345db0-6407-4dda-8c10-d6eba4b7517c",
+		"nom": "Poulet marin\u00e9 citron-ail fa\u00e7on chich taouk",
+		"image_path": "/assets/images/chich_taouk.jpg",
+		"categories": [
+			"Bl\u00e9",
+			"Poulet"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.588239",
+		"updated_at": "2025-08-20T22:48:28.588249"
+	},
+	"Recette.5ceab2a9-a498-4f4f-a6a2-5314a14c490b": {
+		"id": "5ceab2a9-a498-4f4f-a6a2-5314a14c490b",
+		"nom": "Nouilles froides, dinde & sauce satay tha\u00ef",
+		"image_path": "/assets/images/nouilles_froides.jpg",
+		"categories": [
+			"Nouilles",
+			"Dinde"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.589791",
+		"updated_at": "2025-08-20T22:48:28.589801"
+	},
+	"Recette.94a88ceb-f1f2-44ea-b914-8097327fad83": {
+		"id": "94a88ceb-f1f2-44ea-b914-8097327fad83",
+		"nom": "Wok de nouilles b\u0153uf hach\u00e9 & l\u00e9gumes saut\u00e9s",
+		"image_path": "/assets/images/wok_nouilles_boeuf.jpg",
+		"categories": [
+			"Nouilles",
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.593768",
+		"updated_at": "2025-08-20T22:48:28.593779"
+	},
+	"Recette.93afab0e-98dd-4293-a236-04fc6466be6e": {
+		"id": "93afab0e-98dd-4293-a236-04fc6466be6e",
+		"nom": "Nos immanquables spaghetti poireau-lardons",
+		"image_path": "/assets/images/spaghetti_lardons.jpg",
+		"categories": [
+			"Nouilles",
+			"Porc"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.596580",
+		"updated_at": "2025-08-20T22:48:28.596591"
+	},
+	"Recette.716d76c8-6a9f-45b6-a0ff-adf281264d79": {
+		"id": "716d76c8-6a9f-45b6-a0ff-adf281264d79",
+		"nom": "Cuisse de poulet r\u00f4tie, riz & yaourt citronn\u00e9",
+		"image_path": "/assets/images/poulet_roti.jpg",
+		"categories": [
+			"Riz",
+			"Poulet",
+			"Champignons"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.598507",
+		"updated_at": "2025-08-20T22:48:28.598522"
+	},
+	"Recette.33ecd094-c700-4c33-a52f-68660504603f": {
+		"id": "33ecd094-c700-4c33-a52f-68660504603f",
+		"nom": "Boulettes de porc, harissa & sauce peps herbac\u00e9e",
+		"image_path": "/assets/images/boulettes_porc.jpg",
+		"categories": [
+			"Porc",
+			"Panko",
+			"Couscous Perl\u00e9"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.602638",
+		"updated_at": "2025-08-20T22:48:28.602652"
+	},
+	"Recette.7227f5a6-05ab-4937-9472-52d89b0c69b7": {
+		"id": "7227f5a6-05ab-4937-9472-52d89b0c69b7",
+		"nom": "Poulet grill\u00e9 fa\u00e7on paprik\u00e0sh",
+		"image_path": "/assets/images/poulet_paprikash.jpg",
+		"categories": [
+			"Nouilles",
+			"Poulet"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.652027",
+		"updated_at": "2025-08-20T22:48:28.652061"
+	},
+	"Recette.6605a30d-0599-4796-a3c7-179a610b61c6": {
+		"id": "6605a30d-0599-4796-a3c7-179a610b61c6",
+		"nom": "Aiguillettes de poulet fa\u00e7on teriyaki",
+		"image_path": "/assets/images/poulet_teriyaki.jpg",
+		"categories": [
+			"Riz",
+			"Poulet"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.655856",
+		"updated_at": "2025-08-20T22:48:28.655871"
+	},
+	"Recette.bfe58538-a228-4635-a787-ee715cb7b2ee": {
+		"id": "bfe58538-a228-4635-a787-ee715cb7b2ee",
+		"nom": "Wok de nouilles saut\u00e9es au porc hach\u00e9",
+		"image_path": "/assets/images/nouilles_sautees_porc.jpg",
+		"categories": [
+			"Nouilles",
+			"Porc"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.664746",
+		"updated_at": "2025-08-20T22:48:28.664759"
+	},
+	"Recette.2e668c3c-e711-4404-a84c-6617d918c94e": {
+		"id": "2e668c3c-e711-4404-a84c-6617d918c94e",
+		"nom": "Penne rag\u00f9 al forno au b\u0153uf",
+		"image_path": "/assets/images/penne_ragu.jpg",
+		"categories": [
+			"Nouilles",
+			"B\u0153uf"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.667546",
+		"updated_at": "2025-08-20T22:48:28.667557"
+	},
+	"Recette.d5e5514b-84fb-4eb2-ba9c-3c9c44238519": {
+		"id": "d5e5514b-84fb-4eb2-ba9c-3c9c44238519",
+		"nom": "Linguine chorizo & cr\u00e8me \u00e0 l'espagnole",
+		"image_path": "/assets/images/linguine_chorizo.jpg",
+		"categories": [
+			"Nouilles",
+			"Chorizo"
+		],
+		"used": null,
+		"created_at": "2025-08-20T22:48:28.669644",
+		"updated_at": "2025-08-20T22:48:28.669654"
+	}
+}
