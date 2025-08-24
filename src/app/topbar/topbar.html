@@ -1,7 +1,7 @@
 <nav class="topbar">
 	<ul class="menu">
-		<li><a routerLink="/">En cours</a></li>
-		<li><a routerLink="/next-week">Semaine prochaine</a></li>
-		<li><a routerLink="/last-month">Dernier mois</a></li>
+		<li><a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">En cours</a></li>
+		<li><a routerLink="/next-week" routerLinkActive="active">Semaine prochaine</a></li>
+		<li><a routerLink="/last-month" routerLinkActive="active">Dernier mois</a></li>
 	</ul>
 </nav>

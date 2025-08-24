@@ -32,7 +32,7 @@ export class ApiService {
 
   getRecettes(): Observable<Recette[]> {
     return this.http.get<{ [key: string]: RecetteDTO }>(`${this.baseUrl}/recettes`).pipe(
-      map((recettesObj: { [key: string]: RecetteDTO }) =>
+      map((recettesObj) =>
         Object.values(recettesObj).map(this.toRecette)
       )
     );
