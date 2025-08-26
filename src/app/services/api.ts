@@ -8,6 +8,8 @@ export interface Recette {
   used: Date | null;
   categories: string[];
   image_path: string;
+  temps_total: string;
+  steps: string[];
   created_at: Date;
   updated_at: Date;
 }
@@ -18,6 +20,8 @@ export interface RecetteDTO {
   used: string | null;
   categories: string[];
   image_path: string;
+  temps_total: string;
+  steps: string[];
   created_at: string;
   updated_at: string;
 }

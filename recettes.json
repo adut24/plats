@@ -11,12 +11,12 @@
 		"used": null,
 		"temps_total": "40 minutes",
 		"steps": [
-			"/assets/images/burger_zaatar/step1.jpg",
-			"/assets/images/burger_zaatar/step2.jpg",
-			"/assets/images/burger_zaatar/step3.jpg",
-			"/assets/images/burger_zaatar/step4.jpg",
-			"/assets/images/burger_zaatar/step5.jpg",
-			"/assets/images/burger_zaatar/step6.jpg"
+			"/assets/images/burger_zaatar/steps/step1.jpg",
+			"/assets/images/burger_zaatar/steps/step2.jpg",
+			"/assets/images/burger_zaatar/steps/step3.jpg",
+			"/assets/images/burger_zaatar/steps/step4.jpg",
+			"/assets/images/burger_zaatar/steps/step5.jpg",
+			"/assets/images/burger_zaatar/steps/step6.jpg"
 		],
 		"created_at": "2025-08-20T22:48:28.460440",
 		"updated_at": "2025-08-20T22:48:28.460457"
