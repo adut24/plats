@@ -1,1 +1,23 @@
-<p>next-week works!</p>
+<h1>Recettes de la semaine prochaine</h1>
+
+@if (recettes | async; as recettes) {
+<div class="cards">
+  @for (recette of recettes; track recette.id) {
+  <div class="card">
+    <img [src]="recette.image_path" alt="{{ recette.nom }}" />
+    <div class="card-body">
+      <h3>{{ recette.nom }}</h3>
+      <div class="categories">
+        @for (categorie of recette.categories; track categorie) {
+        <span class="badge" [style.backgroundColor]="getCategoryColor(categorie)">
+          {{ categorie }}
+        </span>
+        }
+      </div>
+    </div>
+  </div>
+  }
+</div>
+} @else {
+<p>Aucune recette disponible…</p>
+}

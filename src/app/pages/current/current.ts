@@ -1,15 +1,17 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 import { ApiService, Recette } from '../../services/api';
 import { getISOWeek } from 'date-fns';
+import { Observable, map } from 'rxjs';
+import { AsyncPipe } from '@angular/common';
 
 @Component({
   selector: 'app-current',
-  imports: [],
+  imports: [AsyncPipe],
   templateUrl: './current.html',
   styleUrl: './current.scss'
 })
-export class Current implements OnInit {
-  private _recettes: Recette[] = [];
+export class Current {
+  private readonly recettes$: Observable<Recette[]>;
   private colors: Record<string, string> = {
     'Burger': '#FF6B6B',
     'Bœuf': '#D9534F',
@@ -43,22 +45,17 @@ export class Current implements OnInit {
 
   constructor(private api: ApiService) {
     this.week_number = getISOWeek(new Date());
+    this.recettes$ = this.api.getRecettes().pipe(
+      map((recettes: Recette[]) => this.buildRecettes(recettes))
+    );
   }
 
-  ngOnInit() {
-    this.loadRecettes();
+  get recettes(): Observable<Recette[]> {
+    return this.recettes$;
   }
 
-  loadRecettes(): void {
-    this.api.getRecettes().subscribe(data => {
-      this._recettes = data;
-    });
-  }
-
-
-  get recettes(): Recette[] {
-    //return [...this._recettes].filter((recette) => this.week_number === this.getWeekNumber(recette.used));
-    return this._recettes;
+  private buildRecettes(all: Recette[]): Recette[] {
+    return all.filter((recette) => this.week_number === this.getWeekNumber(recette.used));
   }
 
   getCategoryColor(cat: string): string {
@@ -66,6 +63,6 @@ export class Current implements OnInit {
   }
 
   private getWeekNumber(date: Date | null): number {
-    return date != null ? getISOWeek(date) : -1;
+    return date !== null ? getISOWeek(date) : -1;
   }
 }

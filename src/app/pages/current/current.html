@@ -1,6 +1,6 @@
-<h1>Recettes</h1>
+<h1>Recettes de la semaine</h1>
 
-@if (recettes.length > 0) {
+@if (recettes | async; as recettes) {
 <div class="cards">
 	@for (recette of recettes; track recette.id) {
 	<div class="card">
@@ -8,9 +8,9 @@
 		<div class="card-body">
 			<h3>{{ recette.nom }}</h3>
 			<div class="categories">
-				@for (cat of recette.categories; track cat) {
-				<span class="badge" [style.backgroundColor]="getCategoryColor(cat)">
-					{{ cat }}
+				@for (categorie of recette.categories; track categorie) {
+				<span class="badge" [style.backgroundColor]="getCategoryColor(categorie)">
+					{{ categorie }}
 				</span>
 				}
 			</div>
