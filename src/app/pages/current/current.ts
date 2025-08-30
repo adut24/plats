@@ -3,6 +3,7 @@ import { ApiService, Recette } from '../../services/api';
 import { getISOWeek } from 'date-fns';
 import { Observable, map } from 'rxjs';
 import { AsyncPipe } from '@angular/common';
+import { BADGE_COLOR } from '../../shared/badge-color';
 
 @Component({
   selector: 'app-current',
@@ -12,35 +13,6 @@ import { AsyncPipe } from '@angular/common';
 })
 export class Current {
   private readonly recettes$: Observable<Recette[]>;
-  private colors: Record<string, string> = {
-    'Burger': '#FF6B6B',
-    'Bœuf': '#D9534F',
-    'Frites': '#FFD93D',
-    'Poulet': '#FFB347',
-    'Fromage': '#FFD700',
-    'Curry': '#FF8C00',
-    'Patate Douce': '#FF7F50',
-    'Riz': '#F0E68C',
-    'Végétarien': '#8BC34A',
-    'Porc': '#E9967A',
-    'Panko': '#FFE4B5',
-    'Chorizo': '#FF4500',
-    'Dinde': '#F5DEB3',
-    'Nouilles': '#F5DEB3',
-    'Gnocchi': '#FFE4C4',
-    'Champignons': '#A0522D',
-    'Naan': '#F5F5DC',
-    'Haricots Noirs': '#000000',
-    'Potatoes': '#FFD700',
-    'Couscous Perlé': '#F5DEB3',
-    'Tortilla': '#F5DEB3',
-    'Semoule': '#FFFACD',
-    'Jambon': '#FFC0CB',
-    'Pain pita': '#F5DEB3',
-    'Canard': '#8B0000',
-    'Blé': '#DEB887'
-  };
-
   private week_number: number;
 
   constructor(private api: ApiService) {
@@ -59,7 +31,7 @@ export class Current {
   }
 
   getCategoryColor(cat: string): string {
-    return this.colors[cat] || '#ccc';
+    return BADGE_COLOR[cat] || '#ccc';
   }
 
   private getWeekNumber(date: Date | null): number {

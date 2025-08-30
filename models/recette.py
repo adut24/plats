@@ -14,6 +14,8 @@ class Recette:
     used: datetime
     categories: list
     image_path: str
+    temps_total: str
+    steps: list
     created_at: datetime
     updated_at: datetime
 
@@ -44,12 +46,18 @@ class Recette:
         self.updated_at = datetime.now()
         models.storage.save()
 
+    def new(self):
+        models.storage.new(self)
+        models.storage.save()
+
     def to_dict(self):
+        
         new_dict = self.__dict__.copy()
         new_dict.update({"created_at": self.created_at.isoformat()})
         new_dict.update({"updated_at": self.updated_at.isoformat()})
-        if self.used is not None:
-            new_dict.update({"used": self.used.isoformat()})
+        new_dict.update({"used": self.used.isoformat() if self.used is not None else None})
+        new_dict.update({"temps_total": self.temps_total})
+        new_dict.update({"steps": self.steps})
         new_dict.update({"categories": self.categories})
         new_dict.update({"image_path": self.image_path})
         return new_dict

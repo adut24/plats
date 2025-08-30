@@ -251,6 +251,16 @@
             "Riz"
         ],
         "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/gyudon/steps/step1.jpg",
+            "/assets/images/gyudon/steps/step2.jpg",
+            "/assets/images/gyudon/steps/step3.jpg",
+            "/assets/images/gyudon/steps/step4.jpg",
+            "/assets/images/gyudon/steps/step5.jpg",
+            "/assets/images/gyudon/steps/step6.jpg",
+            "/assets/images/gyudon/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.470087",
         "updated_at": "2025-08-20T22:48:28.470098"
     },
@@ -263,6 +273,14 @@
             "B\u0153uf"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/poelee_cambodge/steps/step1.jpg",
+            "/assets/images/poelee_cambodge/steps/step2.jpg",
+            "/assets/images/poelee_cambodge/steps/step3.jpg",
+            "/assets/images/poelee_cambodge/steps/step4.jpg",
+            "/assets/images/poelee_cambodge/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.471139",
         "updated_at": "2025-08-20T22:48:28.471151"
     },
@@ -275,6 +293,16 @@
             "Porc"
         ],
         "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/bibimbap/steps/step1.jpg",
+            "/assets/images/bibimbap/steps/step2.jpg",
+            "/assets/images/bibimbap/steps/step3.jpg",
+            "/assets/images/bibimbap/steps/step4.jpg",
+            "/assets/images/bibimbap/steps/step5.jpg",
+            "/assets/images/bibimbap/steps/step6.jpg",
+            "/assets/images/bibimbap/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.471877",
         "updated_at": "2025-08-20T22:48:28.471885"
     },
@@ -284,9 +312,18 @@
         "image_path": "/assets/images/gnocchi/plat.jpg",
         "categories": [
             "Gnocchi",
-            "Champignons"
+            "Champignons",
+            "V\u00e9g\u00e9tarien"
         ],
         "used": null,
+        "temps_total": "15 minutes",
+        "steps": [
+            "/assets/images/gnocchi/steps/step1.jpg",
+            "/assets/images/gnocchi/steps/step2.jpg",
+            "/assets/images/gnocchi/steps/step3.jpg",
+            "/assets/images/gnocchi/steps/step4.jpg",
+            "/assets/images/gnocchi/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.472764",
         "updated_at": "2025-08-20T22:48:28.472777"
     },
@@ -300,6 +337,16 @@
             "Poulet"
         ],
         "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/curry_vert_thai/steps/step1.jpg",
+            "/assets/images/curry_vert_thai/steps/step2.jpg",
+            "/assets/images/curry_vert_thai/steps/step3.jpg",
+            "/assets/images/curry_vert_thai/steps/step4.jpg",
+            "/assets/images/curry_vert_thai/steps/step5.jpg",
+            "/assets/images/curry_vert_thai/steps/step6.jpg",
+            "/assets/images/curry_vert_thai/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.473710",
         "updated_at": "2025-08-20T22:48:28.473723"
     },
@@ -312,6 +359,14 @@
             "Nouilles"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/wok_bicol/steps/step1.jpg",
+            "/assets/images/wok_bicol/steps/step2.jpg",
+            "/assets/images/wok_bicol/steps/step3.jpg",
+            "/assets/images/wok_bicol/steps/step4.jpg",
+            "/assets/images/wok_bicol/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.474500",
         "updated_at": "2025-08-20T22:48:28.474510"
     },
@@ -325,6 +380,16 @@
             "V\u00e9g\u00e9tarien"
         ],
         "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/rajma/steps/step1.jpg",
+            "/assets/images/rajma/steps/step2.jpg",
+            "/assets/images/rajma/steps/step3.jpg",
+            "/assets/images/rajma/steps/step4.jpg",
+            "/assets/images/rajma/steps/step5.jpg",
+            "/assets/images/rajma/steps/step6.jpg",
+            "/assets/images/rajma/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.475196",
         "updated_at": "2025-08-20T22:48:28.475203"
     },
@@ -337,6 +402,16 @@
             "Chorizo"
         ],
         "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/one_pot_tex_mex/steps/step1.jpg",
+            "/assets/images/one_pot_tex_mex/steps/step2.jpg",
+            "/assets/images/one_pot_tex_mex/steps/step3.jpg",
+            "/assets/images/one_pot_tex_mex/steps/step4.jpg",
+            "/assets/images/one_pot_tex_mex/steps/step5.jpg",
+            "/assets/images/one_pot_tex_mex/steps/step6.jpg",
+            "/assets/images/one_pot_tex_mex/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.476146",
         "updated_at": "2025-08-20T22:48:28.476156"
     },
@@ -349,6 +424,16 @@
             "Potatoes"
         ],
         "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/boeuf_bistrot/steps/step1.jpg",
+            "/assets/images/boeuf_bistrot/steps/step2.jpg",
+            "/assets/images/boeuf_bistrot/steps/step3.jpg",
+            "/assets/images/boeuf_bistrot/steps/step4.jpg",
+            "/assets/images/boeuf_bistrot/steps/step5.jpg",
+            "/assets/images/boeuf_bistrot/steps/step6.jpg",
+            "/assets/images/boeuf_bistrot/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.477309",
         "updated_at": "2025-08-20T22:48:28.477319"
     },
@@ -361,6 +446,16 @@
             "B\u0153uf"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/manti_turc/steps/step1.jpg",
+            "/assets/images/manti_turc/steps/step2.jpg",
+            "/assets/images/manti_turc/steps/step3.jpg",
+            "/assets/images/manti_turc/steps/step4.jpg",
+            "/assets/images/manti_turc/steps/step5.jpg",
+            "/assets/images/manti_turc/steps/step6.jpg",
+            "/assets/images/manti_turc/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.478473",
         "updated_at": "2025-08-20T22:48:28.478485"
     },
@@ -373,6 +468,16 @@
             "V\u00e9g\u00e9tarien"
         ],
         "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/salade_couscous_perle/steps/step1.jpg",
+            "/assets/images/salade_couscous_perle/steps/step2.jpg",
+            "/assets/images/salade_couscous_perle/steps/step3.jpg",
+            "/assets/images/salade_couscous_perle/steps/step4.jpg",
+            "/assets/images/salade_couscous_perle/steps/step5.jpg",
+            "/assets/images/salade_couscous_perle/steps/step6.jpg",
+            "/assets/images/salade_couscous_perle/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.480111",
         "updated_at": "2025-08-20T22:48:28.480128"
     },
@@ -386,6 +491,14 @@
             "Patate Douce"
         ],
         "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/mijote_curry_jaune/steps/step1.jpg",
+            "/assets/images/mijote_curry_jaune/steps/step2.jpg",
+            "/assets/images/mijote_curry_jaune/steps/step3.jpg",
+            "/assets/images/mijote_curry_jaune/steps/step4.jpg",
+            "/assets/images/mijote_curry_jaune/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.483443",
         "updated_at": "2025-08-20T22:48:28.483459"
     },
@@ -399,6 +512,16 @@
             "Riz"
         ],
         "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/poulet_frit_coreen/steps/step1.jpg",
+            "/assets/images/poulet_frit_coreen/steps/step2.jpg",
+            "/assets/images/poulet_frit_coreen/steps/step3.jpg",
+            "/assets/images/poulet_frit_coreen/steps/step4.jpg",
+            "/assets/images/poulet_frit_coreen/steps/step5.jpg",
+            "/assets/images/poulet_frit_coreen/steps/step6.jpg",
+            "/assets/images/poulet_frit_coreen/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.484423",
         "updated_at": "2025-08-20T22:48:28.484432"
     },
@@ -411,6 +534,14 @@
             "Poulet"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/mafe/steps/step1.jpg",
+            "/assets/images/mafe/steps/step2.jpg",
+            "/assets/images/mafe/steps/step3.jpg",
+            "/assets/images/mafe/steps/step4.jpg",
+            "/assets/images/mafe/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.485473",
         "updated_at": "2025-08-20T22:48:28.485484"
     },
@@ -423,6 +554,14 @@
             "Porc"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/pates_carbo/steps/step1.jpg",
+            "/assets/images/pates_carbo/steps/step2.jpg",
+            "/assets/images/pates_carbo/steps/step3.jpg",
+            "/assets/images/pates_carbo/steps/step4.jpg",
+            "/assets/images/pates_carbo/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.486730",
         "updated_at": "2025-08-20T22:48:28.486743"
     },
@@ -435,6 +574,14 @@
             "Porc"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/burrito/steps/step1.jpg",
+            "/assets/images/burrito/steps/step2.jpg",
+            "/assets/images/burrito/steps/step3.jpg",
+            "/assets/images/burrito/steps/step4.jpg",
+            "/assets/images/burrito/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.488395",
         "updated_at": "2025-08-20T22:48:28.488405"
     },
@@ -447,6 +594,16 @@
             "Semoule"
         ],
         "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/kefta/steps/step1.jpg",
+            "/assets/images/kefta/steps/step2.jpg",
+            "/assets/images/kefta/steps/step3.jpg",
+            "/assets/images/kefta/steps/step4.jpg",
+            "/assets/images/kefta/steps/step5.jpg",
+            "/assets/images/kefta/steps/step6.jpg",
+            "/assets/images/kefta/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.489326",
         "updated_at": "2025-08-20T22:48:28.489336"
     },
@@ -459,6 +616,16 @@
             "Riz"
         ],
         "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/porc_caramel/steps/step1.jpg",
+            "/assets/images/porc_caramel/steps/step2.jpg",
+            "/assets/images/porc_caramel/steps/step3.jpg",
+            "/assets/images/porc_caramel/steps/step4.jpg",
+            "/assets/images/porc_caramel/steps/step5.jpg",
+            "/assets/images/porc_caramel/steps/step6.jpg",
+            "/assets/images/porc_caramel/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.490328",
         "updated_at": "2025-08-20T22:48:28.490340"
     },
@@ -471,6 +638,14 @@
             "Porc"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/taquito/steps/step1.jpg",
+            "/assets/images/taquito/steps/step2.jpg",
+            "/assets/images/taquito/steps/step3.jpg",
+            "/assets/images/taquito/steps/step4.jpg",
+            "/assets/images/taquito/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.491937",
         "updated_at": "2025-08-20T22:48:28.491949"
     },
@@ -483,6 +658,14 @@
             "Dinde"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/wok_cumin/steps/step1.jpg",
+            "/assets/images/wok_cumin/steps/step2.jpg",
+            "/assets/images/wok_cumin/steps/step3.jpg",
+            "/assets/images/wok_cumin/steps/step4.jpg",
+            "/assets/images/wok_cumin/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.493245",
         "updated_at": "2025-08-20T22:48:28.493254"
     },
@@ -491,10 +674,20 @@
         "nom": "Riz saut\u00e9 chinois multi-l\u00e9gumes au soja",
         "image_path": "/assets/images/riz_saute/plat.jpg",
         "categories": [
-            "V\u00e9g\u00e9tarien",
-            "Riz"
+            "Riz",
+            "V\u00e9g\u00e9tarien"
         ],
         "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/riz_saute/steps/step1.jpg",
+            "/assets/images/riz_saute/steps/step2.jpg",
+            "/assets/images/riz_saute/steps/step3.jpg",
+            "/assets/images/riz_saute/steps/step4.jpg",
+            "/assets/images/riz_saute/steps/step5.jpg",
+            "/assets/images/riz_saute/steps/step6.jpg",
+            "/assets/images/riz_saute/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.494961",
         "updated_at": "2025-08-20T22:48:28.494974"
     },
@@ -507,6 +700,16 @@
             "Frites"
         ],
         "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/poulet_frites/steps/step1.jpg",
+            "/assets/images/poulet_frites/steps/step2.jpg",
+            "/assets/images/poulet_frites/steps/step3.jpg",
+            "/assets/images/poulet_frites/steps/step4.jpg",
+            "/assets/images/poulet_frites/steps/step5.jpg",
+            "/assets/images/poulet_frites/steps/step6.jpg",
+            "/assets/images/poulet_frites/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.496129",
         "updated_at": "2025-08-20T22:48:28.496141"
     },
@@ -519,6 +722,14 @@
             "B\u0153uf"
         ],
         "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/wok_boeuf/steps/step1.jpg",
+            "/assets/images/wok_boeuf/steps/step2.jpg",
+            "/assets/images/wok_boeuf/steps/step3.jpg",
+            "/assets/images/wok_boeuf/steps/step4.jpg",
+            "/assets/images/wok_boeuf/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.497793",
         "updated_at": "2025-08-20T22:48:28.497809"
     },
@@ -531,6 +742,16 @@
             "Potatoes"
         ],
         "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/poulet_dore_fraise/steps/step1.jpg",
+            "/assets/images/poulet_dore_fraise/steps/step2.jpg",
+            "/assets/images/poulet_dore_fraise/steps/step3.jpg",
+            "/assets/images/poulet_dore_fraise/steps/step4.jpg",
+            "/assets/images/poulet_dore_fraise/steps/step5.jpg",
+            "/assets/images/poulet_dore_fraise/steps/step6.jpg",
+            "/assets/images/poulet_dore_fraise/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.499857",
         "updated_at": "2025-08-20T22:48:28.499872"
     },
@@ -544,6 +765,16 @@
             "Panko"
         ],
         "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/cordon_bleu/steps/step1.jpg",
+            "/assets/images/cordon_bleu/steps/step2.jpg",
+            "/assets/images/cordon_bleu/steps/step3.jpg",
+            "/assets/images/cordon_bleu/steps/step4.jpg",
+            "/assets/images/cordon_bleu/steps/step5.jpg",
+            "/assets/images/cordon_bleu/steps/step6.jpg",
+            "/assets/images/cordon_bleu/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.502001",
         "updated_at": "2025-08-20T22:48:28.502015"
     },
@@ -556,6 +787,14 @@
             "Jambon"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/pizza_naan/steps/step1.jpg",
+            "/assets/images/pizza_naan/steps/step2.jpg",
+            "/assets/images/pizza_naan/steps/step3.jpg",
+            "/assets/images/pizza_naan/steps/step4.jpg",
+            "/assets/images/pizza_naan/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.505187",
         "updated_at": "2025-08-20T22:48:28.505202"
     },
@@ -567,6 +806,16 @@
             "B\u0153uf"
         ],
         "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/pave_estragon/steps/step1.jpg",
+            "/assets/images/pave_estragon/steps/step2.jpg",
+            "/assets/images/pave_estragon/steps/step3.jpg",
+            "/assets/images/pave_estragon/steps/step4.jpg",
+            "/assets/images/pave_estragon/steps/step5.jpg",
+            "/assets/images/pave_estragon/steps/step6.jpg",
+            "/assets/images/pave_estragon/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.507468",
         "updated_at": "2025-08-20T22:48:28.507482"
     },
@@ -579,6 +828,14 @@
             "Porc"
         ],
         "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/pates_montagnardes/steps/step1.jpg",
+            "/assets/images/pates_montagnardes/steps/step2.jpg",
+            "/assets/images/pates_montagnardes/steps/step3.jpg",
+            "/assets/images/pates_montagnardes/steps/step4.jpg",
+            "/assets/images/pates_montagnardes/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.508865",
         "updated_at": "2025-08-20T22:48:28.508876"
     },
@@ -591,6 +848,16 @@
             "B\u0153uf"
         ],
         "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/burger_truffe/steps/step1.jpg",
+            "/assets/images/burger_truffe/steps/step2.jpg",
+            "/assets/images/burger_truffe/steps/step3.jpg",
+            "/assets/images/burger_truffe/steps/step4.jpg",
+            "/assets/images/burger_truffe/steps/step5.jpg",
+            "/assets/images/burger_truffe/steps/step6.jpg",
+            "/assets/images/burger_truffe/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.510212",
         "updated_at": "2025-08-20T22:48:28.510223"
     },
@@ -603,20 +870,16 @@
             "Panko"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/schnitzel_porc/steps/step1.jpg",
+            "/assets/images/schnitzel_porc/steps/step2.jpg",
+            "/assets/images/schnitzel_porc/steps/step3.jpg",
+            "/assets/images/schnitzel_porc/steps/step4.jpg",
+            "/assets/images/schnitzel_porc/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.511368",
         "updated_at": "2025-08-20T22:48:28.511376"
-    },
-    "Recette.56e8ac65-3e41-4e65-a7c0-f501811d4dbd": {
-        "id": "56e8ac65-3e41-4e65-a7c0-f501811d4dbd",
-        "nom": "Wok de nouilles b\u0153uf hach\u00e9 & l\u00e9gumes saut\u00e9s",
-        "image_path": "/assets/images/wok_boeuf_hache/plat.jpg",
-        "categories": [
-            "Nouilles",
-            "B\u0153uf"
-        ],
-        "used": null,
-        "created_at": "2025-08-20T22:48:28.512868",
-        "updated_at": "2025-08-20T22:48:28.512879"
     },
     "Recette.329dcadd-2931-4996-83b7-9a09a4e29941": {
         "id": "329dcadd-2931-4996-83b7-9a09a4e29941",
@@ -628,6 +891,14 @@
             "Nouilles"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/curry_dinde/steps/step1.jpg",
+            "/assets/images/curry_dinde/steps/step2.jpg",
+            "/assets/images/curry_dinde/steps/step3.jpg",
+            "/assets/images/curry_dinde/steps/step4.jpg",
+            "/assets/images/curry_dinde/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.515018",
         "updated_at": "2025-08-20T22:48:28.515032"
     },
@@ -640,6 +911,16 @@
             "Riz"
         ],
         "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/burrito_bowl/steps/step1.jpg",
+            "/assets/images/burrito_bowl/steps/step2.jpg",
+            "/assets/images/burrito_bowl/steps/step3.jpg",
+            "/assets/images/burrito_bowl/steps/step4.jpg",
+            "/assets/images/burrito_bowl/steps/step5.jpg",
+            "/assets/images/burrito_bowl/steps/step6.jpg",
+            "/assets/images/burrito_bowl/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.518640",
         "updated_at": "2025-08-20T22:48:28.518666"
     },
@@ -652,6 +933,14 @@
             "B\u0153uf"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/nouilles_boeuf_saute/steps/step1.jpg",
+            "/assets/images/nouilles_boeuf_saute/steps/step2.jpg",
+            "/assets/images/nouilles_boeuf_saute/steps/step3.jpg",
+            "/assets/images/nouilles_boeuf_saute/steps/step4.jpg",
+            "/assets/images/nouilles_boeuf_saute/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.520859",
         "updated_at": "2025-08-20T22:48:28.520869"
     },
@@ -664,6 +953,16 @@
             "Riz"
         ],
         "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/tacos_poulet_teriyaki/steps/step1.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/step2.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/step3.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/step4.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/step5.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/step6.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.522343",
         "updated_at": "2025-08-20T22:48:28.522353"
     },
@@ -675,6 +974,16 @@
             "B\u0153uf"
         ],
         "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/boeuf_piquant/steps/step1.jpg",
+            "/assets/images/boeuf_piquant/steps/step2.jpg",
+            "/assets/images/boeuf_piquant/steps/step3.jpg",
+            "/assets/images/boeuf_piquant/steps/step4.jpg",
+            "/assets/images/boeuf_piquant/steps/step5.jpg",
+            "/assets/images/boeuf_piquant/steps/step6.jpg",
+            "/assets/images/boeuf_piquant/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.523695",
         "updated_at": "2025-08-20T22:48:28.523707"
     },
@@ -686,6 +995,16 @@
             "Porc"
         ],
         "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/porc_marrons/steps/step1.jpg",
+            "/assets/images/porc_marrons/steps/step2.jpg",
+            "/assets/images/porc_marrons/steps/step3.jpg",
+            "/assets/images/porc_marrons/steps/step4.jpg",
+            "/assets/images/porc_marrons/steps/step5.jpg",
+            "/assets/images/porc_marrons/steps/step6.jpg",
+            "/assets/images/porc_marrons/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.525408",
         "updated_at": "2025-08-20T22:48:28.525419"
     },
@@ -698,6 +1017,14 @@
             "Nouilles"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/bicol_express/steps/step1.jpg",
+            "/assets/images/bicol_express/steps/step2.jpg",
+            "/assets/images/bicol_express/steps/step3.jpg",
+            "/assets/images/bicol_express/steps/step4.jpg",
+            "/assets/images/bicol_express/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.527293",
         "updated_at": "2025-08-20T22:48:28.527309"
     },
@@ -710,6 +1037,16 @@
             "Riz"
         ],
         "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/taco_bowl/steps/step1.jpg",
+            "/assets/images/taco_bowl/steps/step2.jpg",
+            "/assets/images/taco_bowl/steps/step3.jpg",
+            "/assets/images/taco_bowl/steps/step4.jpg",
+            "/assets/images/taco_bowl/steps/step5.jpg",
+            "/assets/images/taco_bowl/steps/step6.jpg",
+            "/assets/images/taco_bowl/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.528717",
         "updated_at": "2025-08-20T22:48:28.528729"
     },
@@ -722,6 +1059,14 @@
             "B\u0153uf"
         ],
         "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/penne_boeuf/steps/step1.jpg",
+            "/assets/images/penne_boeuf/steps/step2.jpg",
+            "/assets/images/penne_boeuf/steps/step3.jpg",
+            "/assets/images/penne_boeuf/steps/step4.jpg",
+            "/assets/images/penne_boeuf/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.530447",
         "updated_at": "2025-08-20T22:48:28.530461"
     },
@@ -734,6 +1079,16 @@
             "Poulet"
         ],
         "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/pitas_poulet/steps/step1.jpg",
+            "/assets/images/pitas_poulet/steps/step2.jpg",
+            "/assets/images/pitas_poulet/steps/step3.jpg",
+            "/assets/images/pitas_poulet/steps/step4.jpg",
+            "/assets/images/pitas_poulet/steps/step5.jpg",
+            "/assets/images/pitas_poulet/steps/step6.jpg",
+            "/assets/images/pitas_poulet/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.534312",
         "updated_at": "2025-08-20T22:48:28.534327"
     },
@@ -746,6 +1101,14 @@
             "Jambon"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/spaghetti_pesto/steps/step1.jpg",
+            "/assets/images/spaghetti_pesto/steps/step2.jpg",
+            "/assets/images/spaghetti_pesto/steps/step3.jpg",
+            "/assets/images/spaghetti_pesto/steps/step4.jpg",
+            "/assets/images/spaghetti_pesto/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.537794",
         "updated_at": "2025-08-20T22:48:28.537806"
     },
@@ -757,6 +1120,16 @@
             "Canard"
         ],
         "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/canette_maroc/steps/step1.jpg",
+            "/assets/images/canette_maroc/steps/step2.jpg",
+            "/assets/images/canette_maroc/steps/step3.jpg",
+            "/assets/images/canette_maroc/steps/step4.jpg",
+            "/assets/images/canette_maroc/steps/step5.jpg",
+            "/assets/images/canette_maroc/steps/step6.jpg",
+            "/assets/images/canette_maroc/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.539464",
         "updated_at": "2025-08-20T22:48:28.539477"
     },
@@ -770,6 +1143,16 @@
             "Potatoes"
         ],
         "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/tenders/steps/step1.jpg",
+            "/assets/images/tenders/steps/step2.jpg",
+            "/assets/images/tenders/steps/step3.jpg",
+            "/assets/images/tenders/steps/step4.jpg",
+            "/assets/images/tenders/steps/step5.jpg",
+            "/assets/images/tenders/steps/step6.jpg",
+            "/assets/images/tenders/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.541621",
         "updated_at": "2025-08-20T22:48:28.541635"
     },
@@ -782,6 +1165,14 @@
             "Nouilles"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/poulet_satay/steps/step1.jpg",
+            "/assets/images/poulet_satay/steps/step2.jpg",
+            "/assets/images/poulet_satay/steps/step3.jpg",
+            "/assets/images/poulet_satay/steps/step4.jpg",
+            "/assets/images/poulet_satay/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.544284",
         "updated_at": "2025-08-20T22:48:28.544295"
     },
@@ -794,6 +1185,14 @@
             "Nouilles"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/tagliata/steps/step1.jpg",
+            "/assets/images/tagliata/steps/step2.jpg",
+            "/assets/images/tagliata/steps/step3.jpg",
+            "/assets/images/tagliata/steps/step4.jpg",
+            "/assets/images/tagliata/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.545722",
         "updated_at": "2025-08-20T22:48:28.545733"
     },
@@ -807,6 +1206,16 @@
             "Panko"
         ],
         "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/poulet_zaatar/steps/step1.jpg",
+            "/assets/images/poulet_zaatar/steps/step2.jpg",
+            "/assets/images/poulet_zaatar/steps/step3.jpg",
+            "/assets/images/poulet_zaatar/steps/step4.jpg",
+            "/assets/images/poulet_zaatar/steps/step5.jpg",
+            "/assets/images/poulet_zaatar/steps/step6.jpg",
+            "/assets/images/poulet_zaatar/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.549640",
         "updated_at": "2025-08-20T22:48:28.549656"
     },
@@ -819,6 +1228,14 @@
             "Poulet"
         ],
         "used": null,
+        "temps_total": "15 minutes",
+        "steps": [
+            "/assets/images/burger_poulet/steps/step1.jpg",
+            "/assets/images/burger_poulet/steps/step2.jpg",
+            "/assets/images/burger_poulet/steps/step3.jpg",
+            "/assets/images/burger_poulet/steps/step4.jpg",
+            "/assets/images/burger_poulet/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.554723",
         "updated_at": "2025-08-20T22:48:28.554737"
     },
@@ -831,42 +1248,76 @@
             "Poulet"
         ],
         "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/penne_poulet/steps/step1.jpg",
+            "/assets/images/penne_poulet/steps/step2.jpg",
+            "/assets/images/penne_poulet/steps/step3.jpg",
+            "/assets/images/penne_poulet/steps/step4.jpg",
+            "/assets/images/penne_poulet/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.557375",
         "updated_at": "2025-08-20T22:48:28.557401"
     },
     "Recette.9da7a3ba-e1c7-4af9-b186-ff8eefd2cff5": {
         "id": "9da7a3ba-e1c7-4af9-b186-ff8eefd2cff5",
-        "nom": "Le V\u00e9g\u00e9 : salade de nouilles sauce cacahu\u00e8tes",
+        "nom": "Le V\u00e9g\u00e9 : salade de nouilles sauce satay",
         "image_path": "/assets/images/salade_nouilles/plat.jpg",
         "categories": [
             "V\u00e9g\u00e9tarien",
             "Nouilles"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/salade_nouilles/steps/step1.jpg",
+            "/assets/images/salade_nouilles/steps/step2.jpg",
+            "/assets/images/salade_nouilles/steps/step3.jpg",
+            "/assets/images/salade_nouilles/steps/step4.jpg",
+            "/assets/images/salade_nouilles/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.559678",
         "updated_at": "2025-08-20T22:48:28.559691"
     },
     "Recette.a653467d-e504-4ac1-905d-258b7c998054": {
         "id": "a653467d-e504-4ac1-905d-258b7c998054",
-        "nom": "Risotto couscous perl\u00e9, fromage frais & basilic",
+        "nom": "Risotto de couscous perl\u00e9 & duo de tomates",
         "image_path": "/assets/images/risotto_couscous_perle/plat.jpg",
         "categories": [
             "Couscous Perl\u00e9",
             "V\u00e9g\u00e9tarien"
         ],
         "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/risotto_couscous_perle/steps/step1.jpg",
+            "/assets/images/risotto_couscous_perle/steps/step2.jpg",
+            "/assets/images/risotto_couscous_perle/steps/step3.jpg",
+            "/assets/images/risotto_couscous_perle/steps/step4.jpg",
+            "/assets/images/risotto_couscous_perle/steps/step5.jpg",
+            "/assets/images/risotto_couscous_perle/steps/step6.jpg",
+            "/assets/images/risotto_couscous_perle/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.564012",
         "updated_at": "2025-08-20T22:48:28.564024"
     },
     "Recette.1ad36126-6384-4d0b-8b68-5bd170746029": {
         "id": "1ad36126-6384-4d0b-8b68-5bd170746029",
-        "nom": "P\u00e2tes cr\u00e9meuses au porc hach\u00e9 & paprika fum\u00e9",
+        "nom": "One pot : casarecce cr\u00e9meuses & porc hach\u00e9",
         "image_path": "/assets/images/pates_porc_hache/plat.jpg",
         "categories": [
             "Nouilles",
             "Porc"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/pates_porc_hache/steps/step1.jpg",
+            "/assets/images/pates_porc_hache/steps/step2.jpg",
+            "/assets/images/pates_porc_hache/steps/step3.jpg",
+            "/assets/images/pates_porc_hache/steps/step4.jpg",
+            "/assets/images/pates_porc_hache/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.567125",
         "updated_at": "2025-08-20T22:48:28.567141"
     },
@@ -879,6 +1330,14 @@
             "Dinde"
         ],
         "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/burger_dinde/steps/step1.jpg",
+            "/assets/images/burger_dinde/steps/step2.jpg",
+            "/assets/images/burger_dinde/steps/step3.jpg",
+            "/assets/images/burger_dinde/steps/step4.jpg",
+            "/assets/images/burger_dinde/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.571887",
         "updated_at": "2025-08-20T22:48:28.571900"
     },
@@ -891,6 +1350,14 @@
             "Dinde"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/dinde_soba/steps/step1.jpg",
+            "/assets/images/dinde_soba/steps/step2.jpg",
+            "/assets/images/dinde_soba/steps/step3.jpg",
+            "/assets/images/dinde_soba/steps/step4.jpg",
+            "/assets/images/dinde_soba/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.581072",
         "updated_at": "2025-08-21T19:37:58.049611"
     },
@@ -904,30 +1371,38 @@
             "Nouilles"
         ],
         "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/poulet_parmigiana/steps/step1.jpg",
+            "/assets/images/poulet_parmigiana/steps/step2.jpg",
+            "/assets/images/poulet_parmigiana/steps/step3.jpg",
+            "/assets/images/poulet_parmigiana/steps/step4.jpg",
+            "/assets/images/poulet_parmigiana/steps/step5.jpg",
+            "/assets/images/poulet_parmigiana/steps/step6.jpg",
+            "/assets/images/poulet_parmigiana/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.582841",
         "updated_at": "2025-08-20T22:48:28.582853"
     },
-    "Recette.856013fa-c415-4966-8a9d-866cf8c3108e": {
-        "id": "856013fa-c415-4966-8a9d-866cf8c3108e",
-        "nom": "Penne & b\u0153uf hach\u00e9 aux saveurs mexicaines",
-        "image_path": "/assets/images/penne_boeuf_hache/plat.jpg",
-        "categories": [
-            "Nouilles",
-            "B\u0153uf"
-        ],
-        "used": null,
-        "created_at": "2025-08-20T22:48:28.585375",
-        "updated_at": "2025-08-20T22:48:28.585388"
-    },
     "Recette.5b345db0-6407-4dda-8c10-d6eba4b7517c": {
         "id": "5b345db0-6407-4dda-8c10-d6eba4b7517c",
-        "nom": "Poulet marin\u00e9 citron-ail fa\u00e7on chich taouk",
+        "nom": "Poulet marin\u00e9 & fenouil aux saveurs du Moyen-orient",
         "image_path": "/assets/images/chich_taouk/plat.jpg",
         "categories": [
             "Bl\u00e9",
             "Poulet"
         ],
         "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/chich_taouk/steps/step1.jpg",
+            "/assets/images/chich_taouk/steps/step2.jpg",
+            "/assets/images/chich_taouk/steps/step3.jpg",
+            "/assets/images/chich_taouk/steps/step4.jpg",
+            "/assets/images/chich_taouk/steps/step5.jpg",
+            "/assets/images/chich_taouk/steps/step6.jpg",
+            "/assets/images/chich_taouk/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.588239",
         "updated_at": "2025-08-20T22:48:28.588249"
     },
@@ -940,6 +1415,16 @@
             "Dinde"
         ],
         "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/nouilles_froides/steps/step1.jpg",
+            "/assets/images/nouilles_froides/steps/step2.jpg",
+            "/assets/images/nouilles_froides/steps/step3.jpg",
+            "/assets/images/nouilles_froides/steps/step4.jpg",
+            "/assets/images/nouilles_froides/steps/step5.jpg",
+            "/assets/images/nouilles_froides/steps/step6.jpg",
+            "/assets/images/nouilles_froides/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.589791",
         "updated_at": "2025-08-20T22:48:28.589801"
     },
@@ -952,6 +1437,14 @@
             "B\u0153uf"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/wok_nouilles_boeuf/steps/step1.jpg",
+            "/assets/images/wok_nouilles_boeuf/steps/step2.jpg",
+            "/assets/images/wok_nouilles_boeuf/steps/step3.jpg",
+            "/assets/images/wok_nouilles_boeuf/steps/step4.jpg",
+            "/assets/images/wok_nouilles_boeuf/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.593768",
         "updated_at": "2025-08-20T22:48:28.593779"
     },
@@ -964,12 +1457,20 @@
             "Porc"
         ],
         "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/spaghetti_lardons/steps/step1.jpg",
+            "/assets/images/spaghetti_lardons/steps/step2.jpg",
+            "/assets/images/spaghetti_lardons/steps/step3.jpg",
+            "/assets/images/spaghetti_lardons/steps/step4.jpg",
+            "/assets/images/spaghetti_lardons/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.596580",
         "updated_at": "2025-08-20T22:48:28.596591"
     },
     "Recette.716d76c8-6a9f-45b6-a0ff-adf281264d79": {
         "id": "716d76c8-6a9f-45b6-a0ff-adf281264d79",
-        "nom": "Cuisse de poulet r\u00f4tie, riz & yaourt citronn\u00e9",
+        "nom": "Cuisse de poulet r\u00f4tie & riz \u00e0 l'orientale",
         "image_path": "/assets/images/poulet_roti/plat.jpg",
         "categories": [
             "Riz",
@@ -977,12 +1478,22 @@
             "Champignons"
         ],
         "used": null,
+        "temps_total": "50 minutes",
+        "steps": [
+            "/assets/images/poulet_roti/steps/step1.jpg",
+            "/assets/images/poulet_roti/steps/step2.jpg",
+            "/assets/images/poulet_roti/steps/step3.jpg",
+            "/assets/images/poulet_roti/steps/step4.jpg",
+            "/assets/images/poulet_roti/steps/step5.jpg",
+            "/assets/images/poulet_roti/steps/step6.jpg",
+            "/assets/images/poulet_roti/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.598507",
         "updated_at": "2025-08-20T22:48:28.598522"
     },
     "Recette.33ecd094-c700-4c33-a52f-68660504603f": {
         "id": "33ecd094-c700-4c33-a52f-68660504603f",
-        "nom": "Boulettes de porc, harissa & sauce peps herbac\u00e9e",
+        "nom": "Boulettes de porc, couscous perl\u00e9 & harissa",
         "image_path": "/assets/images/boulettes_porc/plat.jpg",
         "categories": [
             "Porc",
@@ -990,18 +1501,38 @@
             "Couscous Perl\u00e9"
         ],
         "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/boulettes_porc/steps/step1.jpg",
+            "/assets/images/boulettes_porc/steps/step2.jpg",
+            "/assets/images/boulettes_porc/steps/step3.jpg",
+            "/assets/images/boulettes_porc/steps/step4.jpg",
+            "/assets/images/boulettes_porc/steps/step5.jpg",
+            "/assets/images/boulettes_porc/steps/step6.jpg",
+            "/assets/images/boulettes_porc/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.602638",
         "updated_at": "2025-08-20T22:48:28.602652"
     },
     "Recette.7227f5a6-05ab-4937-9472-52d89b0c69b7": {
         "id": "7227f5a6-05ab-4937-9472-52d89b0c69b7",
-        "nom": "Poulet grill\u00e9 fa\u00e7on paprik\u00e0sh",
+        "nom": "Poulet fa\u00e7on paprik\u00e0sh",
         "image_path": "/assets/images/poulet_paprikash/plat.jpg",
         "categories": [
             "Nouilles",
             "Poulet"
         ],
         "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/poulet_paprikash/steps/step1.jpg",
+            "/assets/images/poulet_paprikash/steps/step2.jpg",
+            "/assets/images/poulet_paprikash/steps/step3.jpg",
+            "/assets/images/poulet_paprikash/steps/step4.jpg",
+            "/assets/images/poulet_paprikash/steps/step5.jpg",
+            "/assets/images/poulet_paprikash/steps/step6.jpg",
+            "/assets/images/poulet_paprikash/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.652027",
         "updated_at": "2025-08-20T22:48:28.652061"
     },
@@ -1014,6 +1545,14 @@
             "Poulet"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/poulet_teriyaki/steps/step1.jpg",
+            "/assets/images/poulet_teriyaki/steps/step2.jpg",
+            "/assets/images/poulet_teriyaki/steps/step3.jpg",
+            "/assets/images/poulet_teriyaki/steps/step4.jpg",
+            "/assets/images/poulet_teriyaki/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.655856",
         "updated_at": "2025-08-20T22:48:28.655871"
     },
@@ -1026,6 +1565,14 @@
             "Porc"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/nouilles_sautees_porc/steps/step1.jpg",
+            "/assets/images/nouilles_sautees_porc/steps/step2.jpg",
+            "/assets/images/nouilles_sautees_porc/steps/step3.jpg",
+            "/assets/images/nouilles_sautees_porc/steps/step4.jpg",
+            "/assets/images/nouilles_sautees_porc/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.664746",
         "updated_at": "2025-08-20T22:48:28.664759"
     },
@@ -1038,6 +1585,16 @@
             "B\u0153uf"
         ],
         "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/penne_ragu/steps/step1.jpg",
+            "/assets/images/penne_ragu/steps/step2.jpg",
+            "/assets/images/penne_ragu/steps/step3.jpg",
+            "/assets/images/penne_ragu/steps/step4.jpg",
+            "/assets/images/penne_ragu/steps/step5.jpg",
+            "/assets/images/penne_ragu/steps/step6.jpg",
+            "/assets/images/penne_ragu/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.667546",
         "updated_at": "2025-08-20T22:48:28.667557"
     },
@@ -1050,6 +1607,14 @@
             "Chorizo"
         ],
         "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/linguine_chorizo/steps/step1.jpg",
+            "/assets/images/linguine_chorizo/steps/step2.jpg",
+            "/assets/images/linguine_chorizo/steps/step3.jpg",
+            "/assets/images/linguine_chorizo/steps/step4.jpg",
+            "/assets/images/linguine_chorizo/steps/steps.txt"
+        ],
         "created_at": "2025-08-20T22:48:28.669644",
         "updated_at": "2025-08-20T22:48:28.669654"
     },
@@ -1062,6 +1627,16 @@
             "B\u0153uf"
         ],
         "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/orzo_fromages/steps/step1.jpg",
+            "/assets/images/orzo_fromages/steps/step2.jpg",
+            "/assets/images/orzo_fromages/steps/step3.jpg",
+            "/assets/images/orzo_fromages/steps/step4.jpg",
+            "/assets/images/orzo_fromages/steps/step5.jpg",
+            "/assets/images/orzo_fromages/steps/step6.jpg",
+            "/assets/images/orzo_fromages/steps/steps.txt"
+        ],
         "created_at": "2025-08-25T22:02:36.071577",
         "updated_at": "2025-08-25T22:02:36.071577"
     },
@@ -1074,6 +1649,16 @@
             "V\u00e9g\u00e9tarien"
         ],
         "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/orzo_pilaf/steps/step1.jpg",
+            "/assets/images/orzo_pilaf/steps/step2.jpg",
+            "/assets/images/orzo_pilaf/steps/step3.jpg",
+            "/assets/images/orzo_pilaf/steps/step4.jpg",
+            "/assets/images/orzo_pilaf/steps/step5.jpg",
+            "/assets/images/orzo_pilaf/steps/step6.jpg",
+            "/assets/images/orzo_pilaf/steps/steps.txt"
+        ],
         "created_at": "2025-08-25T22:04:25.546842",
         "updated_at": "2025-08-25T22:04:25.546842"
     },
@@ -1086,7 +1671,104 @@
             "Porc"
         ],
         "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/saucisse_toulouse/steps/step1.jpg",
+            "/assets/images/saucisse_toulouse/steps/step2.jpg",
+            "/assets/images/saucisse_toulouse/steps/step3.jpg",
+            "/assets/images/saucisse_toulouse/steps/step4.jpg",
+            "/assets/images/saucisse_toulouse/steps/steps.txt"
+        ],
         "created_at": "2025-08-25T22:06:32.459193",
         "updated_at": "2025-08-25T22:06:32.459193"
+    },
+    "Recette.7ab0036e-2aa4-43b7-a674-e0d56776ab0d": {
+        "id": "7ab0036e-2aa4-43b7-a674-e0d56776ab0d",
+        "nom": "Le Saloon Burger au poulet pan\u00e9",
+        "categories": [
+            "Burger",
+            "Poulet",
+            "Panko",
+            "Potatoes"
+        ],
+        "image_path": "/assets/images/saloon_burger/plat.jpg",
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/saloon_burger/steps/step1.jpg",
+            "/assets/images/saloon_burger/steps/step2.jpg",
+            "/assets/images/saloon_burger/steps/step3.jpg",
+            "/assets/images/saloon_burger/steps/step4.jpg",
+            "/assets/images/saloon_burger/steps/step5.jpg",
+            "/assets/images/saloon_burger/steps/step6.jpg",
+            "/assets/images/saloon_burger/steps/steps.txt"
+        ],
+        "created_at": "2025-08-30T21:49:29.535558",
+        "updated_at": "2025-08-30T21:49:29.535558"
+    },
+    "Recette.a50ea48a-2181-4e62-a99d-92e539c3b6e0": {
+        "id": "a50ea48a-2181-4e62-a99d-92e539c3b6e0",
+        "nom": "B\u00e1nh m\u00ec vietnamien au boeuf",
+        "categories": [
+            "B\u0153uf",
+            "Sandwich"
+        ],
+        "image_path": "/assets/images/banh_mi_boeuf/plat.jpg",
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/banh_mi_boeuf/steps/step1.jpg",
+            "/assets/images/banh_mi_boeuf/steps/step2.jpg",
+            "/assets/images/banh_mi_boeuf/steps/step3.jpg",
+            "/assets/images/banh_mi_boeuf/steps/step4.jpg",
+            "/assets/images/banh_mi_boeuf/steps/step5.jpg",
+            "/assets/images/banh_mi_boeuf/steps/step6.jpg",
+            "/assets/images/banh_mi_boeuf/steps/steps.txt"
+        ],
+        "created_at": "2025-08-30T21:55:09.863846",
+        "updated_at": "2025-08-30T21:55:09.863846"
+    },
+    "Recette.2c49f9ac-e0d2-4231-b314-d14542ca8926": {
+        "id": "2c49f9ac-e0d2-4231-b314-d14542ca8926",
+        "nom": "Soupe fa\u00e7on Miso Ramen au poulet",
+        "categories": [
+            "Ramen",
+            "Poulet",
+            "Champignons"
+        ],
+        "image_path": "/assets/images/ramen_miso_poulet/plat.jpg",
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/ramen_miso_poulet/steps/step1.jpg",
+            "/assets/images/ramen_miso_poulet/steps/step2.jpg",
+            "/assets/images/ramen_miso_poulet/steps/step3.jpg",
+            "/assets/images/ramen_miso_poulet/steps/step4.jpg",
+            "/assets/images/ramen_miso_poulet/steps/step5.jpg",
+            "/assets/images/ramen_miso_poulet/steps/step6.jpg",
+            "/assets/images/ramen_miso_poulet/steps/steps.txt"
+        ],
+        "created_at": "2025-08-30T22:00:42.803040",
+        "updated_at": "2025-08-30T22:00:42.803040"
+    },
+    "Recette.68e9265e-b550-4724-bc33-692dc883a581": {
+        "id": "68e9265e-b550-4724-bc33-692dc883a581",
+        "nom": "Miso ramen au porc, soja & portobello",
+        "categories": [
+            "Ramen",
+            "Porc"
+        ],
+        "image_path": "/assets/images/ramen_porc/plat.jpg",
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/ramen_porc/steps/step1.jpg",
+            "/assets/images/ramen_porc/steps/step2.jpg",
+            "/assets/images/ramen_porc/steps/step3.jpg",
+            "/assets/images/ramen_porc/steps/step4.jpg",
+            "/assets/images/ramen_porc/steps/steps.txt"
+        ],
+        "created_at": "2025-08-30T22:03:52.112548",
+        "updated_at": "2025-08-30T22:03:52.112548"
     }
 }

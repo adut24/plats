@@ -1,11 +1,2 @@
 #!/bin/sh
-python steps.py --url "https://www.hellofresh.fr/recipes/gyudon-bowl-de-boeuf-a-la-japonaise-67488e9d989edba91be33451" --slug "gyudon"
-python steps.py --url "https://www.hellofresh.fr/recipes/poelee-de-boeuf-a-la-cambodgienne-67488ec3705b9943d7cd65e5" --slug "poelee_cambodge"
-python steps.py --url "https://www.hellofresh.fr/recipes/bibimbap-coreen-porc-hache-miso-and-sesame-6788c923b2fcedf9e18c0373" --slug "bibimbap"
-python steps.py --url "https://www.hellofresh.fr/recipes/gratin-eclair-de-gnocchi-champis-and-epinards-67488ec6705b9943d7cd6603" --slug "gnocchi"
-python steps.py --url "https://www.hellofresh.fr/recipes/curry-vert-thai-au-poulet-67488eb6178a6fd9e2e0e850" --slug "curry_vert_thai"
-python steps.py --url "https://www.hellofresh.fr/recipes/wok-de-nouilles-au-poulet-epice-facon-bicol-66503daad7e2204fdd094c39" --slug "wok_bicol"
-python steps.py --url "https://www.hellofresh.fr/recipes/rajma-makhani-mijote-aux-haricots-noirs-67488ee2989edba91be33540" --slug "rajma"
-python steps.py --url "https://www.hellofresh.fr/recipes/one-pot-tex-mex-chorizo-riz-and-cheddar-67488ed7705b9943d7cd6649" --slug "one_pot_tex_mex"
-python steps.py --url "https://www.hellofresh.fr/recipes/pave-de-boeuf-and-potatoes-au-thym-facon-bistrot-67488ed8178a6fd9e2e0e8d3" --slug "boeuf_bistrot"
-python steps.py --url "https://www.hellofresh.fr/recipes/manti-turcs-revisites-pates-au-boeuf-67b48d33381832d770715928" --slug "manti_turc"
+python steps.py https://www.hellofresh.fr/recipes/miso-ramen-express-au-porc-and-soja-66cdd51c6041110ff0a4c647 ramen_porc
