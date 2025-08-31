@@ -1,25 +1,33 @@
 import { Component } from '@angular/core';
-import { AsyncPipe } from '@angular/common';
+import { AsyncPipe, NgClass } from '@angular/common';
 import { getISOWeek } from 'date-fns';
 import { ApiService, Recette } from '../../services/api';
-import { Observable, map } from 'rxjs';
+import { Observable, forkJoin, map } from 'rxjs';
 import { BADGE_COLOR } from '../../shared/badge-color';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-next-week',
-  imports: [AsyncPipe],
+  imports: [AsyncPipe, NgClass],
   templateUrl: './next-week.html',
   styleUrl: './next-week.scss'
 })
 export class NextWeek {
   private readonly recettes$: Observable<Recette[]>;
-
   private week_number: number;
+  selectedRecettes = new Set<string>();
+  hasPredefinedRecettes = false;
 
-  constructor(private api: ApiService) {
+  constructor(private api: ApiService, private router: Router) {
     this.week_number = getISOWeek(new Date()) + 1;
     this.recettes$ = this.api.getRecettes().pipe(
-      map((recettes: Recette[]) => this.buildRecettes(recettes))
+      map((recettes: Recette[]) => {
+        const build = this.buildRecettes(recettes)
+        this.hasPredefinedRecettes = build.some(
+          r => this.week_number === this.getWeekNumber(r.used)
+        );
+        return build;
+      })
     );
   }
 
@@ -29,7 +37,7 @@ export class NextWeek {
 
   private buildRecettes(all: Recette[]): Recette[] {
     let recettesSemaineProchaine = all.filter((recette) => this.week_number === this.getWeekNumber(recette.used));
-    return all;
+
     if (recettesSemaineProchaine.length !== 0) {
       return recettesSemaineProchaine;
     }
@@ -63,5 +71,42 @@ export class NextWeek {
 
   private getWeekNumber(date: Date | null): number {
     return date !== null ? getISOWeek(date) : -1;
+  }
+
+  onCardClick(recette: Recette) {
+    if (this.hasPredefinedRecettes) {
+      this.router.navigate(['/recipe', recette.id]);
+    } else {
+      if (this.selectedRecettes.has(recette.id)) {
+        this.selectedRecettes.delete(recette.id);
+      } else {
+        this.selectedRecettes.add(recette.id);
+      }
+    }
+  }
+
+  isSelected(recette: Recette): boolean {
+    return this.selectedRecettes.has(recette.id);
+  }
+
+  canValidate(): boolean {
+    return this.selectedRecettes.size >= 3 && this.selectedRecettes.size <= 4;
+  }
+
+  validateSelection() {
+    if (!this.canValidate()) return;
+
+    const requests = Array.from(this.selectedRecettes).map(id =>
+      this.api.updateUsageTrue(id)
+    );
+
+    forkJoin(requests).subscribe({
+      next: () => {
+        window.location.reload();
+      },
+      error: (err) => {
+        console.error('Erreur lors de la validation :', err);
+      }
+    });
   }
 }

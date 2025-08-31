@@ -1,5 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { differenceInWeeks } from 'date-fns';
+import { ApiService, Recette } from './services/api';
 import { Topbar } from './topbar/topbar';
 
 @Component({
@@ -8,6 +10,26 @@ import { Topbar } from './topbar/topbar';
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })
-export class App {
-  constructor() { }
+export class App implements OnInit {
+  constructor(private api: ApiService) {}
+
+  ngOnInit(): void {
+    this.cleanOldRecettes();
+  }
+
+  private cleanOldRecettes() {
+    this.api.getRecettes().subscribe({
+      next: (recettes: Recette[]) => {
+        for (const recette of recettes) {
+          if (recette.used && differenceInWeeks(new Date(), recette.used) > 4) {
+            this.api.updateUsageFalse(recette.id).subscribe({
+              next: () => console.log(`Recette ${recette.nom} réinitialisée`),
+              error: (err) => console.error(`Erreur reset recette ${recette.id}`, err)
+            });
+          }
+        }
+      },
+      error: (err) => console.error('Erreur récupération recettes', err)
+    });
+  }
 }

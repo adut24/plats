@@ -8,4 +8,4 @@ import { RouterModule } from '@angular/router';
   templateUrl: './topbar.html',
   styleUrls: ['./topbar.scss']
 })
-export class Topbar {}
+export class Topbar { }

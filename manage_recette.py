@@ -12,6 +12,17 @@ from collections import OrderedDict
 from models.recette import Recette
 from datetime import datetime
 import uuid
+import shlex
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+import time
+import re
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import unicodedata
+from PIL import Image
+import io
 
 
 def fetch_html(url: str) -> str:
@@ -109,22 +120,24 @@ def update_recettes(json_file: Path, url: str, slug: str, assets_dir: Path):
     if not key:
         raise ValueError(f'Aucune recette trouvée avec le nom {recipe_name} dans {json_file}.')
 
-    temps_total, steps_paths = parse_recipe_page(url, slug, assets_dir)
+    # temps_total, steps_paths = parse_recipe_page(url, slug, assets_dir)
+    ingredients_path = parse_ingredients(url, slug, assets_dir)
 
     recette = recettes[key]
     new_recette = OrderedDict()
     for k, v in recette.items():
         new_recette[k] = v
-        if k == 'used':
-            new_recette['temps_total'] = temps_total
-            new_recette['steps'] = steps_paths
+        if k == 'steps':
+            # new_recette['temps_total'] = temps_total
+            # new_recette['steps'] = steps_paths
+            new_recette['ingredients'] = ingredients_path
 
     recettes[key] = new_recette
 
     with open(json_file, 'w', encoding='utf-8') as f:
         json.dump(recettes, f, indent=4)
 
-    print(f'✅ Recette {recipe_name} mise à jour avec temps_total={temps_total} et {len(steps_paths)-1} étapes.')
+    print(f'✅ Recette {recipe_name} mise à jour.')
 
 
 def parse_recipe_name(soup: BeautifulSoup):
@@ -168,18 +181,119 @@ def add_recette(url: str, slug: str, assets_dir: Path = Path('assets/images')):
             attributs = dict()
             attributs.update({"id": str(uuid.uuid4())})
             attributs.update({"nom": recipe_name})
-            attributs.update({"categories": input("categories : ").split(' ')})
+            attributs.update({"categories": shlex.split(input("categories : "))})
             attributs.update({"image_path": image_path.as_posix().removeprefix('src')})
             attributs.update({"used": None})
             temps_total, steps_paths = parse_recipe_page(url, slug, assets_dir)
+            ingredients_path = parse_ingredients(url, slug, assets_dir)
             attributs.update({"temps_total": temps_total})
             attributs.update({"steps": steps_paths})
+            attributs.update({"ingredients": ingredients_path})
             now = datetime.now().isoformat()
             attributs.update({"created_at": now})
             attributs.update({"updated_at": now})
             recette = Recette(**attributs)
             recette.new()
             print(f'✅ Recette {recipe_name} ajoutée avec temps_total={temps_total} et {len(steps_paths)-1} étapes.')
+
+
+def clean_ingredient_name(name: str) -> str:
+    """Nettoie le nom de l’ingrédient pour en faire un nom de fichier simple."""
+    name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("utf-8")
+    name = name.lower().strip()
+    stopwords = {"de", "du", "des", "d", "en", "au", "aux", "la", "le", "les"}
+    tokens = [t for t in re.split(r"\W+", name) if t and t not in stopwords]
+
+    return "_".join(tokens)
+
+def parse_ingredients(url: str, slug: str, assets_dir: Path):
+    chrome_options = Options()
+    chrome_options.add_argument("--headless=new")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--window-size=1920,1080")
+    chrome_options.add_argument(
+        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    )
+    driver = webdriver.Chrome(options=chrome_options)
+
+    driver.get(url)
+
+    wait = WebDriverWait(driver, 10)
+    btn = wait.until(
+        EC.element_to_be_clickable((By.CSS_SELECTOR, 'button[data-pseudocontent="2"]'))
+    )
+    btn.click()
+    time.sleep(2)
+
+    # dossier recette (pour ingredients.txt)
+    ing_dir = Path("src") / assets_dir / slug
+    os.makedirs(ing_dir, exist_ok=True)
+    ingredients_txt_path = ing_dir / "ingredients.txt"
+
+    # dossier global mutualisé pour les images
+    global_ing_dir = Path("src/assets/images/ingredients")
+    os.makedirs(global_ing_dir, exist_ok=True)
+
+    ingredients = []
+    divs = driver.find_elements(
+        By.CSS_SELECTOR, 'div[data-test-id="ingredient-item-shipped"]'
+    )
+
+    for div in divs:
+        parts = []
+        text_divs = div.find_elements(By.TAG_NAME, "div")
+        if len(text_divs) >= 2:
+            p_tags = text_divs[1].find_elements(By.TAG_NAME, "p")
+            lines = [p.text.strip() for p in p_tags if p.text.strip()]
+
+            quantity = lines[0] if len(lines) > 0 else ""
+            ingredient_name = lines[1] if len(lines) > 1 else ""
+            allergen = lines[2] if len(lines) > 2 else ""
+
+            clean_name = clean_ingredient_name(ingredient_name)
+
+            try:
+                img = div.find_element(By.TAG_NAME, "img")
+                if img:
+                    img_src = img.get_attribute("src") or img.get_attribute("data-src")
+                    if img_src:
+                        filename = f"{clean_name}.png"
+                        filepath = global_ing_dir / filename
+
+                        if not filepath.exists():
+                            resp = requests.get(img_src, stream=True, timeout=30)
+                            resp.raise_for_status()
+                            img_obj = Image.open(io.BytesIO(resp.content)).convert("RGBA")
+                            img_obj.save(filepath, format="PNG")
+
+                        parts.append(f"[IMG] /assets/images/ingredients/{filename}")
+            except Exception:
+                pass
+
+            segments = []
+            if quantity.strip():
+                segments.append(quantity.strip())
+            if ingredient_name.strip():
+                segments.append(ingredient_name.strip())
+            if allergen.strip():
+                segments.append(allergen.strip())
+
+            full_text = " | ".join(segments)
+            full_text = re.sub(r"(\d)([A-Za-zÀ-ÖØ-öø-ÿ])", r"\1 \2", full_text)
+
+            if full_text:
+                parts.append(full_text)
+
+        if parts:
+            ingredients.append("- " + " | ".join(parts))
+
+    driver.quit()
+
+    if ingredients:
+        with open(ingredients_txt_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(ingredients))
+        return f"/{assets_dir.as_posix()}/{slug}/ingredients.txt"
+    return None
 
 if __name__ == '__main__':
     try:

@@ -2,7 +2,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from models import storage
-from datetime import datetime
+from datetime import datetime, timedelta
 
 app = FastAPI()
 
@@ -27,7 +27,10 @@ def update_usage_true(id: str):
     recette = storage.get(id)
     if not recette:
         return None
-    recette.used = datetime.now()
+    now = datetime.now()
+    days_ahead = 7 - now.weekday()
+    next_monday = datetime(now.year, now.month, now.day) + timedelta(days=days_ahead)
+    recette.used = next_monday.replace(hour=0, minute=0, second=0, microsecond=0)
     recette.save()
     return recette.to_dict()
 

@@ -1,9 +1,17 @@
-<h1>Recettes de la semaine prochaine</h1>
+<div class="header">
+  <h1>Recettes de la semaine prochaine</h1>
+
+  @if (!hasPredefinedRecettes) {
+    <button (click)="validateSelection()" [disabled]="!canValidate()">
+      Valider
+    </button>
+  }
+</div>
 
 @if (recettes | async; as recettes) {
 <div class="cards">
   @for (recette of recettes; track recette.id) {
-  <div class="card">
+  <div class="card" (click)="onCardClick(recette)" [ngClass]="{ 'selected': isSelected(recette) }">
     <img [src]="recette.image_path" alt="{{ recette.nom }}" />
     <div class="card-body">
       <h3>{{ recette.nom }}</h3>
