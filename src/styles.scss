@@ -59,3 +59,32 @@
 		margin-top: 1rem;
 	}
 }
+
+.header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	max-width: 1200px;
+	margin: 0 auto 1rem auto;
+	padding: 0 1rem;
+
+	button {
+		padding: 0.5rem 1rem;
+		background: #007bff;
+		color: white;
+		border: none;
+		border-radius: 6px;
+		font-weight: bold;
+		cursor: pointer;
+		transition: background 0.2s;
+
+		&:hover:not(:disabled) {
+			background: #0056b3;
+		}
+
+		&:disabled {
+			background: #ccc;
+			cursor: not-allowed;
+		}
+	}
+}
