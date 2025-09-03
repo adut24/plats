@@ -1,0 +1,6 @@
+- [IMG] /assets/images/ingredients/pommes_terre.png | 500 g | Pommes de terre
+- [IMG] /assets/images/ingredients/escalope_dinde.png | 2 pièce(s) | Escalope de dinde
+- [IMG] /assets/images/ingredients/melange_epices_pour_bbq.png | 1 sachet(s) | Mélange d'épices pour BBQ | (Contient: Œuf)
+- [IMG] /assets/images/ingredients/cheddar_rape.png | 1 sachet(s) | Cheddar râpé | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/mayonnaise.png | 1 sachet(s) | Mayonnaise | (Contient: Œuf, Moutarde)
+- [IMG] /assets/images/ingredients/melange_carotte_chou_rouge_blanc.png | 1 sachet(s) | Mélange de carotte, chou rouge et blanc | (Peut contenir: Céleri)

@@ -1,0 +1,10 @@
+- [IMG] /assets/images/ingredients/carotte.png | 2 pièce(s) | Carotte
+- [IMG] /assets/images/ingredients/persil_plat_menthe.png | ½ sachet(s) | Persil plat et menthe
+- [IMG] /assets/images/ingredients/couscous_perle.png | 150 g | Couscous perlé | (Contient: Gluten, Blé Peut contenir: Soja, Lupin, Œuf, Moutarde)
+- [IMG] /assets/images/ingredients/amandes_effilees.png | 1 sachet(s) | Amandes effilées | (Contient: Fruits à coque, Amandes Peut contenir: Fruits à coque, Graines de sésame, Arachides)
+- [IMG] /assets/images/ingredients/melange_epices_africaines.png | ½ sachet(s) | Mélange d'épices africaines | (Contient: Anhydride sulfureux et sulfites)
+- [IMG] /assets/images/ingredients/chair_a_saucisse.png | 1 paquet(s) | Chair à saucisse
+- [IMG] /assets/images/ingredients/chapelure_panko.png | 1 sachet(s) | Chapelure panko | (Contient: Gluten, Blé )
+- [IMG] /assets/images/ingredients/harissa.png | 1 pot(s) | Harissa
+- [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
+- [IMG] /assets/images/ingredients/yaourt_a_grecque.png | 1 pot(s) | Yaourt à la grecque | (Contient: Lait (contient du lactose))

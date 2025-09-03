@@ -1,0 +1,10 @@
+- [IMG] /assets/images/ingredients/gingembre_frais.png | 1 cm | Gingembre frais
+- [IMG] /assets/images/ingredients/concombre.png | 1 pièce(s) | Concombre
+- [IMG] /assets/images/ingredients/filet_poulet.png | 2 pièce(s) | Filet de poulet | (Peut contenir: Lait (contient du lactose), Gluten)
+- [IMG] /assets/images/ingredients/riz.png | 150 g | Riz
+- [IMG] /assets/images/ingredients/huile_sesame.png | 1 sachet(s) | Huile de sésame | (Contient: Graines de sésame)
+- [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Soja, Blé )
+- [IMG] /assets/images/ingredients/carotte_rapee.png | ⅔ sachet(s) | Carotte râpée | (Peut contenir: Céleri)
+- [IMG] /assets/images/ingredients/chapelure_panko.png | ⅔ sachet(s) | Chapelure panko | (Contient: Blé , Gluten)
+- [IMG] /assets/images/ingredients/ketchup.png | 1 sachet(s) | Ketchup
+- [IMG] /assets/images/ingredients/graines_sesame.png | 1 sachet(s) | Graines de sésame | (Contient: Graines de sésame Peut contenir: Arachides, Fruits à coque)

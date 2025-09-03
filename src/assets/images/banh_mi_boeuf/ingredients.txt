@@ -1,0 +1,10 @@
+- [IMG] /assets/images/ingredients/echalote.png | 1 pièce(s) | Échalote
+- [IMG] /assets/images/ingredients/gingembre_frais.png | 2 cm | Gingembre frais
+- [IMG] /assets/images/ingredients/piment.png | 1 pièce(s) | Piment
+- [IMG] /assets/images/ingredients/citron_vert.png | 1 pièce(s) | Citron vert
+- [IMG] /assets/images/ingredients/sucrine.png | 2 pièce(s) | Sucrine
+- [IMG] /assets/images/ingredients/sauce_poisson.png | 30 ml | Sauce poisson
+- [IMG] /assets/images/ingredients/chou_rouge_carotte_rapes.png | 100 g | Chou rouge et carotte râpés | (Peut contenir: Céleri)
+- [IMG] /assets/images/ingredients/boulettes_buf_hache_assaisonnees_epices_kefta.png | 6 pièce(s) | Boulettes de bœuf haché assaisonnées aux épices Kefta
+- [IMG] /assets/images/ingredients/baguette.png | 2 pièce(s) | Baguette | (Contient: Seigle, Gluten, Blé Peut contenir: Anhydride sulfureux et sulfites, Fruits à coque, Graines de sésame, Lait (contient du lactose), Œuf, Soja, Lupin)
+- [IMG] /assets/images/ingredients/mayonnaise.png | 45 g | Mayonnaise

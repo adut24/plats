@@ -1,0 +1,10 @@
+- [IMG] /assets/images/ingredients/patate_douce.png | ⅔ pièce(s) | Patate douce
+- [IMG] /assets/images/ingredients/oignon.png | 1 pièce(s) | Oignon
+- [IMG] /assets/images/ingredients/gousse_ail.png | 1 pièce(s) | Gousse d'ail
+- [IMG] /assets/images/ingredients/curry_rouge.png | 1 sachet(s) | Curry rouge
+- [IMG] /assets/images/ingredients/coriandre_moulue.png | ½ sachet(s) | Coriandre moulue
+- [IMG] /assets/images/ingredients/viande_hachee_buf.png | 1 paquet(s) | Viande hachée au bœuf
+- [IMG] /assets/images/ingredients/chair_tomates.png | 1 paquet(s) | Chair de tomates
+- [IMG] /assets/images/ingredients/riz.png | 120 g | Riz
+- [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
+- [IMG] /assets/images/ingredients/epinards.png | 1 sachet(s) | Épinards

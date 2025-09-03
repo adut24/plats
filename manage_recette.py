@@ -23,6 +23,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import unicodedata
 from PIL import Image
 import io
+import difflib
 
 
 def fetch_html(url: str) -> str:
@@ -118,7 +119,28 @@ def update_recettes(json_file: Path, url: str, slug: str, assets_dir: Path):
             break
 
     if not key:
-        raise ValueError(f'Aucune recette trouvée avec le nom {recipe_name} dans {json_file}.')
+        noms_existants = [r.get("nom") for r in recettes.values()]
+        similaires = difflib.get_close_matches(recipe_name, noms_existants, n=5, cutoff=0.6)
+
+        if similaires:
+            print(f"Aucune recette exactement nommée '{recipe_name}' trouvée.")
+            print("⚠️ Recettes au nom similaire :")
+            for i, nom in enumerate(similaires, start=1):
+                print(f"[{i}] {nom}")
+            print("[0] Aucune de ces recettes")
+            choix = input("Choisir une recette à mettre à jour (numéro) ou 0 pour ajouter : ").strip()
+
+            if choix.isdigit() and int(choix) > 0 and int(choix) <= len(similaires):
+                # retrouver la clé de la recette choisie
+                nom_choisi = similaires[int(choix) - 1]
+                for k, recette in recettes.items():
+                    if recette.get("nom") == nom_choisi:
+                        key = k
+                        break
+            else:
+                raise ValueError(f"Aucune recette sélectionnée, '{recipe_name}' sera proposée à l’ajout.")
+        else:
+            raise ValueError(f"Aucune recette trouvée avec le nom '{recipe_name}' dans {json_file}.")
 
     # temps_total, steps_paths = parse_recipe_page(url, slug, assets_dir)
     ingredients_path = parse_ingredients(url, slug, assets_dir)
@@ -201,7 +223,7 @@ def clean_ingredient_name(name: str) -> str:
     """Nettoie le nom de l’ingrédient pour en faire un nom de fichier simple."""
     name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("utf-8")
     name = name.lower().strip()
-    stopwords = {"de", "du", "des", "d", "en", "au", "aux", "la", "le", "les"}
+    stopwords = {"de", "du", "des", "d", "en", "au", "aux", "la", "le", "les", "et"}
     tokens = [t for t in re.split(r"\W+", name) if t and t not in stopwords]
 
     return "_".join(tokens)

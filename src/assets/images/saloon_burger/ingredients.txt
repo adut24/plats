@@ -1,0 +1,9 @@
+- [IMG] /assets/images/ingredients/pommes_terre.png | 500 g | Pommes de terre
+- [IMG] /assets/images/ingredients/paprika_fume_poudre.png | ⅔ sachet(s) | Paprika fumé en poudre
+- [IMG] /assets/images/ingredients/radis.png | ⅔ botte(s) | Radis
+- [IMG] /assets/images/ingredients/aneth_ciboulette.png | ½ sachet(s) | Aneth et ciboulette
+- [IMG] /assets/images/ingredients/sucrine.png | 2 pièce(s) | Sucrine
+- [IMG] /assets/images/ingredients/mayonnaise.png | 100 g | Mayonnaise | (Contient: Œuf, Moutarde)
+- [IMG] /assets/images/ingredients/filet_poulet.png | 2 pièce(s) | Filet de poulet | (Peut contenir: Lait (contient du lactose), Gluten)
+- [IMG] /assets/images/ingredients/chapelure_panko.png | 50 g | Chapelure panko | (Contient: Gluten, Blé )
+- [IMG] /assets/images/ingredients/pain_burger.png | 2 pièce(s) | Pain burger | (Contient: Œuf, Gluten, Blé , Lait (contient du lactose) Peut contenir: Moutarde, Noix , Soja, Fruits à coque, Graines de sésame)

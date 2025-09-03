@@ -1,0 +1,12 @@
+- [IMG] /assets/images/ingredients/riz.png | 150 g | Riz
+- [IMG] /assets/images/ingredients/huile_sesame.png | 1 sachet(s) | Huile de sésame | (Contient: Graines de sésame)
+- [IMG] /assets/images/ingredients/gousse_ail.png | 1 pièce(s) | Gousse d'ail
+- [IMG] /assets/images/ingredients/oignon_nouveau.png | 25 g | Oignon nouveau
+- [IMG] /assets/images/ingredients/piment.png | ⅓ pièce(s) | Piment
+- [IMG] /assets/images/ingredients/gingembre_frais.png | 1 cm | Gingembre frais
+- [IMG] /assets/images/ingredients/carotte.png | ½ pièce(s) | Carotte
+- [IMG] /assets/images/ingredients/concombre.png | 1 pièce(s) | Concombre
+- [IMG] /assets/images/ingredients/graines_sesame.png | 1 sachet(s) | Graines de sésame | (Contient: Graines de sésame Peut contenir: Arachides, Fruits à coque)
+- [IMG] /assets/images/ingredients/miso_blanc.png | ⅔ sachet(s) | Miso blanc | (Contient: Soja, Blé )
+- [IMG] /assets/images/ingredients/sauce_asiatique_sucree.png | 1 sachet(s) | Sauce asiatique sucrée | (Contient: Soja, Blé , Gluten)
+- [IMG] /assets/images/ingredients/chair_a_saucisse.png | 1 paquet(s) | Chair à saucisse

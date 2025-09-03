@@ -1,0 +1,9 @@
+- [IMG] /assets/images/ingredients/couscous_perle.png | 150 g | Couscous perlé | (Contient: Gluten, Blé Peut contenir: Soja, Lupin, Œuf, Moutarde)
+- [IMG] /assets/images/ingredients/amandes_effilees.png | 1 sachet(s) | Amandes effilées | (Contient: Fruits à coque, Amandes Peut contenir: Fruits à coque, Graines de sésame, Arachides)
+- [IMG] /assets/images/ingredients/oignon.png | 1 pièce(s) | Oignon
+- [IMG] /assets/images/ingredients/raisins_secs_sultanines.png | 1 sachet(s) | Raisins secs Sultanines | (Peut contenir: Soja, Fruits à coque, Graines de sésame, Arachides)
+- [IMG] /assets/images/ingredients/avocat.png | 1 pièce(s) | Avocat
+- [IMG] /assets/images/ingredients/fromage_chevre_frais.png | 1 pièce(s) | Fromage de chèvre frais | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
+- [IMG] /assets/images/ingredients/salade.png | 1 sachet(s) | Salade
+- [IMG] /assets/images/ingredients/melange_epices_moyen_orient.png | 1 sachet(s) | Mélange d'épices du Moyen-Orient

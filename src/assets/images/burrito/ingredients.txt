@@ -1,0 +1,9 @@
+- [IMG] /assets/images/ingredients/oignon.png | 1 pièce(s) | Oignon
+- [IMG] /assets/images/ingredients/gousse_ail.png | 1 pièce(s) | Gousse d'ail
+- [IMG] /assets/images/ingredients/eminces_porc_marines_a_mexicaine.png | 1 paquet(s) | Émincés de porc marinés à la mexicaine | (Peut contenir: Lait (contient du lactose), Moutarde, Gluten)
+- [IMG] /assets/images/ingredients/haricots_noirs.png | ⅔ paquet(s) | Haricots noirs
+- [IMG] /assets/images/ingredients/chair_tomates.png | ⅔ paquet(s) | Chair de tomates
+- [IMG] /assets/images/ingredients/epices_mexicaines.png | ⅔ sachet(s) | Épices mexicaines
+- [IMG] /assets/images/ingredients/sucrine.png | 1 pièce(s) | Sucrine
+- [IMG] /assets/images/ingredients/tortillas.png | 4 pièce(s) | Tortillas | (Contient: Blé , Gluten)
+- [IMG] /assets/images/ingredients/cheddar_rape.png | 1 sachet(s) | Cheddar râpé | (Contient: Lait (contient du lactose))

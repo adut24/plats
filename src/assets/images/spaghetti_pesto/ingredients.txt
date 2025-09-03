@@ -1,0 +1,7 @@
+- [IMG] /assets/images/ingredients/tomates_cerises_rouges.png | ⅔ | Tomates cerises rouges
+- [IMG] /assets/images/ingredients/basilic.png | ½ sachet(s) | Basilic
+- [IMG] /assets/images/ingredients/spaghetti.png | 180 g | Spaghetti | (Contient: Gluten, Blé Peut contenir: Œuf, Moutarde, Soja)
+- [IMG] /assets/images/ingredients/fromage_rape_a_l_italienne.png | 1 sachet(s) | Fromage râpé à l'italienne | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/pesto_rosso.png | 1 sachet(s) | Pesto rosso | (Contient: Anhydride sulfureux et sulfites)
+- [IMG] /assets/images/ingredients/origan_seche.png | ½ sachet(s) | Origan séché
+- [IMG] /assets/images/ingredients/jambon_sec.png | 3 tranche(s) | Jambon sec | (Peut contenir: Amandes, Noix , Noix de pécan , Pistaches , Noisettes , Noix de cajou , Fruits à coque, Lait (contient du lactose), Noix de macadamia , Noix du Brésil)

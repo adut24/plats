@@ -19,6 +19,7 @@
             "/assets/images/burger_zaatar/steps/step6.jpg",
             "/assets/images/burger_zaatar/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/burger_zaatar/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.460440",
         "updated_at": "2025-08-20T22:48:28.460457"
     },
@@ -39,6 +40,7 @@
             "/assets/images/toastie/steps/step4.jpg",
             "/assets/images/toastie/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/toastie/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.460886",
         "updated_at": "2025-08-20T22:48:28.460893"
     },
@@ -63,6 +65,7 @@
             "/assets/images/curry_indien/steps/step6.jpg",
             "/assets/images/curry_indien/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/curry_indien/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.463025",
         "updated_at": "2025-08-20T22:48:28.463040"
     },
@@ -86,6 +89,7 @@
             "/assets/images/porc_grille_taiwan/steps/step6.jpg",
             "/assets/images/porc_grille_taiwan/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/porc_grille_taiwan/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.463723",
         "updated_at": "2025-08-20T22:48:28.463736"
     },
@@ -107,6 +111,7 @@
             "/assets/images/poulet_japonais/steps/step4.jpg",
             "/assets/images/poulet_japonais/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/poulet_japonais/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.464294",
         "updated_at": "2025-08-20T22:48:28.464304"
     },
@@ -129,6 +134,7 @@
             "/assets/images/porc_epice_mexicain/steps/step6.jpg",
             "/assets/images/porc_epice_mexicain/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/porc_epice_mexicain/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.464870",
         "updated_at": "2025-08-20T22:48:28.464879"
     },
@@ -152,6 +158,7 @@
             "/assets/images/keema/steps/step6.jpg",
             "/assets/images/keema/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/keema/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.465445",
         "updated_at": "2025-08-20T22:48:28.465454"
     },
@@ -175,6 +182,7 @@
             "/assets/images/arroz/steps/step6.jpg",
             "/assets/images/arroz/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/arroz/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.466249",
         "updated_at": "2025-08-20T22:48:28.466263"
     },
@@ -197,6 +205,7 @@
             "/assets/images/cheesy_fries/steps/step6.jpg",
             "/assets/images/cheesy_fries/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/cheesy_fries/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.467206",
         "updated_at": "2025-08-20T22:48:28.467216"
     },
@@ -217,6 +226,7 @@
             "/assets/images/nasi_goreng/steps/step4.jpg",
             "/assets/images/nasi_goreng/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/nasi_goreng/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.468391",
         "updated_at": "2025-08-20T22:48:28.468402"
     },
@@ -239,6 +249,7 @@
             "/assets/images/pave_bercy/steps/step6.jpg",
             "/assets/images/pave_bercy/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/pave_bercy/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.469172",
         "updated_at": "2025-08-20T22:48:28.469185"
     },
@@ -261,6 +272,7 @@
             "/assets/images/gyudon/steps/step6.jpg",
             "/assets/images/gyudon/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/gyudon/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.470087",
         "updated_at": "2025-08-20T22:48:28.470098"
     },
@@ -281,6 +293,7 @@
             "/assets/images/poelee_cambodge/steps/step4.jpg",
             "/assets/images/poelee_cambodge/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/poelee_cambodge/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.471139",
         "updated_at": "2025-08-20T22:48:28.471151"
     },
@@ -303,6 +316,7 @@
             "/assets/images/bibimbap/steps/step6.jpg",
             "/assets/images/bibimbap/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/bibimbap/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.471877",
         "updated_at": "2025-08-20T22:48:28.471885"
     },
@@ -324,6 +338,7 @@
             "/assets/images/gnocchi/steps/step4.jpg",
             "/assets/images/gnocchi/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/gnocchi/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.472764",
         "updated_at": "2025-08-20T22:48:28.472777"
     },
@@ -347,6 +362,7 @@
             "/assets/images/curry_vert_thai/steps/step6.jpg",
             "/assets/images/curry_vert_thai/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/curry_vert_thai/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.473710",
         "updated_at": "2025-08-20T22:48:28.473723"
     },
@@ -367,6 +383,7 @@
             "/assets/images/wok_bicol/steps/step4.jpg",
             "/assets/images/wok_bicol/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/wok_bicol/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.474500",
         "updated_at": "2025-08-20T22:48:28.474510"
     },
@@ -390,6 +407,7 @@
             "/assets/images/rajma/steps/step6.jpg",
             "/assets/images/rajma/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/rajma/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.475196",
         "updated_at": "2025-08-20T22:48:28.475203"
     },
@@ -412,6 +430,7 @@
             "/assets/images/one_pot_tex_mex/steps/step6.jpg",
             "/assets/images/one_pot_tex_mex/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/one_pot_tex_mex/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.476146",
         "updated_at": "2025-08-20T22:48:28.476156"
     },
@@ -434,6 +453,7 @@
             "/assets/images/boeuf_bistrot/steps/step6.jpg",
             "/assets/images/boeuf_bistrot/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/boeuf_bistrot/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.477309",
         "updated_at": "2025-08-20T22:48:28.477319"
     },
@@ -456,6 +476,7 @@
             "/assets/images/manti_turc/steps/step6.jpg",
             "/assets/images/manti_turc/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/manti_turc/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.478473",
         "updated_at": "2025-08-20T22:48:28.478485"
     },
@@ -478,6 +499,7 @@
             "/assets/images/salade_couscous_perle/steps/step6.jpg",
             "/assets/images/salade_couscous_perle/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/salade_couscous_perle/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.480111",
         "updated_at": "2025-08-20T22:48:28.480128"
     },
@@ -499,6 +521,7 @@
             "/assets/images/mijote_curry_jaune/steps/step4.jpg",
             "/assets/images/mijote_curry_jaune/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/mijote_curry_jaune/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.483443",
         "updated_at": "2025-08-20T22:48:28.483459"
     },
@@ -522,6 +545,7 @@
             "/assets/images/poulet_frit_coreen/steps/step6.jpg",
             "/assets/images/poulet_frit_coreen/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/poulet_frit_coreen/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.484423",
         "updated_at": "2025-08-20T22:48:28.484432"
     },
@@ -542,6 +566,7 @@
             "/assets/images/mafe/steps/step4.jpg",
             "/assets/images/mafe/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/mafe/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.485473",
         "updated_at": "2025-08-20T22:48:28.485484"
     },
@@ -562,6 +587,7 @@
             "/assets/images/pates_carbo/steps/step4.jpg",
             "/assets/images/pates_carbo/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/pates_carbo/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.486730",
         "updated_at": "2025-08-20T22:48:28.486743"
     },
@@ -582,6 +608,7 @@
             "/assets/images/burrito/steps/step4.jpg",
             "/assets/images/burrito/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/burrito/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.488395",
         "updated_at": "2025-08-20T22:48:28.488405"
     },
@@ -604,6 +631,7 @@
             "/assets/images/kefta/steps/step6.jpg",
             "/assets/images/kefta/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/kefta/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.489326",
         "updated_at": "2025-08-20T22:48:28.489336"
     },
@@ -626,6 +654,7 @@
             "/assets/images/porc_caramel/steps/step6.jpg",
             "/assets/images/porc_caramel/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/porc_caramel/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.490328",
         "updated_at": "2025-08-20T22:48:28.490340"
     },
@@ -646,6 +675,7 @@
             "/assets/images/taquito/steps/step4.jpg",
             "/assets/images/taquito/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/taquito/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.491937",
         "updated_at": "2025-08-20T22:48:28.491949"
     },
@@ -666,6 +696,7 @@
             "/assets/images/wok_cumin/steps/step4.jpg",
             "/assets/images/wok_cumin/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/wok_cumin/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.493245",
         "updated_at": "2025-08-20T22:48:28.493254"
     },
@@ -688,6 +719,7 @@
             "/assets/images/riz_saute/steps/step6.jpg",
             "/assets/images/riz_saute/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/riz_saute/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.494961",
         "updated_at": "2025-08-20T22:48:28.494974"
     },
@@ -710,6 +742,7 @@
             "/assets/images/poulet_frites/steps/step6.jpg",
             "/assets/images/poulet_frites/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/poulet_frites/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.496129",
         "updated_at": "2025-08-20T22:48:28.496141"
     },
@@ -730,6 +763,7 @@
             "/assets/images/wok_boeuf/steps/step4.jpg",
             "/assets/images/wok_boeuf/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/wok_boeuf/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.497793",
         "updated_at": "2025-08-20T22:48:28.497809"
     },
@@ -752,6 +786,7 @@
             "/assets/images/poulet_dore_fraise/steps/step6.jpg",
             "/assets/images/poulet_dore_fraise/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/poulet_dore_fraise/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.499857",
         "updated_at": "2025-08-20T22:48:28.499872"
     },
@@ -775,6 +810,7 @@
             "/assets/images/cordon_bleu/steps/step6.jpg",
             "/assets/images/cordon_bleu/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/cordon_bleu/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.502001",
         "updated_at": "2025-08-20T22:48:28.502015"
     },
@@ -795,6 +831,7 @@
             "/assets/images/pizza_naan/steps/step4.jpg",
             "/assets/images/pizza_naan/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/pizza_naan/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.505187",
         "updated_at": "2025-08-20T22:48:28.505202"
     },
@@ -816,6 +853,7 @@
             "/assets/images/pave_estragon/steps/step6.jpg",
             "/assets/images/pave_estragon/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/pave_estragon/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.507468",
         "updated_at": "2025-08-20T22:48:28.507482"
     },
@@ -836,6 +874,7 @@
             "/assets/images/pates_montagnardes/steps/step4.jpg",
             "/assets/images/pates_montagnardes/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/pates_montagnardes/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.508865",
         "updated_at": "2025-08-20T22:48:28.508876"
     },
@@ -858,6 +897,7 @@
             "/assets/images/burger_truffe/steps/step6.jpg",
             "/assets/images/burger_truffe/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/burger_truffe/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.510212",
         "updated_at": "2025-08-20T22:48:28.510223"
     },
@@ -878,6 +918,7 @@
             "/assets/images/schnitzel_porc/steps/step4.jpg",
             "/assets/images/schnitzel_porc/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/schnitzel_porc/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.511368",
         "updated_at": "2025-08-20T22:48:28.511376"
     },
@@ -899,6 +940,7 @@
             "/assets/images/curry_dinde/steps/step4.jpg",
             "/assets/images/curry_dinde/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/curry_dinde/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.515018",
         "updated_at": "2025-08-20T22:48:28.515032"
     },
@@ -921,6 +963,7 @@
             "/assets/images/burrito_bowl/steps/step6.jpg",
             "/assets/images/burrito_bowl/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/burrito_bowl/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.518640",
         "updated_at": "2025-08-20T22:48:28.518666"
     },
@@ -941,6 +984,7 @@
             "/assets/images/nouilles_boeuf_saute/steps/step4.jpg",
             "/assets/images/nouilles_boeuf_saute/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/nouilles_boeuf_saute/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.520859",
         "updated_at": "2025-08-20T22:48:28.520869"
     },
@@ -963,6 +1007,7 @@
             "/assets/images/tacos_poulet_teriyaki/steps/step6.jpg",
             "/assets/images/tacos_poulet_teriyaki/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/tacos_poulet_teriyaki/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.522343",
         "updated_at": "2025-08-20T22:48:28.522353"
     },
@@ -984,6 +1029,7 @@
             "/assets/images/boeuf_piquant/steps/step6.jpg",
             "/assets/images/boeuf_piquant/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/boeuf_piquant/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.523695",
         "updated_at": "2025-08-20T22:48:28.523707"
     },
@@ -1005,6 +1051,7 @@
             "/assets/images/porc_marrons/steps/step6.jpg",
             "/assets/images/porc_marrons/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/porc_marrons/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.525408",
         "updated_at": "2025-08-20T22:48:28.525419"
     },
@@ -1025,6 +1072,7 @@
             "/assets/images/bicol_express/steps/step4.jpg",
             "/assets/images/bicol_express/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/bicol_express/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.527293",
         "updated_at": "2025-08-20T22:48:28.527309"
     },
@@ -1047,6 +1095,7 @@
             "/assets/images/taco_bowl/steps/step6.jpg",
             "/assets/images/taco_bowl/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/taco_bowl/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.528717",
         "updated_at": "2025-08-20T22:48:28.528729"
     },
@@ -1067,6 +1116,7 @@
             "/assets/images/penne_boeuf/steps/step4.jpg",
             "/assets/images/penne_boeuf/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/penne_boeuf/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.530447",
         "updated_at": "2025-08-20T22:48:28.530461"
     },
@@ -1089,6 +1139,7 @@
             "/assets/images/pitas_poulet/steps/step6.jpg",
             "/assets/images/pitas_poulet/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/pitas_poulet/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.534312",
         "updated_at": "2025-08-20T22:48:28.534327"
     },
@@ -1109,6 +1160,7 @@
             "/assets/images/spaghetti_pesto/steps/step4.jpg",
             "/assets/images/spaghetti_pesto/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/spaghetti_pesto/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.537794",
         "updated_at": "2025-08-20T22:48:28.537806"
     },
@@ -1130,6 +1182,7 @@
             "/assets/images/canette_maroc/steps/step6.jpg",
             "/assets/images/canette_maroc/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/canette_maroc/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.539464",
         "updated_at": "2025-08-20T22:48:28.539477"
     },
@@ -1153,6 +1206,7 @@
             "/assets/images/tenders/steps/step6.jpg",
             "/assets/images/tenders/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/tenders/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.541621",
         "updated_at": "2025-08-20T22:48:28.541635"
     },
@@ -1173,6 +1227,7 @@
             "/assets/images/poulet_satay/steps/step4.jpg",
             "/assets/images/poulet_satay/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/poulet_satay/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.544284",
         "updated_at": "2025-08-20T22:48:28.544295"
     },
@@ -1193,6 +1248,7 @@
             "/assets/images/tagliata/steps/step4.jpg",
             "/assets/images/tagliata/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/tagliata/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.545722",
         "updated_at": "2025-08-20T22:48:28.545733"
     },
@@ -1216,6 +1272,7 @@
             "/assets/images/poulet_zaatar/steps/step6.jpg",
             "/assets/images/poulet_zaatar/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/poulet_zaatar/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.549640",
         "updated_at": "2025-08-20T22:48:28.549656"
     },
@@ -1236,6 +1293,7 @@
             "/assets/images/burger_poulet/steps/step4.jpg",
             "/assets/images/burger_poulet/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/burger_poulet/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.554723",
         "updated_at": "2025-08-20T22:48:28.554737"
     },
@@ -1256,6 +1314,7 @@
             "/assets/images/penne_poulet/steps/step4.jpg",
             "/assets/images/penne_poulet/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/penne_poulet/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.557375",
         "updated_at": "2025-08-20T22:48:28.557401"
     },
@@ -1276,6 +1335,7 @@
             "/assets/images/salade_nouilles/steps/step4.jpg",
             "/assets/images/salade_nouilles/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/salade_nouilles/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.559678",
         "updated_at": "2025-08-20T22:48:28.559691"
     },
@@ -1298,6 +1358,7 @@
             "/assets/images/risotto_couscous_perle/steps/step6.jpg",
             "/assets/images/risotto_couscous_perle/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/risotto_couscous_perle/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.564012",
         "updated_at": "2025-08-20T22:48:28.564024"
     },
@@ -1318,6 +1379,7 @@
             "/assets/images/pates_porc_hache/steps/step4.jpg",
             "/assets/images/pates_porc_hache/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/pates_porc_hache/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.567125",
         "updated_at": "2025-08-20T22:48:28.567141"
     },
@@ -1338,6 +1400,7 @@
             "/assets/images/burger_dinde/steps/step4.jpg",
             "/assets/images/burger_dinde/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/burger_dinde/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.571887",
         "updated_at": "2025-08-20T22:48:28.571900"
     },
@@ -1358,6 +1421,7 @@
             "/assets/images/dinde_soba/steps/step4.jpg",
             "/assets/images/dinde_soba/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/dinde_soba/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.581072",
         "updated_at": "2025-08-21T19:37:58.049611"
     },
@@ -1381,6 +1445,7 @@
             "/assets/images/poulet_parmigiana/steps/step6.jpg",
             "/assets/images/poulet_parmigiana/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/poulet_parmigiana/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.582841",
         "updated_at": "2025-08-20T22:48:28.582853"
     },
@@ -1403,6 +1468,7 @@
             "/assets/images/chich_taouk/steps/step6.jpg",
             "/assets/images/chich_taouk/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/chich_taouk/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.588239",
         "updated_at": "2025-08-20T22:48:28.588249"
     },
@@ -1425,6 +1491,7 @@
             "/assets/images/nouilles_froides/steps/step6.jpg",
             "/assets/images/nouilles_froides/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/nouilles_froides/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.589791",
         "updated_at": "2025-08-20T22:48:28.589801"
     },
@@ -1445,6 +1512,7 @@
             "/assets/images/wok_nouilles_boeuf/steps/step4.jpg",
             "/assets/images/wok_nouilles_boeuf/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/wok_nouilles_boeuf/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.593768",
         "updated_at": "2025-08-20T22:48:28.593779"
     },
@@ -1465,6 +1533,7 @@
             "/assets/images/spaghetti_lardons/steps/step4.jpg",
             "/assets/images/spaghetti_lardons/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/spaghetti_lardons/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.596580",
         "updated_at": "2025-08-20T22:48:28.596591"
     },
@@ -1488,6 +1557,7 @@
             "/assets/images/poulet_roti/steps/step6.jpg",
             "/assets/images/poulet_roti/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/poulet_roti/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.598507",
         "updated_at": "2025-08-20T22:48:28.598522"
     },
@@ -1511,6 +1581,7 @@
             "/assets/images/boulettes_porc/steps/step6.jpg",
             "/assets/images/boulettes_porc/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/boulettes_porc/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.602638",
         "updated_at": "2025-08-20T22:48:28.602652"
     },
@@ -1533,6 +1604,7 @@
             "/assets/images/poulet_paprikash/steps/step6.jpg",
             "/assets/images/poulet_paprikash/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/poulet_paprikash/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.652027",
         "updated_at": "2025-08-20T22:48:28.652061"
     },
@@ -1553,6 +1625,7 @@
             "/assets/images/poulet_teriyaki/steps/step4.jpg",
             "/assets/images/poulet_teriyaki/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/poulet_teriyaki/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.655856",
         "updated_at": "2025-08-20T22:48:28.655871"
     },
@@ -1573,6 +1646,7 @@
             "/assets/images/nouilles_sautees_porc/steps/step4.jpg",
             "/assets/images/nouilles_sautees_porc/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/nouilles_sautees_porc/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.664746",
         "updated_at": "2025-08-20T22:48:28.664759"
     },
@@ -1595,6 +1669,7 @@
             "/assets/images/penne_ragu/steps/step6.jpg",
             "/assets/images/penne_ragu/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/penne_ragu/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.667546",
         "updated_at": "2025-08-20T22:48:28.667557"
     },
@@ -1615,6 +1690,7 @@
             "/assets/images/linguine_chorizo/steps/step4.jpg",
             "/assets/images/linguine_chorizo/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/linguine_chorizo/ingredients.txt",
         "created_at": "2025-08-20T22:48:28.669644",
         "updated_at": "2025-08-20T22:48:28.669654"
     },
@@ -1637,6 +1713,7 @@
             "/assets/images/orzo_fromages/steps/step6.jpg",
             "/assets/images/orzo_fromages/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/orzo_fromages/ingredients.txt",
         "created_at": "2025-08-25T22:02:36.071577",
         "updated_at": "2025-08-25T22:02:36.071577"
     },
@@ -1659,6 +1736,7 @@
             "/assets/images/orzo_pilaf/steps/step6.jpg",
             "/assets/images/orzo_pilaf/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/orzo_pilaf/ingredients.txt",
         "created_at": "2025-08-25T22:04:25.546842",
         "updated_at": "2025-08-25T22:04:25.546842"
     },
@@ -1679,6 +1757,7 @@
             "/assets/images/saucisse_toulouse/steps/step4.jpg",
             "/assets/images/saucisse_toulouse/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/saucisse_toulouse/ingredients.txt",
         "created_at": "2025-08-25T22:06:32.459193",
         "updated_at": "2025-08-25T22:06:32.459193"
     },
@@ -1703,6 +1782,7 @@
             "/assets/images/saloon_burger/steps/step6.jpg",
             "/assets/images/saloon_burger/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/saloon_burger/ingredients.txt",
         "created_at": "2025-08-30T21:49:29.535558",
         "updated_at": "2025-08-30T21:49:29.535558"
     },
@@ -1725,6 +1805,7 @@
             "/assets/images/banh_mi_boeuf/steps/step6.jpg",
             "/assets/images/banh_mi_boeuf/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/banh_mi_boeuf/ingredients.txt",
         "created_at": "2025-08-30T21:55:09.863846",
         "updated_at": "2025-08-30T21:55:09.863846"
     },
@@ -1748,6 +1829,7 @@
             "/assets/images/ramen_miso_poulet/steps/step6.jpg",
             "/assets/images/ramen_miso_poulet/steps/steps.txt"
         ],
+        "ingredients": "/assets/images/ramen_miso_poulet/ingredients.txt",
         "created_at": "2025-08-30T22:00:42.803040",
         "updated_at": "2025-08-30T22:00:42.803040"
     },
