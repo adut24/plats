@@ -1,7 +1,0 @@
-- [IMG] /assets/images/ingredients/grenailles.png | 500 g | Grenailles
-- [IMG] /assets/images/ingredients/romarin_seche.png | ⅔ sachet(s) | Romarin séché
-- [IMG] /assets/images/ingredients/oignon.png | 2 pièce(s) | Oignon
-- [IMG] /assets/images/ingredients/viande_hachee_buf.png | 1 paquet(s) | Viande hachée au bœuf
-- [IMG] /assets/images/ingredients/pain_burger_brioche_graines.png | 2 pièce(s) | Pain burger brioché aux graines | (Contient: Lait (contient du lactose), Œuf, Blé Peut contenir: Graines de sésame, Fruits à coque)
-- [IMG] /assets/images/ingredients/salade.png | 1 sachet(s) | Salade
-- [IMG] /assets/images/ingredients/fromage_a_tartiner_a_truffe.png | 1 pot(s) | Fromage à tartiner à la truffe | (Contient: Lait (contient du lactose) Peut contenir: Moutarde, Anhydride sulfureux et sulfites)

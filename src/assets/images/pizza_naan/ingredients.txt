@@ -1,7 +1,0 @@
-- [IMG] /assets/images/ingredients/oignon.png | ½ pièce(s) | Oignon
-- [IMG] /assets/images/ingredients/mozzarella.png | 1 pièce(s) | Mozzarella | (Contient: Lait (contient du lactose))
-- [IMG] /assets/images/ingredients/jambon_blanc.png | 2 tranche(s) | Jambon blanc
-- [IMG] /assets/images/ingredients/pain_naan.png | 2 pièce(s) | Pain naan | (Contient: Lait (contient du lactose), Gluten, Blé )
-- [IMG] /assets/images/ingredients/pesto_vert_alla_genovese.png | ⅔ sachet(s) | Pesto vert alla genovese | (Contient: Lait (contient du lactose), Noix de cajou , Fruits à coque Peut contenir: Arachides)
-- [IMG] /assets/images/ingredients/creme_epaisse.png | 1 pot(s) | Crème épaisse | (Contient: Lait (contient du lactose))
-- [IMG] /assets/images/ingredients/sucrine.png | 1 pièce(s) | Sucrine

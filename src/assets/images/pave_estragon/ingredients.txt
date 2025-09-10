@@ -1,6 +1,0 @@
-- [IMG] /assets/images/ingredients/pommes_terre.png | 500 g | Pommes de terre
-- [IMG] /assets/images/ingredients/echalote.png | 1 pièce(s) | Échalote
-- [IMG] /assets/images/ingredients/persil.png | 1 sachet(s) | Persil
-- [IMG] /assets/images/ingredients/estragon.png | ½ sachet(s) | Estragon
-- [IMG] /assets/images/ingredients/pave_buf_marine.png | 2 pièce(s) | Pavé de bœuf mariné | (Peut contenir: Céleri, Gluten, Lait (contient du lactose), Œuf, Moutarde)
-- [IMG] /assets/images/ingredients/salade.png | 1 sachet(s) | Salade

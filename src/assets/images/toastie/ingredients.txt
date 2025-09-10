@@ -1,6 +1,0 @@
-- [IMG] /assets/images/ingredients/oignon.png | 1 pièce(s) | Oignon
-- [IMG] /assets/images/ingredients/brie.png | 1 pièce(s) | Brie | (Contient: Lait (contient du lactose))
-- [IMG] /assets/images/ingredients/confiture_figues.png | 1 pot(s) | Confiture de figues | (Peut contenir: Fruits à coque, Lait (contient du lactose), Moutarde, Anhydride sulfureux et sulfites)
-- [IMG] /assets/images/ingredients/pain_campagne_tranche.png | 4 tranche(s) | Pain de campagne tranché | (Contient: Blé , Gluten Peut contenir: Fruits à coque, Lait (contient du lactose), Noix , Œuf, Graines de sésame)
-- [IMG] /assets/images/ingredients/tranches_poulet_cuit.png | 4 tranche(s) | Tranches de poulet cuit | (Peut contenir: Lait (contient du lactose), Soja)
-- [IMG] /assets/images/ingredients/salade.png | 1 sachet(s) | Salade

@@ -1,9 +1,0 @@
-- [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
-- [IMG] /assets/images/ingredients/mayonnaise.png | 1 sachet(s) | Mayonnaise | (Contient: Œuf, Moutarde)
-- [IMG] /assets/images/ingredients/sauce_soja.png | ½ sachet(s) | Sauce soja | (Contient: Soja, Gluten, Blé )
-- [IMG] /assets/images/ingredients/riz.png | 150 g | Riz
-- [IMG] /assets/images/ingredients/huile_sesame.png | 1 sachet(s) | Huile de sésame | (Contient: Graines de sésame)
-- [IMG] /assets/images/ingredients/gomasio.png | 1 sachet(s) | Gomasio | (Contient: Graines de sésame)
-- [IMG] /assets/images/ingredients/chapelure_panko.png | ⅔ sachet(s) | Chapelure panko | (Contient: Gluten, Blé )
-- [IMG] /assets/images/ingredients/filet_poulet.png | 2 pièce(s) | Filet de poulet | (Peut contenir: Lait (contient du lactose), Gluten)
-- [IMG] /assets/images/ingredients/melange_carotte_chou_rouge_blanc.png | 1 sachet(s) | Mélange de carotte, chou rouge et blanc | (Peut contenir: Céleri)
