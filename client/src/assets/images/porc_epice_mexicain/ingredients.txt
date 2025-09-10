@@ -1,0 +1,10 @@
+- [IMG] /assets/images/ingredients/oignon.png | 1 pièce(s) | Oignon
+- [IMG] /assets/images/ingredients/riz.png | 150 g | Riz
+- [IMG] /assets/images/ingredients/curcuma_poudre.png | ½ sachet(s) | Curcuma en poudre
+- [IMG] /assets/images/ingredients/chair_a_saucisse.png | 1 paquet(s) | Chair à saucisse
+- [IMG] /assets/images/ingredients/epices_mexicaines.png | ½ sachet(s) | Épices mexicaines
+- [IMG] /assets/images/ingredients/chair_tomates.png | 1 paquet(s) | Chair de tomates
+- [IMG] /assets/images/ingredients/avocat.png | 1 pièce(s) | Avocat
+- [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
+- [IMG] /assets/images/ingredients/coriandre.png | ½ sachet(s) | Coriandre
+- [IMG] /assets/images/ingredients/creme_epaisse.png | 1 pot(s) | Crème épaisse | (Contient: Lait (contient du lactose))

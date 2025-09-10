@@ -1,0 +1,119 @@
+.recipe-container {
+	max-width: 90%;
+	margin: 0 auto;
+	font-family: Arial, sans-serif;
+}
+
+.recipe-header {
+	position: relative;
+	text-align: center;
+}
+
+.recipe-image {
+	margin-top: 1rem;
+	width: 100%;
+	max-height: 500px;
+	object-fit: cover;
+	border-radius: 8px;
+}
+
+/* Card superposée */
+.recipe-card {
+	position: absolute;
+	bottom: -40px;
+	left: 50%;
+	transform: translateX(-50%);
+	background: white;
+	padding: 1.2rem 2rem;
+	border-radius: 12px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+	min-width: 60%;
+	text-align: center;
+}
+
+.recipe-title {
+	margin: 0;
+	font-size: 1.8rem;
+}
+
+.recipe-meta {
+	display: flex;
+	justify-content: center;
+	gap: 2rem;
+	margin-top: 0.8rem;
+	font-size: 1.1rem;
+}
+
+#ingredients {
+	margin-top: 4rem;
+	display: flex;
+	justify-content: center;
+}
+
+.ingredients-card {
+	background: white;
+	padding: 2rem;
+	border-radius: 12px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+	max-width: 900px;
+	width: 100%;
+	text-align: center;
+}
+
+.ingredients-card h2 {
+	margin-bottom: 1.5rem;
+}
+
+.ingredients-columns {
+	display: flex;
+	justify-content: space-between;
+	gap: 2rem;
+}
+
+.ingredients-columns ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	flex: 1;
+	min-width: 0;
+}
+
+.ingredient-item {
+	display: flex;
+	align-items: center;
+	/* centrer verticalement l'icône par rapport au texte */
+	margin-bottom: 1rem;
+}
+
+.ingredient-icon {
+	width: 45px;
+	height: 45px;
+	margin-right: 0.8rem;
+	object-fit: contain;
+	flex-shrink: 0;
+}
+
+.ingredient-text {
+	flex: 1;
+	min-width: 0;
+	word-wrap: break-word;
+	overflow-wrap: anywhere;
+	text-align: left;
+}
+
+.ingredient-text p {
+	margin: 0;
+	line-height: 1.3;
+	font-size: 0.95rem;
+}
+
+.ingredient-text p:first-child {
+	font-weight: bold;
+	font-size: 1rem;
+}
+
+.ingredient-text p:has(Contient),
+.ingredient-text p:has(Peut) {
+	font-size: 0.8rem;
+	color: #666;
+}

@@ -1,0 +1,8 @@
+- [IMG] /assets/images/ingredients/tomate.png | 2 pièce(s) | Tomate
+- [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
+- [IMG] /assets/images/ingredients/escalope_dinde.png | 2 pièce(s) | Escalope de dinde
+- [IMG] /assets/images/ingredients/pain_burger.png | 2 pièce(s) | Pain burger | (Contient: Lait (contient du lactose), Œuf, Blé , Gluten Peut contenir: Noix , Soja, Fruits à coque, Graines de sésame, Moutarde)
+- [IMG] /assets/images/ingredients/basilic.png | 1 sachet(s) | Basilic
+- [IMG] /assets/images/ingredients/gousse_ail.png | ½ pièce(s) | Gousse d'ail
+- [IMG] /assets/images/ingredients/salade.png | 1 sachet(s) | Salade
+- [IMG] /assets/images/ingredients/copeaux_grana_padano_aop.png | 1 sachet(s) | Copeaux de grana padano AOP | (Contient: Lait (contient du lactose), Œuf)

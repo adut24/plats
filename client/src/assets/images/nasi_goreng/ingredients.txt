@@ -1,0 +1,10 @@
+- [IMG] /assets/images/ingredients/riz.png | 150 g | Riz
+- [IMG] /assets/images/ingredients/gousse_ail.png | 1 pièce(s) | Gousse d'ail
+- [IMG] /assets/images/ingredients/oignon_nouveau.png | 25 g | Oignon nouveau
+- [IMG] /assets/images/ingredients/carotte.png | 1 pièce(s) | Carotte
+- [IMG] /assets/images/ingredients/concombre.png | 1 pièce(s) | Concombre
+- [IMG] /assets/images/ingredients/filet_poulet.png | 2 pièce(s) | Filet de poulet | (Peut contenir: Lait (contient du lactose), Gluten)
+- [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
+- [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Soja, Gluten, Blé )
+- [IMG] /assets/images/ingredients/pate_epicee_javanaise.png | 1 sachet(s) | Pâte épicée javanaise | (Contient: Soja, Gluten, Blé , Graines de sésame)
+- [IMG] /assets/images/ingredients/oignons_frits.png | ⅓ sachet(s) | Oignons frits | (Contient: Gluten, Blé Peut contenir: Gluten, Fruits à coque, Graines de sésame, Arachides)

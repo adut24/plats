@@ -1,0 +1,1857 @@
+{
+    "Recette.cbe70ca5-11fa-4a6a-b656-c41edc627835": {
+        "id": "cbe70ca5-11fa-4a6a-b656-c41edc627835",
+        "nom": "Burger de b\u0153uf au zaatar & a\u00efoli persill\u00e9",
+        "image_path": "/assets/images/burger_zaatar/plat.jpg",
+        "categories": [
+            "Burger",
+            "B\u0153uf",
+            "Frites"
+        ],
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/burger_zaatar/steps/step1.jpg",
+            "/assets/images/burger_zaatar/steps/step2.jpg",
+            "/assets/images/burger_zaatar/steps/step3.jpg",
+            "/assets/images/burger_zaatar/steps/step4.jpg",
+            "/assets/images/burger_zaatar/steps/step5.jpg",
+            "/assets/images/burger_zaatar/steps/step6.jpg",
+            "/assets/images/burger_zaatar/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/burger_zaatar/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.460440",
+        "updated_at": "2025-08-20T22:48:28.460457"
+    },
+    "Recette.6ed5ddf8-269f-4adf-b382-8e24a715311f": {
+        "id": "6ed5ddf8-269f-4adf-b382-8e24a715311f",
+        "nom": "Toastie poulet tranch\u00e9, brie & confit de figues",
+        "image_path": "/assets/images/toastie/plat.jpg",
+        "categories": [
+            "Poulet",
+            "Fromage"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/toastie/steps/step1.jpg",
+            "/assets/images/toastie/steps/step2.jpg",
+            "/assets/images/toastie/steps/step3.jpg",
+            "/assets/images/toastie/steps/step4.jpg",
+            "/assets/images/toastie/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/toastie/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.460886",
+        "updated_at": "2025-08-20T22:48:28.460893"
+    },
+    "Recette.7371c7e2-9049-4adb-a1c8-3e3af7dcda7c": {
+        "id": "7371c7e2-9049-4adb-a1c8-3e3af7dcda7c",
+        "nom": "Curry indien \u00e0 la patate douce & \u00e9pinards",
+        "image_path": "/assets/images/curry_indien/plat.jpg",
+        "categories": [
+            "Curry",
+            "Patate Douce",
+            "Riz",
+            "V\u00e9g\u00e9tarien"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/curry_indien/steps/step1.jpg",
+            "/assets/images/curry_indien/steps/step2.jpg",
+            "/assets/images/curry_indien/steps/step3.jpg",
+            "/assets/images/curry_indien/steps/step4.jpg",
+            "/assets/images/curry_indien/steps/step5.jpg",
+            "/assets/images/curry_indien/steps/step6.jpg",
+            "/assets/images/curry_indien/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/curry_indien/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.463025",
+        "updated_at": "2025-08-20T22:48:28.463040"
+    },
+    "Recette.14d922c8-8102-4c94-9cb6-40e343b9f372": {
+        "id": "14d922c8-8102-4c94-9cb6-40e343b9f372",
+        "nom": "Porc grill\u00e9 \u00e0 la ta\u00efwanaise & pak cho\u00ef",
+        "image_path": "/assets/images/porc_grille_taiwan/plat.jpg",
+        "categories": [
+            "Riz",
+            "Porc",
+            "Champignons"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/porc_grille_taiwan/steps/step1.jpg",
+            "/assets/images/porc_grille_taiwan/steps/step2.jpg",
+            "/assets/images/porc_grille_taiwan/steps/step3.jpg",
+            "/assets/images/porc_grille_taiwan/steps/step4.jpg",
+            "/assets/images/porc_grille_taiwan/steps/step5.jpg",
+            "/assets/images/porc_grille_taiwan/steps/step6.jpg",
+            "/assets/images/porc_grille_taiwan/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/porc_grille_taiwan/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.463723",
+        "updated_at": "2025-08-20T22:48:28.463736"
+    },
+    "Recette.4e919527-5ac7-4b29-b9e1-1939f0fb6f88": {
+        "id": "4e919527-5ac7-4b29-b9e1-1939f0fb6f88",
+        "nom": "Poulet croustillant fa\u00e7on Katsu japonais",
+        "image_path": "/assets/images/poulet_japonais/plat.jpg",
+        "categories": [
+            "Poulet",
+            "Riz",
+            "Panko"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/poulet_japonais/steps/step1.jpg",
+            "/assets/images/poulet_japonais/steps/step2.jpg",
+            "/assets/images/poulet_japonais/steps/step3.jpg",
+            "/assets/images/poulet_japonais/steps/step4.jpg",
+            "/assets/images/poulet_japonais/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/poulet_japonais/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.464294",
+        "updated_at": "2025-08-20T22:48:28.464304"
+    },
+    "Recette.b4b7e5f8-d9e9-4e0d-b0f3-cd3a0ed2c936": {
+        "id": "b4b7e5f8-d9e9-4e0d-b0f3-cd3a0ed2c936",
+        "nom": "Porc \u00e9pic\u00e9 \u00e0 la mexicaine & riz au curcuma",
+        "image_path": "/assets/images/porc_epice_mexicain/plat.jpg",
+        "categories": [
+            "Riz",
+            "Porc"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/porc_epice_mexicain/steps/step1.jpg",
+            "/assets/images/porc_epice_mexicain/steps/step2.jpg",
+            "/assets/images/porc_epice_mexicain/steps/step3.jpg",
+            "/assets/images/porc_epice_mexicain/steps/step4.jpg",
+            "/assets/images/porc_epice_mexicain/steps/step5.jpg",
+            "/assets/images/porc_epice_mexicain/steps/step6.jpg",
+            "/assets/images/porc_epice_mexicain/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/porc_epice_mexicain/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.464870",
+        "updated_at": "2025-08-20T22:48:28.464879"
+    },
+    "Recette.269cc79b-c67b-43da-b4ee-d3fe9604eb20": {
+        "id": "269cc79b-c67b-43da-b4ee-d3fe9604eb20",
+        "nom": "Keema : b\u0153uf hach\u00e9 \u00e0 la pakistanaise & riz",
+        "image_path": "/assets/images/keema/plat.jpg",
+        "categories": [
+            "Riz",
+            "B\u0153uf",
+            "Patate Douce"
+        ],
+        "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/keema/steps/step1.jpg",
+            "/assets/images/keema/steps/step2.jpg",
+            "/assets/images/keema/steps/step3.jpg",
+            "/assets/images/keema/steps/step4.jpg",
+            "/assets/images/keema/steps/step5.jpg",
+            "/assets/images/keema/steps/step6.jpg",
+            "/assets/images/keema/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/keema/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.465445",
+        "updated_at": "2025-08-20T22:48:28.465454"
+    },
+    "Recette.55bbac3e-12f4-4c70-91a3-148784c25716": {
+        "id": "55bbac3e-12f4-4c70-91a3-148784c25716",
+        "nom": "Arroz attollado : riz colombien au porc",
+        "image_path": "/assets/images/arroz/plat.jpg",
+        "categories": [
+            "Riz",
+            "Porc",
+            "Chorizo"
+        ],
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/arroz/steps/step1.jpg",
+            "/assets/images/arroz/steps/step2.jpg",
+            "/assets/images/arroz/steps/step3.jpg",
+            "/assets/images/arroz/steps/step4.jpg",
+            "/assets/images/arroz/steps/step5.jpg",
+            "/assets/images/arroz/steps/step6.jpg",
+            "/assets/images/arroz/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/arroz/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.466249",
+        "updated_at": "2025-08-20T22:48:28.466263"
+    },
+    "Recette.662175d9-6930-455b-8fda-68a2f4870f26": {
+        "id": "662175d9-6930-455b-8fda-68a2f4870f26",
+        "nom": "Cheesy Fries cheddar & dinde BBQ grill\u00e9",
+        "image_path": "/assets/images/cheesy_fries/plat.jpg",
+        "categories": [
+            "Frites",
+            "Dinde"
+        ],
+        "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/cheesy_fries/steps/step1.jpg",
+            "/assets/images/cheesy_fries/steps/step2.jpg",
+            "/assets/images/cheesy_fries/steps/step3.jpg",
+            "/assets/images/cheesy_fries/steps/step4.jpg",
+            "/assets/images/cheesy_fries/steps/step5.jpg",
+            "/assets/images/cheesy_fries/steps/step6.jpg",
+            "/assets/images/cheesy_fries/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/cheesy_fries/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.467206",
+        "updated_at": "2025-08-20T22:48:28.467216"
+    },
+    "Recette.9662d1f6-5800-4c35-8d0e-eaf2f31826d8": {
+        "id": "9662d1f6-5800-4c35-8d0e-eaf2f31826d8",
+        "nom": "Nasi Goreng : riz indon\u00e9sien au poulet",
+        "image_path": "/assets/images/nasi_goreng/plat.jpg",
+        "categories": [
+            "Riz",
+            "Poulet"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/nasi_goreng/steps/step1.jpg",
+            "/assets/images/nasi_goreng/steps/step2.jpg",
+            "/assets/images/nasi_goreng/steps/step3.jpg",
+            "/assets/images/nasi_goreng/steps/step4.jpg",
+            "/assets/images/nasi_goreng/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/nasi_goreng/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.468391",
+        "updated_at": "2025-08-20T22:48:28.468402"
+    },
+    "Recette.4cd6a589-a6a6-4e02-98cb-740d3a6ccc99": {
+        "id": "4cd6a589-a6a6-4e02-98cb-740d3a6ccc99",
+        "nom": "Pav\u00e9 de b\u0153uf sauce Bercy",
+        "image_path": "/assets/images/pave_bercy/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/pave_bercy/steps/step1.jpg",
+            "/assets/images/pave_bercy/steps/step2.jpg",
+            "/assets/images/pave_bercy/steps/step3.jpg",
+            "/assets/images/pave_bercy/steps/step4.jpg",
+            "/assets/images/pave_bercy/steps/step5.jpg",
+            "/assets/images/pave_bercy/steps/step6.jpg",
+            "/assets/images/pave_bercy/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/pave_bercy/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.469172",
+        "updated_at": "2025-08-20T22:48:28.469185"
+    },
+    "Recette.56eb37ef-bc4c-42a6-958b-70f8a8897675": {
+        "id": "56eb37ef-bc4c-42a6-958b-70f8a8897675",
+        "nom": "Gyudon : bowl de b\u0153uf \u00e0 la japonaise",
+        "image_path": "/assets/images/gyudon/plat.jpg",
+        "categories": [
+            "B\u0153uf",
+            "Riz"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/gyudon/steps/step1.jpg",
+            "/assets/images/gyudon/steps/step2.jpg",
+            "/assets/images/gyudon/steps/step3.jpg",
+            "/assets/images/gyudon/steps/step4.jpg",
+            "/assets/images/gyudon/steps/step5.jpg",
+            "/assets/images/gyudon/steps/step6.jpg",
+            "/assets/images/gyudon/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/gyudon/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.470087",
+        "updated_at": "2025-08-20T22:48:28.470098"
+    },
+    "Recette.61a2c155-83bc-4b69-948b-e423524b2eb1": {
+        "id": "61a2c155-83bc-4b69-948b-e423524b2eb1",
+        "nom": "Po\u00eal\u00e9e de b\u0153uf \u00e0 la cambodgienne",
+        "image_path": "/assets/images/poelee_cambodge/plat.jpg",
+        "categories": [
+            "Riz",
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/poelee_cambodge/steps/step1.jpg",
+            "/assets/images/poelee_cambodge/steps/step2.jpg",
+            "/assets/images/poelee_cambodge/steps/step3.jpg",
+            "/assets/images/poelee_cambodge/steps/step4.jpg",
+            "/assets/images/poelee_cambodge/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/poelee_cambodge/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.471139",
+        "updated_at": "2025-08-20T22:48:28.471151"
+    },
+    "Recette.1cc94354-3a0d-4922-a291-c22b888bfbf2": {
+        "id": "1cc94354-3a0d-4922-a291-c22b888bfbf2",
+        "nom": "Bibimbap cor\u00e9en porc hach\u00e9, miso & s\u00e9same",
+        "image_path": "/assets/images/bibimbap/plat.jpg",
+        "categories": [
+            "Riz",
+            "Porc"
+        ],
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/bibimbap/steps/step1.jpg",
+            "/assets/images/bibimbap/steps/step2.jpg",
+            "/assets/images/bibimbap/steps/step3.jpg",
+            "/assets/images/bibimbap/steps/step4.jpg",
+            "/assets/images/bibimbap/steps/step5.jpg",
+            "/assets/images/bibimbap/steps/step6.jpg",
+            "/assets/images/bibimbap/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/bibimbap/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.471877",
+        "updated_at": "2025-08-20T22:48:28.471885"
+    },
+    "Recette.e539b8f6-7f66-4c2d-b496-0c35c7be9759": {
+        "id": "e539b8f6-7f66-4c2d-b496-0c35c7be9759",
+        "nom": "Gratin supersonique : gnocchi & champignons",
+        "image_path": "/assets/images/gnocchi/plat.jpg",
+        "categories": [
+            "Gnocchi",
+            "Champignons",
+            "V\u00e9g\u00e9tarien"
+        ],
+        "used": null,
+        "temps_total": "15 minutes",
+        "steps": [
+            "/assets/images/gnocchi/steps/step1.jpg",
+            "/assets/images/gnocchi/steps/step2.jpg",
+            "/assets/images/gnocchi/steps/step3.jpg",
+            "/assets/images/gnocchi/steps/step4.jpg",
+            "/assets/images/gnocchi/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/gnocchi/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.472764",
+        "updated_at": "2025-08-20T22:48:28.472777"
+    },
+    "Recette.459ff51b-2154-4140-b229-9e1b0efa37b2": {
+        "id": "459ff51b-2154-4140-b229-9e1b0efa37b2",
+        "nom": "Curry vert tha\u00ef au poulet",
+        "image_path": "/assets/images/curry_vert_thai/plat.jpg",
+        "categories": [
+            "Curry",
+            "Riz",
+            "Poulet"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/curry_vert_thai/steps/step1.jpg",
+            "/assets/images/curry_vert_thai/steps/step2.jpg",
+            "/assets/images/curry_vert_thai/steps/step3.jpg",
+            "/assets/images/curry_vert_thai/steps/step4.jpg",
+            "/assets/images/curry_vert_thai/steps/step5.jpg",
+            "/assets/images/curry_vert_thai/steps/step6.jpg",
+            "/assets/images/curry_vert_thai/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/curry_vert_thai/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.473710",
+        "updated_at": "2025-08-20T22:48:28.473723"
+    },
+    "Recette.bb1afd4d-8a75-4b62-b95c-4f2130703d71": {
+        "id": "bb1afd4d-8a75-4b62-b95c-4f2130703d71",
+        "nom": "Wok au poulet coco \u00e9pic\u00e9 fa\u00e7on bicol",
+        "image_path": "/assets/images/wok_bicol/plat.jpg",
+        "categories": [
+            "Poulet",
+            "Nouilles"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/wok_bicol/steps/step1.jpg",
+            "/assets/images/wok_bicol/steps/step2.jpg",
+            "/assets/images/wok_bicol/steps/step3.jpg",
+            "/assets/images/wok_bicol/steps/step4.jpg",
+            "/assets/images/wok_bicol/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/wok_bicol/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.474500",
+        "updated_at": "2025-08-20T22:48:28.474510"
+    },
+    "Recette.c3baf4dd-2b27-4b8a-b3c8-99d5fd4ce075": {
+        "id": "c3baf4dd-2b27-4b8a-b3c8-99d5fd4ce075",
+        "nom": "Rajma makhani : mijot\u00e9 aux haricots noirs",
+        "image_path": "/assets/images/rajma/plat.jpg",
+        "categories": [
+            "Naan",
+            "Haricots Noirs",
+            "V\u00e9g\u00e9tarien"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/rajma/steps/step1.jpg",
+            "/assets/images/rajma/steps/step2.jpg",
+            "/assets/images/rajma/steps/step3.jpg",
+            "/assets/images/rajma/steps/step4.jpg",
+            "/assets/images/rajma/steps/step5.jpg",
+            "/assets/images/rajma/steps/step6.jpg",
+            "/assets/images/rajma/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/rajma/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.475196",
+        "updated_at": "2025-08-20T22:48:28.475203"
+    },
+    "Recette.2fee14c2-9843-48b5-94e1-d526dca45d4c": {
+        "id": "2fee14c2-9843-48b5-94e1-d526dca45d4c",
+        "nom": "One pot Tex-Mex : chorizo, riz & cheddar",
+        "image_path": "/assets/images/one_pot_tex_mex/plat.jpg",
+        "categories": [
+            "Riz",
+            "Chorizo"
+        ],
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/one_pot_tex_mex/steps/step1.jpg",
+            "/assets/images/one_pot_tex_mex/steps/step2.jpg",
+            "/assets/images/one_pot_tex_mex/steps/step3.jpg",
+            "/assets/images/one_pot_tex_mex/steps/step4.jpg",
+            "/assets/images/one_pot_tex_mex/steps/step5.jpg",
+            "/assets/images/one_pot_tex_mex/steps/step6.jpg",
+            "/assets/images/one_pot_tex_mex/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/one_pot_tex_mex/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.476146",
+        "updated_at": "2025-08-20T22:48:28.476156"
+    },
+    "Recette.b6bf87c6-da66-4f49-9ef8-10bdd000443f": {
+        "id": "b6bf87c6-da66-4f49-9ef8-10bdd000443f",
+        "nom": "B\u0153uf & potatoes au thym fa\u00e7on bistrot",
+        "image_path": "/assets/images/boeuf_bistrot/plat.jpg",
+        "categories": [
+            "B\u0153uf",
+            "Potatoes"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/boeuf_bistrot/steps/step1.jpg",
+            "/assets/images/boeuf_bistrot/steps/step2.jpg",
+            "/assets/images/boeuf_bistrot/steps/step3.jpg",
+            "/assets/images/boeuf_bistrot/steps/step4.jpg",
+            "/assets/images/boeuf_bistrot/steps/step5.jpg",
+            "/assets/images/boeuf_bistrot/steps/step6.jpg",
+            "/assets/images/boeuf_bistrot/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/boeuf_bistrot/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.477309",
+        "updated_at": "2025-08-20T22:48:28.477319"
+    },
+    "Recette.bd5167c5-9e7a-400e-926c-01844c858a4c": {
+        "id": "bd5167c5-9e7a-400e-926c-01844c858a4c",
+        "nom": "Manti turcs revisit\u00e9s : p\u00e2tes au b\u0153uf",
+        "image_path": "/assets/images/manti_turc/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/manti_turc/steps/step1.jpg",
+            "/assets/images/manti_turc/steps/step2.jpg",
+            "/assets/images/manti_turc/steps/step3.jpg",
+            "/assets/images/manti_turc/steps/step4.jpg",
+            "/assets/images/manti_turc/steps/step5.jpg",
+            "/assets/images/manti_turc/steps/step6.jpg",
+            "/assets/images/manti_turc/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/manti_turc/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.478473",
+        "updated_at": "2025-08-20T22:48:28.478485"
+    },
+    "Recette.d0f24091-e645-4534-ba31-15e4e9b3952b": {
+        "id": "d0f24091-e645-4534-ba31-15e4e9b3952b",
+        "nom": "Salade couscous perl\u00e9, avocat & ch\u00e8vre",
+        "image_path": "/assets/images/salade_couscous_perle/plat.jpg",
+        "categories": [
+            "Couscous Perl\u00e9",
+            "V\u00e9g\u00e9tarien"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/salade_couscous_perle/steps/step1.jpg",
+            "/assets/images/salade_couscous_perle/steps/step2.jpg",
+            "/assets/images/salade_couscous_perle/steps/step3.jpg",
+            "/assets/images/salade_couscous_perle/steps/step4.jpg",
+            "/assets/images/salade_couscous_perle/steps/step5.jpg",
+            "/assets/images/salade_couscous_perle/steps/step6.jpg",
+            "/assets/images/salade_couscous_perle/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/salade_couscous_perle/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.480111",
+        "updated_at": "2025-08-20T22:48:28.480128"
+    },
+    "Recette.970c43ea-0805-4f63-9b81-7c21b81664bc": {
+        "id": "970c43ea-0805-4f63-9b81-7c21b81664bc",
+        "nom": "Mijot\u00e9 vivifiant de dinde au curry jaune",
+        "image_path": "/assets/images/mijote_curry_jaune/plat.jpg",
+        "categories": [
+            "Curry",
+            "Dinde",
+            "Patate Douce"
+        ],
+        "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/mijote_curry_jaune/steps/step1.jpg",
+            "/assets/images/mijote_curry_jaune/steps/step2.jpg",
+            "/assets/images/mijote_curry_jaune/steps/step3.jpg",
+            "/assets/images/mijote_curry_jaune/steps/step4.jpg",
+            "/assets/images/mijote_curry_jaune/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/mijote_curry_jaune/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.483443",
+        "updated_at": "2025-08-20T22:48:28.483459"
+    },
+    "Recette.98b640de-7514-42df-8c14-2ccf1112c4ff": {
+        "id": "98b640de-7514-42df-8c14-2ccf1112c4ff",
+        "nom": "Poulet frit \u00e0 la cor\u00e9enne & crudit\u00e9s",
+        "image_path": "/assets/images/poulet_frit_coreen/plat.jpg",
+        "categories": [
+            "Panko",
+            "Poulet",
+            "Riz"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/poulet_frit_coreen/steps/step1.jpg",
+            "/assets/images/poulet_frit_coreen/steps/step2.jpg",
+            "/assets/images/poulet_frit_coreen/steps/step3.jpg",
+            "/assets/images/poulet_frit_coreen/steps/step4.jpg",
+            "/assets/images/poulet_frit_coreen/steps/step5.jpg",
+            "/assets/images/poulet_frit_coreen/steps/step6.jpg",
+            "/assets/images/poulet_frit_coreen/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/poulet_frit_coreen/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.484423",
+        "updated_at": "2025-08-20T22:48:28.484432"
+    },
+    "Recette.40314393-be33-4cfa-bf86-701c20852ccc": {
+        "id": "40314393-be33-4cfa-bf86-701c20852ccc",
+        "nom": "Maf\u00e9 revisit\u00e9 au poulet & carotte",
+        "image_path": "/assets/images/mafe/plat.jpg",
+        "categories": [
+            "Riz",
+            "Poulet"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/mafe/steps/step1.jpg",
+            "/assets/images/mafe/steps/step2.jpg",
+            "/assets/images/mafe/steps/step3.jpg",
+            "/assets/images/mafe/steps/step4.jpg",
+            "/assets/images/mafe/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/mafe/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.485473",
+        "updated_at": "2025-08-20T22:48:28.485484"
+    },
+    "Recette.3f5ebf8b-3365-4ed7-a863-5bd78478de3f": {
+        "id": "3f5ebf8b-3365-4ed7-a863-5bd78478de3f",
+        "nom": "Les fameuses p\u00e2tes carbo \u00e0 la fran\u00e7aise",
+        "image_path": "/assets/images/pates_carbo/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Porc"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/pates_carbo/steps/step1.jpg",
+            "/assets/images/pates_carbo/steps/step2.jpg",
+            "/assets/images/pates_carbo/steps/step3.jpg",
+            "/assets/images/pates_carbo/steps/step4.jpg",
+            "/assets/images/pates_carbo/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/pates_carbo/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.486730",
+        "updated_at": "2025-08-20T22:48:28.486743"
+    },
+    "Recette.d9ed51a4-933f-446d-9ebe-82e20a7a8de8": {
+        "id": "d9ed51a4-933f-446d-9ebe-82e20a7a8de8",
+        "nom": "Burrito au porc marin\u00e9 \u00e0 la mexicaine",
+        "image_path": "/assets/images/burrito/plat.jpg",
+        "categories": [
+            "Tortilla",
+            "Porc"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/burrito/steps/step1.jpg",
+            "/assets/images/burrito/steps/step2.jpg",
+            "/assets/images/burrito/steps/step3.jpg",
+            "/assets/images/burrito/steps/step4.jpg",
+            "/assets/images/burrito/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/burrito/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.488395",
+        "updated_at": "2025-08-20T22:48:28.488405"
+    },
+    "Recette.9f0dc407-41bf-4fce-af9f-03ac22eb7327": {
+        "id": "9f0dc407-41bf-4fce-af9f-03ac22eb7327",
+        "nom": "Keftas de b\u0153uf & semoule aux \u00e9pices",
+        "image_path": "/assets/images/kefta/plat.jpg",
+        "categories": [
+            "B\u0153uf",
+            "Semoule"
+        ],
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/kefta/steps/step1.jpg",
+            "/assets/images/kefta/steps/step2.jpg",
+            "/assets/images/kefta/steps/step3.jpg",
+            "/assets/images/kefta/steps/step4.jpg",
+            "/assets/images/kefta/steps/step5.jpg",
+            "/assets/images/kefta/steps/step6.jpg",
+            "/assets/images/kefta/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/kefta/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.489326",
+        "updated_at": "2025-08-20T22:48:28.489336"
+    },
+    "Recette.10bf5cd7-60d3-46ca-96dd-df96fc7d6ef9": {
+        "id": "10bf5cd7-60d3-46ca-96dd-df96fc7d6ef9",
+        "nom": "Porc au caramel vietnamien & riz",
+        "image_path": "/assets/images/porc_caramel/plat.jpg",
+        "categories": [
+            "Porc",
+            "Riz"
+        ],
+        "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/porc_caramel/steps/step1.jpg",
+            "/assets/images/porc_caramel/steps/step2.jpg",
+            "/assets/images/porc_caramel/steps/step3.jpg",
+            "/assets/images/porc_caramel/steps/step4.jpg",
+            "/assets/images/porc_caramel/steps/step5.jpg",
+            "/assets/images/porc_caramel/steps/step6.jpg",
+            "/assets/images/porc_caramel/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/porc_caramel/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.490328",
+        "updated_at": "2025-08-20T22:48:28.490340"
+    },
+    "Recette.9fd9d80b-4cf1-44a8-97bb-54af9e37fd7a": {
+        "id": "9fd9d80b-4cf1-44a8-97bb-54af9e37fd7a",
+        "nom": "Taquitos porc hach\u00e9, avocat relev\u00e9 & gouda",
+        "image_path": "/assets/images/taquito/plat.jpg",
+        "categories": [
+            "Tortilla",
+            "Porc"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/taquito/steps/step1.jpg",
+            "/assets/images/taquito/steps/step2.jpg",
+            "/assets/images/taquito/steps/step3.jpg",
+            "/assets/images/taquito/steps/step4.jpg",
+            "/assets/images/taquito/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/taquito/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.491937",
+        "updated_at": "2025-08-20T22:48:28.491949"
+    },
+    "Recette.ae96e5b4-8d75-4893-96e8-978bf1bc509e": {
+        "id": "ae96e5b4-8d75-4893-96e8-978bf1bc509e",
+        "nom": "Wok de dinde au cumin \u00e0 la chinoise",
+        "image_path": "/assets/images/wok_cumin/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Dinde"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/wok_cumin/steps/step1.jpg",
+            "/assets/images/wok_cumin/steps/step2.jpg",
+            "/assets/images/wok_cumin/steps/step3.jpg",
+            "/assets/images/wok_cumin/steps/step4.jpg",
+            "/assets/images/wok_cumin/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/wok_cumin/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.493245",
+        "updated_at": "2025-08-20T22:48:28.493254"
+    },
+    "Recette.7ca79d4d-45cc-46dc-901a-7cff1eb01576": {
+        "id": "7ca79d4d-45cc-46dc-901a-7cff1eb01576",
+        "nom": "Riz saut\u00e9 chinois multi-l\u00e9gumes au soja",
+        "image_path": "/assets/images/riz_saute/plat.jpg",
+        "categories": [
+            "Riz",
+            "V\u00e9g\u00e9tarien"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/riz_saute/steps/step1.jpg",
+            "/assets/images/riz_saute/steps/step2.jpg",
+            "/assets/images/riz_saute/steps/step3.jpg",
+            "/assets/images/riz_saute/steps/step4.jpg",
+            "/assets/images/riz_saute/steps/step5.jpg",
+            "/assets/images/riz_saute/steps/step6.jpg",
+            "/assets/images/riz_saute/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/riz_saute/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.494961",
+        "updated_at": "2025-08-20T22:48:28.494974"
+    },
+    "Recette.56c55e4e-7b8e-42a8-b4a1-9729392ad300": {
+        "id": "56c55e4e-7b8e-42a8-b4a1-9729392ad300",
+        "nom": "Poulet-frites sauce poulette fa\u00e7on bistrot",
+        "image_path": "/assets/images/poulet_frites/plat.jpg",
+        "categories": [
+            "Poulet",
+            "Frites"
+        ],
+        "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/poulet_frites/steps/step1.jpg",
+            "/assets/images/poulet_frites/steps/step2.jpg",
+            "/assets/images/poulet_frites/steps/step3.jpg",
+            "/assets/images/poulet_frites/steps/step4.jpg",
+            "/assets/images/poulet_frites/steps/step5.jpg",
+            "/assets/images/poulet_frites/steps/step6.jpg",
+            "/assets/images/poulet_frites/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/poulet_frites/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.496129",
+        "updated_at": "2025-08-20T22:48:28.496141"
+    },
+    "Recette.b517105d-151e-445e-ad82-9795d1e0d332": {
+        "id": "b517105d-151e-445e-ad82-9795d1e0d332",
+        "nom": "Wok de nouilles saut\u00e9es au b\u0153uf marin\u00e9",
+        "image_path": "/assets/images/wok_boeuf/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/wok_boeuf/steps/step1.jpg",
+            "/assets/images/wok_boeuf/steps/step2.jpg",
+            "/assets/images/wok_boeuf/steps/step3.jpg",
+            "/assets/images/wok_boeuf/steps/step4.jpg",
+            "/assets/images/wok_boeuf/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/wok_boeuf/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.497793",
+        "updated_at": "2025-08-20T22:48:28.497809"
+    },
+    "Recette.1f596dc7-227b-4d7f-9a69-b0c68a36a837": {
+        "id": "1f596dc7-227b-4d7f-9a69-b0c68a36a837",
+        "nom": "Poulet dor\u00e9 & r\u00e9duction fraise balsamique",
+        "image_path": "/assets/images/poulet_dore_fraise/plat.jpg",
+        "categories": [
+            "Poulet",
+            "Potatoes"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/poulet_dore_fraise/steps/step1.jpg",
+            "/assets/images/poulet_dore_fraise/steps/step2.jpg",
+            "/assets/images/poulet_dore_fraise/steps/step3.jpg",
+            "/assets/images/poulet_dore_fraise/steps/step4.jpg",
+            "/assets/images/poulet_dore_fraise/steps/step5.jpg",
+            "/assets/images/poulet_dore_fraise/steps/step6.jpg",
+            "/assets/images/poulet_dore_fraise/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/poulet_dore_fraise/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.499857",
+        "updated_at": "2025-08-20T22:48:28.499872"
+    },
+    "Recette.ee8d4eb0-5eac-4230-bb37-d10933f18f09": {
+        "id": "ee8d4eb0-5eac-4230-bb37-d10933f18f09",
+        "nom": "Cordon bleu maison : jambon & mozzarella",
+        "image_path": "/assets/images/cordon_bleu/plat.jpg",
+        "categories": [
+            "Poulet",
+            "Jambon",
+            "Panko"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/cordon_bleu/steps/step1.jpg",
+            "/assets/images/cordon_bleu/steps/step2.jpg",
+            "/assets/images/cordon_bleu/steps/step3.jpg",
+            "/assets/images/cordon_bleu/steps/step4.jpg",
+            "/assets/images/cordon_bleu/steps/step5.jpg",
+            "/assets/images/cordon_bleu/steps/step6.jpg",
+            "/assets/images/cordon_bleu/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/cordon_bleu/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.502001",
+        "updated_at": "2025-08-20T22:48:28.502015"
+    },
+    "Recette.e6e36530-b5ef-44a5-8f0f-a46b9aa8ce92": {
+        "id": "e6e36530-b5ef-44a5-8f0f-a46b9aa8ce92",
+        "nom": "Pizza naan cr\u00e8me de pesto, mozza & jambon",
+        "image_path": "/assets/images/pizza_naan/plat.jpg",
+        "categories": [
+            "Naan",
+            "Jambon"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/pizza_naan/steps/step1.jpg",
+            "/assets/images/pizza_naan/steps/step2.jpg",
+            "/assets/images/pizza_naan/steps/step3.jpg",
+            "/assets/images/pizza_naan/steps/step4.jpg",
+            "/assets/images/pizza_naan/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/pizza_naan/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.505187",
+        "updated_at": "2025-08-20T22:48:28.505202"
+    },
+    "Recette.184e12bd-4edd-4843-bd13-d7d99ad49258": {
+        "id": "184e12bd-4edd-4843-bd13-d7d99ad49258",
+        "nom": "Pav\u00e9 de b\u0153uf & sauce estragon printani\u00e8re",
+        "image_path": "/assets/images/pave_estragon/plat.jpg",
+        "categories": [
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/pave_estragon/steps/step1.jpg",
+            "/assets/images/pave_estragon/steps/step2.jpg",
+            "/assets/images/pave_estragon/steps/step3.jpg",
+            "/assets/images/pave_estragon/steps/step4.jpg",
+            "/assets/images/pave_estragon/steps/step5.jpg",
+            "/assets/images/pave_estragon/steps/step6.jpg",
+            "/assets/images/pave_estragon/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/pave_estragon/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.507468",
+        "updated_at": "2025-08-20T22:48:28.507482"
+    },
+    "Recette.3a8e2265-fab0-462a-9557-4bc468dec85d": {
+        "id": "3a8e2265-fab0-462a-9557-4bc468dec85d",
+        "nom": "P\u00e2tes montagnardes au cantal AOP & lardons",
+        "image_path": "/assets/images/pates_montagnardes/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Porc"
+        ],
+        "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/pates_montagnardes/steps/step1.jpg",
+            "/assets/images/pates_montagnardes/steps/step2.jpg",
+            "/assets/images/pates_montagnardes/steps/step3.jpg",
+            "/assets/images/pates_montagnardes/steps/step4.jpg",
+            "/assets/images/pates_montagnardes/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/pates_montagnardes/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.508865",
+        "updated_at": "2025-08-20T22:48:28.508876"
+    },
+    "Recette.91f3400e-2ae4-41e3-a12b-8a360cb50f76": {
+        "id": "91f3400e-2ae4-41e3-a12b-8a360cb50f76",
+        "nom": "Le Truff\u00e9 : burger au fromage \u00e0 la truffe",
+        "image_path": "/assets/images/burger_truffe/plat.jpg",
+        "categories": [
+            "Burger",
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/burger_truffe/steps/step1.jpg",
+            "/assets/images/burger_truffe/steps/step2.jpg",
+            "/assets/images/burger_truffe/steps/step3.jpg",
+            "/assets/images/burger_truffe/steps/step4.jpg",
+            "/assets/images/burger_truffe/steps/step5.jpg",
+            "/assets/images/burger_truffe/steps/step6.jpg",
+            "/assets/images/burger_truffe/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/burger_truffe/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.510212",
+        "updated_at": "2025-08-20T22:48:28.510223"
+    },
+    "Recette.6d6f5a04-6af0-448f-8b37-27bde9fc6a7b": {
+        "id": "6d6f5a04-6af0-448f-8b37-27bde9fc6a7b",
+        "nom": "Schnitzel de porc & sauce BBQ maison",
+        "image_path": "/assets/images/schnitzel_porc/plat.jpg",
+        "categories": [
+            "Porc",
+            "Panko"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/schnitzel_porc/steps/step1.jpg",
+            "/assets/images/schnitzel_porc/steps/step2.jpg",
+            "/assets/images/schnitzel_porc/steps/step3.jpg",
+            "/assets/images/schnitzel_porc/steps/step4.jpg",
+            "/assets/images/schnitzel_porc/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/schnitzel_porc/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.511368",
+        "updated_at": "2025-08-20T22:48:28.511376"
+    },
+    "Recette.329dcadd-2931-4996-83b7-9a09a4e29941": {
+        "id": "329dcadd-2931-4996-83b7-9a09a4e29941",
+        "nom": "Curry de dinde, nouilles & coco",
+        "image_path": "/assets/images/curry_dinde/plat.jpg",
+        "categories": [
+            "Curry",
+            "Dinde",
+            "Nouilles"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/curry_dinde/steps/step1.jpg",
+            "/assets/images/curry_dinde/steps/step2.jpg",
+            "/assets/images/curry_dinde/steps/step3.jpg",
+            "/assets/images/curry_dinde/steps/step4.jpg",
+            "/assets/images/curry_dinde/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/curry_dinde/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.515018",
+        "updated_at": "2025-08-20T22:48:28.515032"
+    },
+    "Recette.abf5ce95-4ff5-4137-88de-6facb06c68b7": {
+        "id": "abf5ce95-4ff5-4137-88de-6facb06c68b7",
+        "nom": "Burrito bowl porc & cheddar \u00e0 la mexicaine",
+        "image_path": "/assets/images/burrito_bowl/plat.jpg",
+        "categories": [
+            "Porc",
+            "Riz"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/burrito_bowl/steps/step1.jpg",
+            "/assets/images/burrito_bowl/steps/step2.jpg",
+            "/assets/images/burrito_bowl/steps/step3.jpg",
+            "/assets/images/burrito_bowl/steps/step4.jpg",
+            "/assets/images/burrito_bowl/steps/step5.jpg",
+            "/assets/images/burrito_bowl/steps/step6.jpg",
+            "/assets/images/burrito_bowl/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/burrito_bowl/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.518640",
+        "updated_at": "2025-08-20T22:48:28.518666"
+    },
+    "Recette.b78663b6-1899-4c33-bdb6-672882fb433f": {
+        "id": "b78663b6-1899-4c33-bdb6-672882fb433f",
+        "nom": "Nouilles au b\u0153uf saut\u00e9es \u00e0 la tha\u00ef",
+        "image_path": "/assets/images/nouilles_boeuf_saute/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/nouilles_boeuf_saute/steps/step1.jpg",
+            "/assets/images/nouilles_boeuf_saute/steps/step2.jpg",
+            "/assets/images/nouilles_boeuf_saute/steps/step3.jpg",
+            "/assets/images/nouilles_boeuf_saute/steps/step4.jpg",
+            "/assets/images/nouilles_boeuf_saute/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/nouilles_boeuf_saute/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.520859",
+        "updated_at": "2025-08-20T22:48:28.520869"
+    },
+    "Recette.48d6da07-afb4-4f34-a882-8e1a6f13e8ca": {
+        "id": "48d6da07-afb4-4f34-a882-8e1a6f13e8ca",
+        "nom": "Tacos de sucrine & poulet fa\u00e7on teriyaki",
+        "image_path": "/assets/images/tacos_poulet_teriyaki/plat.jpg",
+        "categories": [
+            "Poulet",
+            "Riz"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/tacos_poulet_teriyaki/steps/step1.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/step2.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/step3.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/step4.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/step5.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/step6.jpg",
+            "/assets/images/tacos_poulet_teriyaki/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/tacos_poulet_teriyaki/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.522343",
+        "updated_at": "2025-08-20T22:48:28.522353"
+    },
+    "Recette.d8b4d086-9a38-4bb2-a386-53bcca05dc2f": {
+        "id": "d8b4d086-9a38-4bb2-a386-53bcca05dc2f",
+        "nom": "B\u0153uf piquant saut\u00e9 fa\u00e7on lomo saltado",
+        "image_path": "/assets/images/boeuf_piquant/plat.jpg",
+        "categories": [
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/boeuf_piquant/steps/step1.jpg",
+            "/assets/images/boeuf_piquant/steps/step2.jpg",
+            "/assets/images/boeuf_piquant/steps/step3.jpg",
+            "/assets/images/boeuf_piquant/steps/step4.jpg",
+            "/assets/images/boeuf_piquant/steps/step5.jpg",
+            "/assets/images/boeuf_piquant/steps/step6.jpg",
+            "/assets/images/boeuf_piquant/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/boeuf_piquant/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.523695",
+        "updated_at": "2025-08-20T22:48:28.523707"
+    },
+    "Recette.3823a961-6130-44f0-aecf-af17a0411a6c": {
+        "id": "3823a961-6130-44f0-aecf-af17a0411a6c",
+        "nom": "Porc sauce \u00e0 l\u2019oignon & pur\u00e9e aux marrons",
+        "image_path": "/assets/images/porc_marrons/plat.jpg",
+        "categories": [
+            "Porc"
+        ],
+        "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/porc_marrons/steps/step1.jpg",
+            "/assets/images/porc_marrons/steps/step2.jpg",
+            "/assets/images/porc_marrons/steps/step3.jpg",
+            "/assets/images/porc_marrons/steps/step4.jpg",
+            "/assets/images/porc_marrons/steps/step5.jpg",
+            "/assets/images/porc_marrons/steps/step6.jpg",
+            "/assets/images/porc_marrons/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/porc_marrons/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.525408",
+        "updated_at": "2025-08-20T22:48:28.525419"
+    },
+    "Recette.4d8ae1d4-c391-4be6-a9d9-bf5076f0396e": {
+        "id": "4d8ae1d4-c391-4be6-a9d9-bf5076f0396e",
+        "nom": "Bicol express philippin : porc \u00e0 la coco",
+        "image_path": "/assets/images/bicol_express/plat.jpg",
+        "categories": [
+            "Porc",
+            "Nouilles"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/bicol_express/steps/step1.jpg",
+            "/assets/images/bicol_express/steps/step2.jpg",
+            "/assets/images/bicol_express/steps/step3.jpg",
+            "/assets/images/bicol_express/steps/step4.jpg",
+            "/assets/images/bicol_express/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/bicol_express/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.527293",
+        "updated_at": "2025-08-20T22:48:28.527309"
+    },
+    "Recette.2a771fb6-4daa-478d-9e96-e36345fc43eb": {
+        "id": "2a771fb6-4daa-478d-9e96-e36345fc43eb",
+        "nom": "Taco bowl : porc tex-mex & riz citronn\u00e9",
+        "image_path": "/assets/images/taco_bowl/plat.jpg",
+        "categories": [
+            "Porc",
+            "Riz"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/taco_bowl/steps/step1.jpg",
+            "/assets/images/taco_bowl/steps/step2.jpg",
+            "/assets/images/taco_bowl/steps/step3.jpg",
+            "/assets/images/taco_bowl/steps/step4.jpg",
+            "/assets/images/taco_bowl/steps/step5.jpg",
+            "/assets/images/taco_bowl/steps/step6.jpg",
+            "/assets/images/taco_bowl/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/taco_bowl/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.528717",
+        "updated_at": "2025-08-20T22:48:28.528729"
+    },
+    "Recette.218813c1-5a35-4918-a2b6-5d12e6a4dc99": {
+        "id": "218813c1-5a35-4918-a2b6-5d12e6a4dc99",
+        "nom": "Penne & b\u0153uf hach\u00e9 aux saveurs mexicaines",
+        "image_path": "/assets/images/penne_boeuf/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/penne_boeuf/steps/step1.jpg",
+            "/assets/images/penne_boeuf/steps/step2.jpg",
+            "/assets/images/penne_boeuf/steps/step3.jpg",
+            "/assets/images/penne_boeuf/steps/step4.jpg",
+            "/assets/images/penne_boeuf/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/penne_boeuf/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.530447",
+        "updated_at": "2025-08-20T22:48:28.530461"
+    },
+    "Recette.4bfc86b4-79af-4e75-b962-a21fa995c026": {
+        "id": "4bfc86b4-79af-4e75-b962-a21fa995c026",
+        "nom": "Pitas tex-mex poulet, avocat & coriandre",
+        "image_path": "/assets/images/pitas_poulet/plat.jpg",
+        "categories": [
+            "Pain pita",
+            "Poulet"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/pitas_poulet/steps/step1.jpg",
+            "/assets/images/pitas_poulet/steps/step2.jpg",
+            "/assets/images/pitas_poulet/steps/step3.jpg",
+            "/assets/images/pitas_poulet/steps/step4.jpg",
+            "/assets/images/pitas_poulet/steps/step5.jpg",
+            "/assets/images/pitas_poulet/steps/step6.jpg",
+            "/assets/images/pitas_poulet/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/pitas_poulet/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.534312",
+        "updated_at": "2025-08-20T22:48:28.534327"
+    },
+    "Recette.239f0a89-c769-4743-9611-e34812d7a89f": {
+        "id": "239f0a89-c769-4743-9611-e34812d7a89f",
+        "nom": "Spaghetti, pesto rosso & jambon sec",
+        "image_path": "/assets/images/spaghetti_pesto/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Jambon"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/spaghetti_pesto/steps/step1.jpg",
+            "/assets/images/spaghetti_pesto/steps/step2.jpg",
+            "/assets/images/spaghetti_pesto/steps/step3.jpg",
+            "/assets/images/spaghetti_pesto/steps/step4.jpg",
+            "/assets/images/spaghetti_pesto/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/spaghetti_pesto/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.537794",
+        "updated_at": "2025-08-20T22:48:28.537806"
+    },
+    "Recette.38bd4e9a-b889-4243-8c8f-87ebe24d60f0": {
+        "id": "38bd4e9a-b889-4243-8c8f-87ebe24d60f0",
+        "nom": "Canette & sauce sucr\u00e9e-sal\u00e9e \u00e0 la marocaine",
+        "image_path": "/assets/images/canette_maroc/plat.jpg",
+        "categories": [
+            "Canard"
+        ],
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/canette_maroc/steps/step1.jpg",
+            "/assets/images/canette_maroc/steps/step2.jpg",
+            "/assets/images/canette_maroc/steps/step3.jpg",
+            "/assets/images/canette_maroc/steps/step4.jpg",
+            "/assets/images/canette_maroc/steps/step5.jpg",
+            "/assets/images/canette_maroc/steps/step6.jpg",
+            "/assets/images/canette_maroc/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/canette_maroc/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.539464",
+        "updated_at": "2025-08-20T22:48:28.539477"
+    },
+    "Recette.cdea30fe-8d2c-4419-88a8-21fb40d4feb3": {
+        "id": "cdea30fe-8d2c-4419-88a8-21fb40d4feb3",
+        "nom": "Tenders de poulet BBQ & potatoes",
+        "image_path": "/assets/images/tenders/plat.jpg",
+        "categories": [
+            "Poulet",
+            "Panko",
+            "Potatoes"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/tenders/steps/step1.jpg",
+            "/assets/images/tenders/steps/step2.jpg",
+            "/assets/images/tenders/steps/step3.jpg",
+            "/assets/images/tenders/steps/step4.jpg",
+            "/assets/images/tenders/steps/step5.jpg",
+            "/assets/images/tenders/steps/step6.jpg",
+            "/assets/images/tenders/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/tenders/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.541621",
+        "updated_at": "2025-08-20T22:48:28.541635"
+    },
+    "Recette.8c091105-44a4-4ae2-a9c4-620f591c6752": {
+        "id": "8c091105-44a4-4ae2-a9c4-620f591c6752",
+        "nom": "La Fra\u00eeche : poulet, crudit\u00e9s & sauce satay",
+        "image_path": "/assets/images/poulet_satay/plat.jpg",
+        "categories": [
+            "Poulet",
+            "Nouilles"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/poulet_satay/steps/step1.jpg",
+            "/assets/images/poulet_satay/steps/step2.jpg",
+            "/assets/images/poulet_satay/steps/step3.jpg",
+            "/assets/images/poulet_satay/steps/step4.jpg",
+            "/assets/images/poulet_satay/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/poulet_satay/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.544284",
+        "updated_at": "2025-08-20T22:48:28.544295"
+    },
+    "Recette.6eab76bf-acff-413e-999d-6c38be38216a": {
+        "id": "6eab76bf-acff-413e-999d-6c38be38216a",
+        "nom": "Tagliata de b\u0153uf \u00e0 l'italienne & rigatoni",
+        "image_path": "/assets/images/tagliata/plat.jpg",
+        "categories": [
+            "B\u0153uf",
+            "Nouilles"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/tagliata/steps/step1.jpg",
+            "/assets/images/tagliata/steps/step2.jpg",
+            "/assets/images/tagliata/steps/step3.jpg",
+            "/assets/images/tagliata/steps/step4.jpg",
+            "/assets/images/tagliata/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/tagliata/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.545722",
+        "updated_at": "2025-08-20T22:48:28.545733"
+    },
+    "Recette.66b9c599-fb70-4006-92e3-a237afa9f074": {
+        "id": "66b9c599-fb70-4006-92e3-a237afa9f074",
+        "nom": "Poulet pan\u00e9 au zaatar & sauce tahini",
+        "image_path": "/assets/images/poulet_zaatar/plat.jpg",
+        "categories": [
+            "Bl\u00e9",
+            "Poulet",
+            "Panko"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/poulet_zaatar/steps/step1.jpg",
+            "/assets/images/poulet_zaatar/steps/step2.jpg",
+            "/assets/images/poulet_zaatar/steps/step3.jpg",
+            "/assets/images/poulet_zaatar/steps/step4.jpg",
+            "/assets/images/poulet_zaatar/steps/step5.jpg",
+            "/assets/images/poulet_zaatar/steps/step6.jpg",
+            "/assets/images/poulet_zaatar/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/poulet_zaatar/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.549640",
+        "updated_at": "2025-08-20T22:48:28.549656"
+    },
+    "Recette.e2d962a6-b3ec-44b6-b47d-f1b8c80bccfb": {
+        "id": "e2d962a6-b3ec-44b6-b47d-f1b8c80bccfb",
+        "nom": "Flash Burger poulet dor\u00e9 & guacamole maison",
+        "image_path": "/assets/images/burger_poulet/plat.jpg",
+        "categories": [
+            "Burger",
+            "Poulet"
+        ],
+        "used": null,
+        "temps_total": "15 minutes",
+        "steps": [
+            "/assets/images/burger_poulet/steps/step1.jpg",
+            "/assets/images/burger_poulet/steps/step2.jpg",
+            "/assets/images/burger_poulet/steps/step3.jpg",
+            "/assets/images/burger_poulet/steps/step4.jpg",
+            "/assets/images/burger_poulet/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/burger_poulet/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.554723",
+        "updated_at": "2025-08-20T22:48:28.554737"
+    },
+    "Recette.1587ee68-9118-4680-a263-7b27eb3fd139": {
+        "id": "1587ee68-9118-4680-a263-7b27eb3fd139",
+        "nom": "La Sportive : penne, poulet & pesto rosso",
+        "image_path": "/assets/images/penne_poulet/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Poulet"
+        ],
+        "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/penne_poulet/steps/step1.jpg",
+            "/assets/images/penne_poulet/steps/step2.jpg",
+            "/assets/images/penne_poulet/steps/step3.jpg",
+            "/assets/images/penne_poulet/steps/step4.jpg",
+            "/assets/images/penne_poulet/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/penne_poulet/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.557375",
+        "updated_at": "2025-08-20T22:48:28.557401"
+    },
+    "Recette.9da7a3ba-e1c7-4af9-b186-ff8eefd2cff5": {
+        "id": "9da7a3ba-e1c7-4af9-b186-ff8eefd2cff5",
+        "nom": "Le V\u00e9g\u00e9 : salade de nouilles sauce satay",
+        "image_path": "/assets/images/salade_nouilles/plat.jpg",
+        "categories": [
+            "V\u00e9g\u00e9tarien",
+            "Nouilles"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/salade_nouilles/steps/step1.jpg",
+            "/assets/images/salade_nouilles/steps/step2.jpg",
+            "/assets/images/salade_nouilles/steps/step3.jpg",
+            "/assets/images/salade_nouilles/steps/step4.jpg",
+            "/assets/images/salade_nouilles/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/salade_nouilles/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.559678",
+        "updated_at": "2025-08-20T22:48:28.559691"
+    },
+    "Recette.a653467d-e504-4ac1-905d-258b7c998054": {
+        "id": "a653467d-e504-4ac1-905d-258b7c998054",
+        "nom": "Risotto de couscous perl\u00e9 & duo de tomates",
+        "image_path": "/assets/images/risotto_couscous_perle/plat.jpg",
+        "categories": [
+            "Couscous Perl\u00e9",
+            "V\u00e9g\u00e9tarien"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/risotto_couscous_perle/steps/step1.jpg",
+            "/assets/images/risotto_couscous_perle/steps/step2.jpg",
+            "/assets/images/risotto_couscous_perle/steps/step3.jpg",
+            "/assets/images/risotto_couscous_perle/steps/step4.jpg",
+            "/assets/images/risotto_couscous_perle/steps/step5.jpg",
+            "/assets/images/risotto_couscous_perle/steps/step6.jpg",
+            "/assets/images/risotto_couscous_perle/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/risotto_couscous_perle/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.564012",
+        "updated_at": "2025-08-20T22:48:28.564024"
+    },
+    "Recette.1ad36126-6384-4d0b-8b68-5bd170746029": {
+        "id": "1ad36126-6384-4d0b-8b68-5bd170746029",
+        "nom": "One pot : casarecce cr\u00e9meuses & porc hach\u00e9",
+        "image_path": "/assets/images/pates_porc_hache/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Porc"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/pates_porc_hache/steps/step1.jpg",
+            "/assets/images/pates_porc_hache/steps/step2.jpg",
+            "/assets/images/pates_porc_hache/steps/step3.jpg",
+            "/assets/images/pates_porc_hache/steps/step4.jpg",
+            "/assets/images/pates_porc_hache/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/pates_porc_hache/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.567125",
+        "updated_at": "2025-08-20T22:48:28.567141"
+    },
+    "Recette.5f0ea37d-20e8-4659-8afe-40bd1d19a3c5": {
+        "id": "5f0ea37d-20e8-4659-8afe-40bd1d19a3c5",
+        "nom": "Burger dinde po\u00eal\u00e9e & sauce pistou maison",
+        "image_path": "/assets/images/burger_dinde/plat.jpg",
+        "categories": [
+            "Burger",
+            "Dinde"
+        ],
+        "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/burger_dinde/steps/step1.jpg",
+            "/assets/images/burger_dinde/steps/step2.jpg",
+            "/assets/images/burger_dinde/steps/step3.jpg",
+            "/assets/images/burger_dinde/steps/step4.jpg",
+            "/assets/images/burger_dinde/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/burger_dinde/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.571887",
+        "updated_at": "2025-08-20T22:48:28.571900"
+    },
+    "Recette.4885c6bf-6405-4394-8995-88ccb9437937": {
+        "id": "4885c6bf-6405-4394-8995-88ccb9437937",
+        "nom": "Wok de dinde sauce umami & nouilles soba",
+        "image_path": "/assets/images/dinde_soba/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Dinde"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/dinde_soba/steps/step1.jpg",
+            "/assets/images/dinde_soba/steps/step2.jpg",
+            "/assets/images/dinde_soba/steps/step3.jpg",
+            "/assets/images/dinde_soba/steps/step4.jpg",
+            "/assets/images/dinde_soba/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/dinde_soba/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.581072",
+        "updated_at": "2025-08-21T19:37:58.049611"
+    },
+    "Recette.af78d951-7ec0-4d31-88b7-39ae5af6479e": {
+        "id": "af78d951-7ec0-4d31-88b7-39ae5af6479e",
+        "nom": "Poulet croustillant fa\u00e7on parmigiana",
+        "image_path": "/assets/images/poulet_parmigiana/plat.jpg",
+        "categories": [
+            "Poulet",
+            "Panko",
+            "Nouilles"
+        ],
+        "used": null,
+        "temps_total": "45 minutes",
+        "steps": [
+            "/assets/images/poulet_parmigiana/steps/step1.jpg",
+            "/assets/images/poulet_parmigiana/steps/step2.jpg",
+            "/assets/images/poulet_parmigiana/steps/step3.jpg",
+            "/assets/images/poulet_parmigiana/steps/step4.jpg",
+            "/assets/images/poulet_parmigiana/steps/step5.jpg",
+            "/assets/images/poulet_parmigiana/steps/step6.jpg",
+            "/assets/images/poulet_parmigiana/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/poulet_parmigiana/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.582841",
+        "updated_at": "2025-08-20T22:48:28.582853"
+    },
+    "Recette.5b345db0-6407-4dda-8c10-d6eba4b7517c": {
+        "id": "5b345db0-6407-4dda-8c10-d6eba4b7517c",
+        "nom": "Poulet marin\u00e9 & fenouil aux saveurs du Moyen-orient",
+        "image_path": "/assets/images/chich_taouk/plat.jpg",
+        "categories": [
+            "Bl\u00e9",
+            "Poulet"
+        ],
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/chich_taouk/steps/step1.jpg",
+            "/assets/images/chich_taouk/steps/step2.jpg",
+            "/assets/images/chich_taouk/steps/step3.jpg",
+            "/assets/images/chich_taouk/steps/step4.jpg",
+            "/assets/images/chich_taouk/steps/step5.jpg",
+            "/assets/images/chich_taouk/steps/step6.jpg",
+            "/assets/images/chich_taouk/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/chich_taouk/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.588239",
+        "updated_at": "2025-08-20T22:48:28.588249"
+    },
+    "Recette.5ceab2a9-a498-4f4f-a6a2-5314a14c490b": {
+        "id": "5ceab2a9-a498-4f4f-a6a2-5314a14c490b",
+        "nom": "Nouilles froides, dinde & sauce satay tha\u00ef",
+        "image_path": "/assets/images/nouilles_froides/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Dinde"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/nouilles_froides/steps/step1.jpg",
+            "/assets/images/nouilles_froides/steps/step2.jpg",
+            "/assets/images/nouilles_froides/steps/step3.jpg",
+            "/assets/images/nouilles_froides/steps/step4.jpg",
+            "/assets/images/nouilles_froides/steps/step5.jpg",
+            "/assets/images/nouilles_froides/steps/step6.jpg",
+            "/assets/images/nouilles_froides/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/nouilles_froides/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.589791",
+        "updated_at": "2025-08-20T22:48:28.589801"
+    },
+    "Recette.94a88ceb-f1f2-44ea-b914-8097327fad83": {
+        "id": "94a88ceb-f1f2-44ea-b914-8097327fad83",
+        "nom": "Wok de nouilles b\u0153uf hach\u00e9 & l\u00e9gumes saut\u00e9s",
+        "image_path": "/assets/images/wok_nouilles_boeuf/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/wok_nouilles_boeuf/steps/step1.jpg",
+            "/assets/images/wok_nouilles_boeuf/steps/step2.jpg",
+            "/assets/images/wok_nouilles_boeuf/steps/step3.jpg",
+            "/assets/images/wok_nouilles_boeuf/steps/step4.jpg",
+            "/assets/images/wok_nouilles_boeuf/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/wok_nouilles_boeuf/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.593768",
+        "updated_at": "2025-08-20T22:48:28.593779"
+    },
+    "Recette.93afab0e-98dd-4293-a236-04fc6466be6e": {
+        "id": "93afab0e-98dd-4293-a236-04fc6466be6e",
+        "nom": "Nos immanquables spaghetti poireau-lardons",
+        "image_path": "/assets/images/spaghetti_lardons/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Porc"
+        ],
+        "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/spaghetti_lardons/steps/step1.jpg",
+            "/assets/images/spaghetti_lardons/steps/step2.jpg",
+            "/assets/images/spaghetti_lardons/steps/step3.jpg",
+            "/assets/images/spaghetti_lardons/steps/step4.jpg",
+            "/assets/images/spaghetti_lardons/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/spaghetti_lardons/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.596580",
+        "updated_at": "2025-08-20T22:48:28.596591"
+    },
+    "Recette.716d76c8-6a9f-45b6-a0ff-adf281264d79": {
+        "id": "716d76c8-6a9f-45b6-a0ff-adf281264d79",
+        "nom": "Cuisse de poulet r\u00f4tie & riz \u00e0 l'orientale",
+        "image_path": "/assets/images/poulet_roti/plat.jpg",
+        "categories": [
+            "Riz",
+            "Poulet",
+            "Champignons"
+        ],
+        "used": null,
+        "temps_total": "50 minutes",
+        "steps": [
+            "/assets/images/poulet_roti/steps/step1.jpg",
+            "/assets/images/poulet_roti/steps/step2.jpg",
+            "/assets/images/poulet_roti/steps/step3.jpg",
+            "/assets/images/poulet_roti/steps/step4.jpg",
+            "/assets/images/poulet_roti/steps/step5.jpg",
+            "/assets/images/poulet_roti/steps/step6.jpg",
+            "/assets/images/poulet_roti/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/poulet_roti/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.598507",
+        "updated_at": "2025-08-20T22:48:28.598522"
+    },
+    "Recette.33ecd094-c700-4c33-a52f-68660504603f": {
+        "id": "33ecd094-c700-4c33-a52f-68660504603f",
+        "nom": "Boulettes de porc, couscous perl\u00e9 & harissa",
+        "image_path": "/assets/images/boulettes_porc/plat.jpg",
+        "categories": [
+            "Porc",
+            "Panko",
+            "Couscous Perl\u00e9"
+        ],
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/boulettes_porc/steps/step1.jpg",
+            "/assets/images/boulettes_porc/steps/step2.jpg",
+            "/assets/images/boulettes_porc/steps/step3.jpg",
+            "/assets/images/boulettes_porc/steps/step4.jpg",
+            "/assets/images/boulettes_porc/steps/step5.jpg",
+            "/assets/images/boulettes_porc/steps/step6.jpg",
+            "/assets/images/boulettes_porc/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/boulettes_porc/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.602638",
+        "updated_at": "2025-08-20T22:48:28.602652"
+    },
+    "Recette.7227f5a6-05ab-4937-9472-52d89b0c69b7": {
+        "id": "7227f5a6-05ab-4937-9472-52d89b0c69b7",
+        "nom": "Poulet fa\u00e7on paprik\u00e0sh",
+        "image_path": "/assets/images/poulet_paprikash/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Poulet"
+        ],
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/poulet_paprikash/steps/step1.jpg",
+            "/assets/images/poulet_paprikash/steps/step2.jpg",
+            "/assets/images/poulet_paprikash/steps/step3.jpg",
+            "/assets/images/poulet_paprikash/steps/step4.jpg",
+            "/assets/images/poulet_paprikash/steps/step5.jpg",
+            "/assets/images/poulet_paprikash/steps/step6.jpg",
+            "/assets/images/poulet_paprikash/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/poulet_paprikash/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.652027",
+        "updated_at": "2025-08-20T22:48:28.652061"
+    },
+    "Recette.6605a30d-0599-4796-a3c7-179a610b61c6": {
+        "id": "6605a30d-0599-4796-a3c7-179a610b61c6",
+        "nom": "Aiguillettes de poulet fa\u00e7on teriyaki",
+        "image_path": "/assets/images/poulet_teriyaki/plat.jpg",
+        "categories": [
+            "Riz",
+            "Poulet"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/poulet_teriyaki/steps/step1.jpg",
+            "/assets/images/poulet_teriyaki/steps/step2.jpg",
+            "/assets/images/poulet_teriyaki/steps/step3.jpg",
+            "/assets/images/poulet_teriyaki/steps/step4.jpg",
+            "/assets/images/poulet_teriyaki/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/poulet_teriyaki/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.655856",
+        "updated_at": "2025-08-20T22:48:28.655871"
+    },
+    "Recette.bfe58538-a228-4635-a787-ee715cb7b2ee": {
+        "id": "bfe58538-a228-4635-a787-ee715cb7b2ee",
+        "nom": "Wok de nouilles saut\u00e9es au porc hach\u00e9",
+        "image_path": "/assets/images/nouilles_sautees_porc/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Porc"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/nouilles_sautees_porc/steps/step1.jpg",
+            "/assets/images/nouilles_sautees_porc/steps/step2.jpg",
+            "/assets/images/nouilles_sautees_porc/steps/step3.jpg",
+            "/assets/images/nouilles_sautees_porc/steps/step4.jpg",
+            "/assets/images/nouilles_sautees_porc/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/nouilles_sautees_porc/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.664746",
+        "updated_at": "2025-08-20T22:48:28.664759"
+    },
+    "Recette.2e668c3c-e711-4404-a84c-6617d918c94e": {
+        "id": "2e668c3c-e711-4404-a84c-6617d918c94e",
+        "nom": "Penne rag\u00f9 al forno au b\u0153uf",
+        "image_path": "/assets/images/penne_ragu/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/penne_ragu/steps/step1.jpg",
+            "/assets/images/penne_ragu/steps/step2.jpg",
+            "/assets/images/penne_ragu/steps/step3.jpg",
+            "/assets/images/penne_ragu/steps/step4.jpg",
+            "/assets/images/penne_ragu/steps/step5.jpg",
+            "/assets/images/penne_ragu/steps/step6.jpg",
+            "/assets/images/penne_ragu/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/penne_ragu/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.667546",
+        "updated_at": "2025-08-20T22:48:28.667557"
+    },
+    "Recette.d5e5514b-84fb-4eb2-ba9c-3c9c44238519": {
+        "id": "d5e5514b-84fb-4eb2-ba9c-3c9c44238519",
+        "nom": "Linguine chorizo & cr\u00e8me \u00e0 l'espagnole",
+        "image_path": "/assets/images/linguine_chorizo/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "Chorizo"
+        ],
+        "used": null,
+        "temps_total": "20 minutes",
+        "steps": [
+            "/assets/images/linguine_chorizo/steps/step1.jpg",
+            "/assets/images/linguine_chorizo/steps/step2.jpg",
+            "/assets/images/linguine_chorizo/steps/step3.jpg",
+            "/assets/images/linguine_chorizo/steps/step4.jpg",
+            "/assets/images/linguine_chorizo/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/linguine_chorizo/ingredients.txt",
+        "created_at": "2025-08-20T22:48:28.669644",
+        "updated_at": "2025-08-20T22:48:28.669654"
+    },
+    "Recette.a3e2f5e0-bdd9-4675-816c-98e6d6daac7a": {
+        "id": "a3e2f5e0-bdd9-4675-816c-98e6d6daac7a",
+        "nom": "Orzo, b\u0153uf hach\u00e9 & duo de fromages",
+        "image_path": "/assets/images/orzo_fromages/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "B\u0153uf"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/orzo_fromages/steps/step1.jpg",
+            "/assets/images/orzo_fromages/steps/step2.jpg",
+            "/assets/images/orzo_fromages/steps/step3.jpg",
+            "/assets/images/orzo_fromages/steps/step4.jpg",
+            "/assets/images/orzo_fromages/steps/step5.jpg",
+            "/assets/images/orzo_fromages/steps/step6.jpg",
+            "/assets/images/orzo_fromages/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/orzo_fromages/ingredients.txt",
+        "created_at": "2025-08-25T22:02:36.071577",
+        "updated_at": "2025-08-25T22:02:36.071577"
+    },
+    "Recette.a595e684-5237-49ed-b1a9-6b046889bee9": {
+        "id": "a595e684-5237-49ed-b1a9-6b046889bee9",
+        "nom": "Orzo pilaf \u00e9pinards & tomates cerises",
+        "image_path": "/assets/images/orzo_pilaf/plat.jpg",
+        "categories": [
+            "Nouilles",
+            "V\u00e9g\u00e9tarien"
+        ],
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/orzo_pilaf/steps/step1.jpg",
+            "/assets/images/orzo_pilaf/steps/step2.jpg",
+            "/assets/images/orzo_pilaf/steps/step3.jpg",
+            "/assets/images/orzo_pilaf/steps/step4.jpg",
+            "/assets/images/orzo_pilaf/steps/step5.jpg",
+            "/assets/images/orzo_pilaf/steps/step6.jpg",
+            "/assets/images/orzo_pilaf/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/orzo_pilaf/ingredients.txt",
+        "created_at": "2025-08-25T22:04:25.546842",
+        "updated_at": "2025-08-25T22:04:25.546842"
+    },
+    "Recette.15df12b6-481b-48c2-8856-6873eab1545d": {
+        "id": "15df12b6-481b-48c2-8856-6873eab1545d",
+        "nom": "Saucisse de Toulouse & pur\u00e9e au cantal AOP",
+        "image_path": "/assets/images/saucisse_toulouse/plat.jpg",
+        "categories": [
+            "Champignons",
+            "Porc"
+        ],
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/saucisse_toulouse/steps/step1.jpg",
+            "/assets/images/saucisse_toulouse/steps/step2.jpg",
+            "/assets/images/saucisse_toulouse/steps/step3.jpg",
+            "/assets/images/saucisse_toulouse/steps/step4.jpg",
+            "/assets/images/saucisse_toulouse/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/saucisse_toulouse/ingredients.txt",
+        "created_at": "2025-08-25T22:06:32.459193",
+        "updated_at": "2025-08-25T22:06:32.459193"
+    },
+    "Recette.7ab0036e-2aa4-43b7-a674-e0d56776ab0d": {
+        "id": "7ab0036e-2aa4-43b7-a674-e0d56776ab0d",
+        "nom": "Le Saloon Burger au poulet pan\u00e9",
+        "categories": [
+            "Burger",
+            "Poulet",
+            "Panko",
+            "Potatoes"
+        ],
+        "image_path": "/assets/images/saloon_burger/plat.jpg",
+        "used": null,
+        "temps_total": "35 minutes",
+        "steps": [
+            "/assets/images/saloon_burger/steps/step1.jpg",
+            "/assets/images/saloon_burger/steps/step2.jpg",
+            "/assets/images/saloon_burger/steps/step3.jpg",
+            "/assets/images/saloon_burger/steps/step4.jpg",
+            "/assets/images/saloon_burger/steps/step5.jpg",
+            "/assets/images/saloon_burger/steps/step6.jpg",
+            "/assets/images/saloon_burger/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/saloon_burger/ingredients.txt",
+        "created_at": "2025-08-30T21:49:29.535558",
+        "updated_at": "2025-08-30T21:49:29.535558"
+    },
+    "Recette.a50ea48a-2181-4e62-a99d-92e539c3b6e0": {
+        "id": "a50ea48a-2181-4e62-a99d-92e539c3b6e0",
+        "nom": "B\u00e1nh m\u00ec vietnamien au boeuf",
+        "categories": [
+            "B\u0153uf",
+            "Sandwich"
+        ],
+        "image_path": "/assets/images/banh_mi_boeuf/plat.jpg",
+        "used": null,
+        "temps_total": "30 minutes",
+        "steps": [
+            "/assets/images/banh_mi_boeuf/steps/step1.jpg",
+            "/assets/images/banh_mi_boeuf/steps/step2.jpg",
+            "/assets/images/banh_mi_boeuf/steps/step3.jpg",
+            "/assets/images/banh_mi_boeuf/steps/step4.jpg",
+            "/assets/images/banh_mi_boeuf/steps/step5.jpg",
+            "/assets/images/banh_mi_boeuf/steps/step6.jpg",
+            "/assets/images/banh_mi_boeuf/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/banh_mi_boeuf/ingredients.txt",
+        "created_at": "2025-08-30T21:55:09.863846",
+        "updated_at": "2025-08-30T21:55:09.863846"
+    },
+    "Recette.2c49f9ac-e0d2-4231-b314-d14542ca8926": {
+        "id": "2c49f9ac-e0d2-4231-b314-d14542ca8926",
+        "nom": "Soupe fa\u00e7on Miso Ramen au poulet",
+        "categories": [
+            "Ramen",
+            "Poulet",
+            "Champignons"
+        ],
+        "image_path": "/assets/images/ramen_miso_poulet/plat.jpg",
+        "used": null,
+        "temps_total": "40 minutes",
+        "steps": [
+            "/assets/images/ramen_miso_poulet/steps/step1.jpg",
+            "/assets/images/ramen_miso_poulet/steps/step2.jpg",
+            "/assets/images/ramen_miso_poulet/steps/step3.jpg",
+            "/assets/images/ramen_miso_poulet/steps/step4.jpg",
+            "/assets/images/ramen_miso_poulet/steps/step5.jpg",
+            "/assets/images/ramen_miso_poulet/steps/step6.jpg",
+            "/assets/images/ramen_miso_poulet/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/ramen_miso_poulet/ingredients.txt",
+        "created_at": "2025-08-30T22:00:42.803040",
+        "updated_at": "2025-08-30T22:00:42.803040"
+    },
+    "Recette.68e9265e-b550-4724-bc33-692dc883a581": {
+        "id": "68e9265e-b550-4724-bc33-692dc883a581",
+        "nom": "Miso ramen au porc, soja & portobello",
+        "categories": [
+            "Ramen",
+            "Porc"
+        ],
+        "image_path": "/assets/images/ramen_porc/plat.jpg",
+        "used": null,
+        "temps_total": "25 minutes",
+        "steps": [
+            "/assets/images/ramen_porc/steps/step1.jpg",
+            "/assets/images/ramen_porc/steps/step2.jpg",
+            "/assets/images/ramen_porc/steps/step3.jpg",
+            "/assets/images/ramen_porc/steps/step4.jpg",
+            "/assets/images/ramen_porc/steps/steps.txt"
+        ],
+        "ingredients": "/assets/images/ramen_porc/ingredients.txt",
+        "created_at": "2025-08-30T22:03:52.112548",
+        "updated_at": "2025-08-30T22:03:52.112548"
+    }
+}

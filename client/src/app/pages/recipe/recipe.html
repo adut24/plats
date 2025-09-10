@@ -1,0 +1,40 @@
+@if (recette | async; as recette) {
+<div class="recipe-container">
+	<!-- Image + card superposée -->
+	<div class="recipe-header">
+		<img class="recipe-image" [src]="recette.image_path" alt="{{ recette.nom }}" />
+		<div class="recipe-card">
+			<h1 class="recipe-title">{{ recette.nom }}</h1>
+			<div class="recipe-meta">
+				<p><strong>⏱</strong> {{ recette.temps_total }}</p>
+				<p><strong>🥗</strong> {{ ingredients.length }} ingrédients</p>
+			</div>
+		</div>
+	</div>
+
+	<!-- Liste des ingrédients -->
+	<div id="ingredients">
+		<div class="ingredients-card">
+			<h2>Ingrédients</h2>
+			<div class="ingredients-columns">
+				@for (col of columns; track $index) {
+				<ul>
+					@for (ing of col; track $index) {
+					<li class="ingredient-item">
+						<img class="ingredient-icon" [src]="ing[0]" alt="{{ ing[1][1] }}" />
+						<div class="ingredient-text">
+							@for (ingredient of ing[1]; track $index) {
+							<p>{{ ingredient }}</p>
+							}
+						</div>
+					</li>
+					}
+				</ul>
+				}
+			</div>
+		</div>
+	</div>
+</div>
+} @else {
+<p>Chargement…</p>
+}
