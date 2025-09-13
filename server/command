@@ -1,3 +1,13 @@
 #!/bin/sh
-python manage_recette.py https://www.hellofresh.fr/recipes/le-vege-salade-de-nouilles-sauce-satay-and-eminces-vegetariens-67d99afd859430068bc53162 salade_nouilles
-python manage_recette.py https://www.hellofresh.fr/recipes/miso-ramen-express-au-porc-and-soja-66cdd51c6041110ff0a4c647 ramen_porc
+python manage_recette.py https://www.hellofresh.fr/recipes/burger-de-boeuf-au-zaatar-and-mayo-persillee-6728909812c55222c8cc6a47 burger_zaatar
+python manage_recette.py https://www.hellofresh.fr/recipes/toastie-sucre-sale-poulet-tranche-and-brie-6827564397a36a9824b3ec0e toastie
+python manage_recette.py https://www.hellofresh.fr/recipes/curry-indien-a-la-patate-douce-and-epinards-6793a82f5fbdb4aa73bc5d7e curry_indien
+python manage_recette.py https://www.hellofresh.fr/recipes/porc-grille-a-la-taiwanaise-and-pak-choi-64fb2dd032e9107c6db8888f porc_grille_taiwan
+python manage_recette.py https://www.hellofresh.fr/recipes/poulet-croustillant-facon-katsu-japonais-67d99ad91c42c47c55720384 poulet_japonais
+python manage_recette.py https://www.hellofresh.fr/recipes/porc-epice-a-la-mexicaine-and-riz-au-curcuma-67c1c82a83714633cfd163a4 porc_epice_mexicain
+python manage_recette.py https://www.hellofresh.fr/recipes/keema-boeuf-hache-a-la-pakistanaise-and-riz-678662e12f2af0a797ee59f1 keema
+python manage_recette.py https://www.hellofresh.fr/recipes/arroz-attollado-riz-colombien-au-porc-672890bcd49f300fd6163090 arroz
+python manage_recette.py https://www.hellofresh.fr/recipes/cheesy-fries-and-poulet-grille-67488eb4178a6fd9e2e0e847 cheesy_fries
+python manage_recette.py https://www.hellofresh.fr/recipes/nasi-goreng-riz-indonesien-au-poulet-6877c95bc30d33981f9a3fa9 nasi_goreng
+python manage_recette.py https://www.hellofresh.fr/recipes/pave-de-boeuf-sauce-bercy-67b48d1818c71cd699179526 pave_bercy
+python manage_recette.py https://www.hellofresh.fr/recipes/gyudon-bowl-de-boeuf-a-la-japonaise-67d99af9859430068bc5313e 
