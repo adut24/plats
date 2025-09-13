@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-
-
 import os
 import json
 import requests
@@ -58,7 +56,7 @@ def parse_recipe_page(url: str, slug: str, assets_dir: Path):
             if sibling:
                 temps_total = sibling.get_text(strip=True)
 
-    step_dir = Path('src') / assets_dir / slug / 'steps'
+    step_dir = Path('..') / Path('client') / Path('src') / assets_dir / slug / 'steps'
     os.makedirs(step_dir, exist_ok=True)
 
     steps_paths = []
@@ -101,7 +99,7 @@ def parse_recipe_page(url: str, slug: str, assets_dir: Path):
     return temps_total, steps_paths
 
 
-def update_recettes(json_file: Path, url: str, slug: str, assets_dir: Path):
+def update_recettes(json_file: Path, url: str, slug: str, assets_dir: Path) -> None:
     html = fetch_html(url)
     soup = BeautifulSoup(html, 'lxml')
 
@@ -131,7 +129,6 @@ def update_recettes(json_file: Path, url: str, slug: str, assets_dir: Path):
             choix = input("Choisir une recette à mettre à jour (numéro) ou 0 pour ajouter : ").strip()
 
             if choix.isdigit() and int(choix) > 0 and int(choix) <= len(similaires):
-                # retrouver la clé de la recette choisie
                 nom_choisi = similaires[int(choix) - 1]
                 for k, recette in recettes.items():
                     if recette.get("nom") == nom_choisi:
@@ -142,16 +139,16 @@ def update_recettes(json_file: Path, url: str, slug: str, assets_dir: Path):
         else:
             raise ValueError(f"Aucune recette trouvée avec le nom '{recipe_name}' dans {json_file}.")
 
-    # temps_total, steps_paths = parse_recipe_page(url, slug, assets_dir)
+    temps_total, steps_paths = parse_recipe_page(url, slug, assets_dir)
     ingredients_path = parse_ingredients(url, slug, assets_dir)
 
     recette = recettes[key]
     new_recette = OrderedDict()
     for k, v in recette.items():
         new_recette[k] = v
-        if k == 'steps':
-            # new_recette['temps_total'] = temps_total
-            # new_recette['steps'] = steps_paths
+        if k == 'used':
+            new_recette['temps_total'] = temps_total
+            new_recette['steps'] = steps_paths
             new_recette['ingredients'] = ingredients_path
 
     recettes[key] = new_recette
@@ -162,7 +159,7 @@ def update_recettes(json_file: Path, url: str, slug: str, assets_dir: Path):
     print(f'✅ Recette {recipe_name} mise à jour.')
 
 
-def parse_recipe_name(soup: BeautifulSoup):
+def parse_recipe_name(soup: BeautifulSoup) -> str | None:
     h1 = soup.find('h1')
     if h1:
         return h1.get_text(strip=True)
@@ -185,7 +182,7 @@ def add_recette(url: str, slug: str, assets_dir: Path = Path('assets/images')):
     recipe_name = parse_recipe_name(soup)
     if not recipe_name:
         raise ValueError('Impossible de trouver le titre de la recette dans la page.')
-    dir = Path('src') / assets_dir / slug
+    dir = Path('..') / Path('client') / Path('src') / assets_dir / slug
     step_dir = dir / 'steps'
     os.makedirs(step_dir, exist_ok=True)
     plat = soup.find('img', {'alt': recipe_name})
@@ -207,7 +204,7 @@ def add_recette(url: str, slug: str, assets_dir: Path = Path('assets/images')):
             attributs.update({"image_path": image_path.as_posix().removeprefix('src')})
             attributs.update({"used": None})
             temps_total, steps_paths = parse_recipe_page(url, slug, assets_dir)
-            ingredients_path = parse_ingredients(url, slug, assets_dir)
+            ingredients_path = parse_ingredients(url, slug,  assets_dir)
             attributs.update({"temps_total": temps_total})
             attributs.update({"steps": steps_paths})
             attributs.update({"ingredients": ingredients_path})
@@ -247,18 +244,16 @@ def parse_ingredients(url: str, slug: str, assets_dir: Path):
     btn.click()
     time.sleep(2)
 
-    # dossier recette (pour ingredients.txt)
-    ing_dir = Path("src") / assets_dir / slug
+    ing_dir = Path('..') / Path('client') / Path("src") / assets_dir / slug
     os.makedirs(ing_dir, exist_ok=True)
     ingredients_txt_path = ing_dir / "ingredients.txt"
 
-    # dossier global mutualisé pour les images
-    global_ing_dir = Path("src/assets/images/ingredients")
+    global_ing_dir = Path("../client/src/assets/images/ingredients")
     os.makedirs(global_ing_dir, exist_ok=True)
 
     ingredients = []
     divs = driver.find_elements(
-        By.CSS_SELECTOR, 'div[data-test-id="ingredient-item-shipped"]'
+        By.CSS_SELECTOR, 'div[data-test-id="ingredient-item-shipped"], div[data-test-id="ingredient-item-not-shipped"]'
     )
 
     for div in divs:

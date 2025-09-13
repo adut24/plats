@@ -1,0 +1,24 @@
+services:
+  server:
+    build:
+      context: ./server
+    container_name: plats-server
+    ports:
+      - "8000:8000"
+    networks:
+      - plats-net
+
+  client:
+    build:
+      context: ./client
+    container_name: plats-client
+    ports:
+      - "4200:80"
+    depends_on:
+      - server
+    networks:
+      - plats-net
+
+networks:
+  plats-net:
+    driver: bridge

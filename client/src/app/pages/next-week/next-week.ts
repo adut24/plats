@@ -36,7 +36,8 @@ export class NextWeek {
   }
 
   private buildRecettes(all: Recette[]): Recette[] {
-    let recettesSemaineProchaine = all.filter((recette) => this.week_number === this.getWeekNumber(recette.used));
+    let recettesSemaineProchaine = all.filter((recette) => this.week_number ===
+    this.getWeekNumber(recette.used));
 
     if (recettesSemaineProchaine.length !== 0) {
       return recettesSemaineProchaine;
@@ -62,7 +63,7 @@ export class NextWeek {
       }
     }
 
-    return [...recettesAleatoires].sort(() => Math.random() - 0.5).slice(0, 12);
+    return [...recettesAleatoires].sort(() => Math.random() - 0.5).slice(0, 15);
   }
 
   getCategoryColor(cat: string): string {
@@ -90,7 +91,7 @@ export class NextWeek {
   }
 
   canValidate(): boolean {
-    return this.selectedRecettes.size >= 3 && this.selectedRecettes.size <= 4;
+    return this.selectedRecettes.size >= 3 && this.selectedRecettes.size <= 6;
   }
 
   validateSelection() {

@@ -9,3 +9,6 @@
 - [IMG] /assets/images/ingredients/lait_coco.png | 1 paquet(s) | Lait de coco
 - [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Blé , Gluten, Soja)
 - [IMG] /assets/images/ingredients/cacahuetes_non_salees.png | 1 sachet(s) | Cacahuètes non salées | (Contient: Arachides Peut contenir: Fruits à coque, Noix du Brésil, Graines de sésame, Noix de pécan , Noisettes , Noix , Amandes, Pistaches , Noix de cajou , Noix de macadamia )
+- [IMG] /assets/images/ingredients/cube_bouillon_legumes.png | ½ pièce(s) | Cube de bouillon de légumes
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel
