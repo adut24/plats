@@ -8,3 +8,6 @@
 - [IMG] /assets/images/ingredients/riz.png | 150 g | Riz
 - [IMG] /assets/images/ingredients/pak_choi.png | 2 pièce(s) | Pak choï | (Peut contenir: Céleri, Anhydride sulfureux et sulfites)
 - [IMG] /assets/images/ingredients/huile_sesame.png | 1 sachet(s) | Huile de sésame | (Contient: Graines de sésame)
+- [IMG] /assets/images/ingredients/miel.png | 1 cs | Miel
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

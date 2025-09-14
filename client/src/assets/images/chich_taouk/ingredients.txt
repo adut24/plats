@@ -8,3 +8,8 @@
 - [IMG] /assets/images/ingredients/curcuma_poudre.png | ½ sachet(s) | Curcuma en poudre
 - [IMG] /assets/images/ingredients/boulgour.png | 120 g | Boulgour | (Contient: Gluten, Blé Peut contenir: Soja)
 - [IMG] /assets/images/ingredients/persil.png | 1 sachet(s) | Persil
+- [IMG] /assets/images/ingredients/bouillon_volaille.png | 300 ml | Bouillon de volaille
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 2 cc | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/beurre.png | 2 cc | Beurre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

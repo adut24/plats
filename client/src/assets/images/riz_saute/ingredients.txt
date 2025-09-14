@@ -9,3 +9,6 @@
 - [IMG] /assets/images/ingredients/huile_sesame.png | 1 sachet(s) | Huile de sésame | (Contient: Graines de sésame)
 - [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Soja, Blé )
 - [IMG] /assets/images/ingredients/cacahuetes_non_salees.png | 1 sachet(s) | Cacahuètes non salées | (Contient: Arachides Peut contenir: Graines de sésame, Fruits à coque)
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/uf.png | 2 pièce(s) | Œuf
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

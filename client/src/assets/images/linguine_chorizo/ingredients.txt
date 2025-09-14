@@ -7,3 +7,6 @@
 - [IMG] /assets/images/ingredients/paprika_fume_poudre.png | ½ sachet(s) | Paprika fumé en poudre
 - [IMG] /assets/images/ingredients/creme_liquide.png | 1 paquet(s) | Crème liquide | (Contient: Lait (contient du lactose))
 - [IMG] /assets/images/ingredients/fromage_rape_a_l_italienne.png | 1 sachet(s) | Fromage râpé à l'italienne | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/cube_bouillon_volaille.png | ½ pièce(s) | Cube de bouillon de volaille
+- [IMG] /assets/images/ingredients/beurre.png | 2 cc | Beurre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

@@ -6,3 +6,7 @@
 - [IMG] /assets/images/ingredients/epinards.png | 1 sachet(s) | Épinards
 - [IMG] /assets/images/ingredients/copeaux_grana_padano_aop.png | 1 sachet(s) | Copeaux de grana padano AOP | (Contient: Lait (contient du lactose), Œuf)
 - [IMG] /assets/images/ingredients/pesto_rosso.png | 1 sachet(s) | Pesto rosso | (Contient: Anhydride sulfureux et sulfites)
+- [IMG] /assets/images/ingredients/cube_bouillon_legumes.png | ½ pièce(s) | Cube de bouillon de légumes
+- [IMG] /assets/images/ingredients/beurre.png | 1 cc | Beurre
+- [IMG] /assets/images/ingredients/huile_olive.png | 1 cc | Huile d'olive
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

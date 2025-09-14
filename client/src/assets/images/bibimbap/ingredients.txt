@@ -10,3 +10,8 @@
 - [IMG] /assets/images/ingredients/miso_blanc.png | ⅔ sachet(s) | Miso blanc | (Contient: Soja, Blé )
 - [IMG] /assets/images/ingredients/sauce_asiatique_sucree.png | 1 sachet(s) | Sauce asiatique sucrée | (Contient: Soja, Blé , Gluten)
 - [IMG] /assets/images/ingredients/chair_a_saucisse.png | 1 paquet(s) | Chair à saucisse
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 2 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 3 cs | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/sucre.png | 1 cc | Sucre
+- [IMG] /assets/images/ingredients/uf.png | 2 pièce(s) | Œuf
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

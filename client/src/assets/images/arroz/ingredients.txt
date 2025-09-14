@@ -7,3 +7,6 @@
 - [IMG] /assets/images/ingredients/riz_pour_risotto.png | 150 g | Riz pour risotto
 - [IMG] /assets/images/ingredients/epices_mexicaines.png | 1 sachet(s) | Épices mexicaines
 - [IMG] /assets/images/ingredients/avocat.png | 1 pièce(s) | Avocat
+- [IMG] /assets/images/ingredients/bouillon_legumes.png | 700 ml | Bouillon de légumes
+- [IMG] /assets/images/ingredients/cassonade.png | 1 cc | Cassonade
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

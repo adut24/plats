@@ -8,3 +8,7 @@
 - [IMG] /assets/images/ingredients/cacahuetes_non_salees.png | 1 sachet(s) | Cacahuètes non salées | (Contient: Arachides Peut contenir: Fruits à coque, Noix du Brésil, Graines de sésame, Noix de pécan , Noisettes , Noix , Amandes, Pistaches , Noix de cajou , Noix de macadamia )
 - [IMG] /assets/images/ingredients/beurre_cacahuetes.png | 2 pot(s) | Beurre de cacahuètes | (Contient: Arachides Peut contenir: Fruits à coque)
 - [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Soja, Gluten, Blé )
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 2 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 2 cc | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/miel.png | 1 cc | Miel
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

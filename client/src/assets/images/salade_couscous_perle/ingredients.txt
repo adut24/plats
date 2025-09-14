@@ -7,3 +7,8 @@
 - [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
 - [IMG] /assets/images/ingredients/salade.png | 1 sachet(s) | Salade
 - [IMG] /assets/images/ingredients/melange_epices_moyen_orient.png | 1 sachet(s) | Mélange d'épices du Moyen-Orient
+- [IMG] /assets/images/ingredients/beurre.png | 1 cs | Beurre
+- [IMG] /assets/images/ingredients/sucre.png | 1 cs | Sucre
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_noir.png | 2 cs | Vinaigre balsamique noir
+- [IMG] /assets/images/ingredients/huile_olive.png | 1 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

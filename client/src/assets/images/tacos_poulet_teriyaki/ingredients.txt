@@ -7,3 +7,7 @@
 - [IMG] /assets/images/ingredients/filet_poulet.png | 2 pièce(s) | Filet de poulet | (Peut contenir: Lait (contient du lactose), Gluten)
 - [IMG] /assets/images/ingredients/pate_epicee_javanaise.png | 1 sachet(s) | Pâte épicée javanaise | (Contient: Graines de sésame, Soja, Blé )
 - [IMG] /assets/images/ingredients/sauce_poisson.png | 1 sachet(s) | Sauce poisson | (Contient: Poisson)
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 4 cs | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/cassonade.png | 4 cc | Cassonade
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 2 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

@@ -3,7 +3,16 @@
 - [IMG] /assets/images/ingredients/radis.png | ⅔ botte(s) | Radis
 - [IMG] /assets/images/ingredients/aneth_ciboulette.png | ½ sachet(s) | Aneth et ciboulette
 - [IMG] /assets/images/ingredients/sucrine.png | 2 pièce(s) | Sucrine
-- [IMG] /assets/images/ingredients/mayonnaise.png | 100 g | Mayonnaise | (Contient: Œuf, Moutarde)
+- [IMG] /assets/images/ingredients/mayonnaise.png | 1 sachet(s) | Mayonnaise | (Contient: Œuf, Moutarde)
 - [IMG] /assets/images/ingredients/filet_poulet.png | 2 pièce(s) | Filet de poulet | (Peut contenir: Lait (contient du lactose), Gluten)
-- [IMG] /assets/images/ingredients/chapelure_panko.png | 50 g | Chapelure panko | (Contient: Gluten, Blé )
+- [IMG] /assets/images/ingredients/chapelure_panko.png | 1 sachet(s) | Chapelure panko | (Contient: Gluten, Blé )
 - [IMG] /assets/images/ingredients/pain_burger.png | 2 pièce(s) | Pain burger | (Contient: Œuf, Gluten, Blé , Lait (contient du lactose) Peut contenir: Moutarde, Noix , Soja, Fruits à coque, Graines de sésame)
+- [IMG] /assets/images/ingredients/farine.png | 2 cs | Farine
+- [IMG] /assets/images/ingredients/uf.png | 1 pièce(s) | Œuf
+- [IMG] /assets/images/ingredients/beurre.png | 1 cs | Beurre
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 4 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 2 cc | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/miel.png | 1 cc | Miel
+- [IMG] /assets/images/ingredients/huile_olive.png | 1 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/moutarde.png | 1 cc | Moutarde
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

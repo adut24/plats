@@ -7,3 +7,11 @@
 - [IMG] /assets/images/ingredients/filet_poulet.png | 2 pièce(s) | Filet de poulet | (Peut contenir: Lait (contient du lactose), Gluten)
 - [IMG] /assets/images/ingredients/linguine.png | 180 g | Linguine | (Contient: Gluten, Blé Peut contenir: Lupin, Œuf, Moutarde, Soja)
 - [IMG] /assets/images/ingredients/fromage_rape_a_l_italienne.png | 1 sachet(s) | Fromage râpé à l'italienne | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/bouillon_legumes.png | 60 ml | Bouillon de légumes
+- [IMG] /assets/images/ingredients/huile_olive.png | 1 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_noir.png | 1 cs | Vinaigre balsamique noir
+- [IMG] /assets/images/ingredients/miel.png | 1.5 cc | Miel
+- [IMG] /assets/images/ingredients/farine.png | 3 cs | Farine
+- [IMG] /assets/images/ingredients/uf.png | 1 pièce(s) | Œuf
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 4 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

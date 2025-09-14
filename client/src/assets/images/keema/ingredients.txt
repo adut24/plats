@@ -8,3 +8,7 @@
 - [IMG] /assets/images/ingredients/riz.png | 120 g | Riz
 - [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
 - [IMG] /assets/images/ingredients/epinards.png | 1 sachet(s) | Épinards
+- [IMG] /assets/images/ingredients/cube_bouillon_buf.png | 1 pièce(s) | Cube de bouillon de bœuf
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1 cc | Huile de tournesol
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 1 cc | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

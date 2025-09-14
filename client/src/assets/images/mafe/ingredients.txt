@@ -8,3 +8,7 @@
 - [IMG] /assets/images/ingredients/concentre_tomates.png | ½ sachet(s) | Concentré de tomates
 - [IMG] /assets/images/ingredients/beurre_cacahuetes.png | 2 pot(s) | Beurre de cacahuètes | (Contient: Arachides Peut contenir: Fruits à coque)
 - [IMG] /assets/images/ingredients/cacahuetes_non_salees.png | 1 sachet(s) | Cacahuètes non salées | (Contient: Arachides Peut contenir: Fruits à coque, Graines de sésame)
+- [IMG] /assets/images/ingredients/bouillon_volaille.png | 175 ml | Bouillon de volaille
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 2 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/sucre.png | 1 cc | Sucre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

@@ -10,3 +10,7 @@
 - [IMG] /assets/images/ingredients/beurre_cacahuetes.png | 1 pot(s) | Beurre de cacahuètes | (Contient: Arachides Peut contenir: Fruits à coque)
 - [IMG] /assets/images/ingredients/huile_sesame.png | 1 sachet(s) | Huile de sésame | (Contient: Graines de sésame)
 - [IMG] /assets/images/ingredients/graines_sesame.png | 1 sachet(s) | Graines de sésame | (Contient: Graines de sésame Peut contenir: Fruits à coque, Arachides)
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1.5 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 2 cc | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/cassonade.png | 2 cc | Cassonade
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

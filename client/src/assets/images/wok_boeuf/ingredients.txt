@@ -8,3 +8,5 @@
 - [IMG] /assets/images/ingredients/champignons_paris.png | 125 g | Champignons de Paris
 - [IMG] /assets/images/ingredients/paprika_poudre.png | 1 sachet(s) | Paprika en poudre | (Contient: Anhydride sulfureux et sulfites)
 - [IMG] /assets/images/ingredients/nouilles_ble.png | 100 g | Nouilles de blé | (Contient: Blé )
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1 cc | Huile de tournesol
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

@@ -9,3 +9,8 @@
 - [IMG] /assets/images/ingredients/coriandre.png | 1 sachet(s) | Coriandre
 - [IMG] /assets/images/ingredients/epinards.png | 1 sachet(s) | Épinards
 - [IMG] /assets/images/ingredients/yaourt_a_grecque.png | 1 pot(s) | Yaourt à la grecque | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/cube_bouillon_legumes.png | ½ pièce(s) | Cube de bouillon de légumes
+- [IMG] /assets/images/ingredients/beurre.png | ½ cs | Beurre
+- [IMG] /assets/images/ingredients/uf.png | 2 pièce(s) | Œuf
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

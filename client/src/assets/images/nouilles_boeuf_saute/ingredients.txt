@@ -7,5 +7,7 @@
 - [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
 - [IMG] /assets/images/ingredients/coriandre_menthe.png | ½ sachet(s) | Coriandre et menthe
 - [IMG] /assets/images/ingredients/viande_hachee_buf.png | 1 paquet(s) | Viande hachée au bœuf
-- [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Blé , Soja)
-- [IMG] /assets/images/ingredients/sauce_asiatique_sucree.png | 2 sachet(s) | Sauce asiatique sucrée | (Contient: Blé , Soja, Gluten)
+- [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Blé , Soja, Gluten)
+- [IMG] /assets/images/ingredients/sauce_asiatique_sucree.png | 1 sachet(s) | Sauce asiatique sucrée | (Contient: Blé , Soja, Gluten)
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

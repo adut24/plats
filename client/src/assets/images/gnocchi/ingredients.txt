@@ -5,3 +5,5 @@
 - [IMG] /assets/images/ingredients/creme_basilic.png | 1 pot(s) | Crème de basilic
 - [IMG] /assets/images/ingredients/epinards.png | 1 sachet(s) | Épinards
 - [IMG] /assets/images/ingredients/gouda_rape.png | 1 sachet(s) | Gouda râpé | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/huile_olive.png | 1 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

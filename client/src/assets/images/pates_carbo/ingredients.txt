@@ -7,3 +7,7 @@
 - [IMG] /assets/images/ingredients/lardons_fumes.png | 2 paquet(s) | Lardons fumés | (Peut contenir: Moutarde)
 - [IMG] /assets/images/ingredients/creme_liquide.png | 1 paquet(s) | Crème liquide | (Contient: Lait (contient du lactose))
 - [IMG] /assets/images/ingredients/pecorino_rape.png | 1 sachet(s) | Pecorino râpé | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/cube_bouillon_legumes.png | ½ pièce(s) | Cube de bouillon de légumes
+- [IMG] /assets/images/ingredients/beurre.png | 1 cs | Beurre
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

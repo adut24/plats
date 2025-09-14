@@ -2,8 +2,14 @@
 - [IMG] /assets/images/ingredients/ketchup.png | 1 sachet(s) | Ketchup
 - [IMG] /assets/images/ingredients/melange_epices_pour_bbq.png | ⅔ sachet(s) | Mélange d'épices pour BBQ | (Contient: Œuf)
 - [IMG] /assets/images/ingredients/pomme.png | 2 pièce(s) | Pomme | (Peut contenir: Céleri, Anhydride sulfureux et sulfites)
-- [IMG] /assets/images/ingredients/salade.png | 1 sachet(s) | Salade
-- [IMG] /assets/images/ingredients/mayonnaise.png | 1 sachet(s) | Mayonnaise | (Contient: Œuf, Moutarde)
-- [IMG] /assets/images/ingredients/melange_carotte_chou_rouge_blanc.png | ½ sachet(s) | Mélange de carotte, chou rouge et blanc | (Peut contenir: Céleri)
+- [IMG] /assets/images/ingredients/aioli.png | 2 sachet(s) | Aïoli | (Contient: Œuf, Moutarde)
+- [IMG] /assets/images/ingredients/melange_carotte_chou_rouge_blanc.png | 1 sachet(s) | Mélange de carotte, chou rouge et blanc | (Peut contenir: Céleri)
 - [IMG] /assets/images/ingredients/chapelure_panko.png | 1 sachet(s) | Chapelure panko | (Contient: Gluten, Blé )
 - [IMG] /assets/images/ingredients/tranches_carre_porc.png | 2 pièce(s) | Tranches de carré de porc
+- [IMG] /assets/images/ingredients/cassonade.png | 1 cc | Cassonade
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 2 cc | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/farine.png | 2 cs | Farine
+- [IMG] /assets/images/ingredients/uf.png | 1 pièce(s) | Œuf
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 2 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/beurre.png | 1 cc | Beurre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

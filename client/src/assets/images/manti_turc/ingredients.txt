@@ -8,3 +8,6 @@
 - [IMG] /assets/images/ingredients/yaourt_a_grecque.png | 1 pot(s) | Yaourt à la grecque | (Contient: Lait (contient du lactose))
 - [IMG] /assets/images/ingredients/paprika_fume_poudre.png | ⅔ sachet(s) | Paprika fumé en poudre
 - [IMG] /assets/images/ingredients/concentre_tomates.png | ⅓ sachet(s) | Concentré de tomates
+- [IMG] /assets/images/ingredients/huile_olive.png | 1.5 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/beurre.png | 30 g | Beurre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

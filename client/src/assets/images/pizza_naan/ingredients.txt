@@ -5,3 +5,7 @@
 - [IMG] /assets/images/ingredients/pesto_vert_alla_genovese.png | ⅔ sachet(s) | Pesto vert alla genovese | (Contient: Lait (contient du lactose), Noix de cajou , Fruits à coque Peut contenir: Arachides)
 - [IMG] /assets/images/ingredients/creme_epaisse.png | 1 pot(s) | Crème épaisse | (Contient: Lait (contient du lactose))
 - [IMG] /assets/images/ingredients/sucrine.png | 1 pièce(s) | Sucrine
+- [IMG] /assets/images/ingredients/uf.png | 2 pièce(s) | Œuf
+- [IMG] /assets/images/ingredients/huile_olive.png | 1.5 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_noir.png | 1 cs | Vinaigre balsamique noir
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

@@ -6,3 +6,6 @@
 - [IMG] /assets/images/ingredients/lait_coco.png | 1 paquet(s) | Lait de coco
 - [IMG] /assets/images/ingredients/curry_poudre.png | 1 sachet(s) | Curry en poudre | (Contient: Moutarde, Céleri)
 - [IMG] /assets/images/ingredients/nouilles_ble.png | 200 g | Nouilles de blé | (Contient: Blé )
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1.5 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/cube_bouillon_volaille.png | ½ pièce(s) | Cube de bouillon de volaille
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

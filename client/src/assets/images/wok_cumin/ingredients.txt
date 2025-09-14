@@ -8,3 +8,5 @@
 - [IMG] /assets/images/ingredients/sauce_asiatique_sucree.png | 1 sachet(s) | Sauce asiatique sucrée | (Contient: Blé , Gluten, Soja)
 - [IMG] /assets/images/ingredients/huile_sesame.png | 1 sachet(s) | Huile de sésame | (Contient: Graines de sésame)
 - [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Blé , Gluten, Soja)
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

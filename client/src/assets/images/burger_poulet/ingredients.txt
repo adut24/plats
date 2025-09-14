@@ -5,3 +5,8 @@
 - [IMG] /assets/images/ingredients/cheddar_rape.png | 1 sachet(s) | Cheddar râpé | (Contient: Lait (contient du lactose))
 - [IMG] /assets/images/ingredients/avocat.png | 1 pièce(s) | Avocat
 - [IMG] /assets/images/ingredients/sucrine.png | 1 pièce(s) | Sucrine
+- [IMG] /assets/images/ingredients/beurre.png | 2 cc | Beurre
+- [IMG] /assets/images/ingredients/huile_olive.png | 3 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_vin_rouge_ou_cidre.png | 1 cc | Vinaigre de vin rouge ou de cidre
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_noir.png | 1 cs | Vinaigre balsamique noir
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

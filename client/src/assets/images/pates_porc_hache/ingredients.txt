@@ -8,3 +8,7 @@
 - [IMG] /assets/images/ingredients/concentre_tomates.png | ½ sachet(s) | Concentré de tomates
 - [IMG] /assets/images/ingredients/casarecce.png | 180 g | Casarecce | (Contient: Gluten, Blé Peut contenir: Lupin, Œuf, Moutarde, Soja)
 - [IMG] /assets/images/ingredients/creme_liquide.png | 1 paquet(s) | Crème liquide | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/bouillon_volaille.png | 500 ml | Bouillon de volaille
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 1 cc | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

@@ -8,3 +8,8 @@
 - [IMG] /assets/images/ingredients/eminces_porc_marines_a_mexicaine.png | 1 paquet(s) | Émincés de porc marinés à la mexicaine | (Peut contenir: Lait (contient du lactose), Moutarde, Gluten)
 - [IMG] /assets/images/ingredients/cheddar_rape.png | 1 sachet(s) | Cheddar râpé | (Contient: Lait (contient du lactose))
 - [IMG] /assets/images/ingredients/yaourt_a_grecque.png | 1 pot(s) | Yaourt à la grecque | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/bouillon_legumes.png | 500 ml | Bouillon de légumes
+- [IMG] /assets/images/ingredients/sucre.png | 1 cc | Sucre
+- [IMG] /assets/images/ingredients/vinaigre_vin_rouge_ou_cidre.png | 4 cc | Vinaigre de vin rouge ou de cidre
+- [IMG] /assets/images/ingredients/huile_olive.png | 4 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

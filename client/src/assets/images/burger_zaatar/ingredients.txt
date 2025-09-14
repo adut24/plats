@@ -6,3 +6,7 @@
 - [IMG] /assets/images/ingredients/zaatar.png | 1 sachet(s) | Zaatar | (Contient: Graines de sésame)
 - [IMG] /assets/images/ingredients/aioli.png | 2 sachet(s) | Aïoli | (Contient: Œuf, Moutarde)
 - [IMG] /assets/images/ingredients/pain_burger.png | 2 pièce(s) | Pain burger | (Contient: Œuf, Lait (contient du lactose), Blé , Gluten Peut contenir: Noix , Soja, Fruits à coque, Graines de sésame, Moutarde)
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/sucre.png | 1 cc | Sucre
+- [IMG] /assets/images/ingredients/vinaigre_vin_rouge_ou_cidre.png | 2 cs | Vinaigre de vin rouge ou de cidre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

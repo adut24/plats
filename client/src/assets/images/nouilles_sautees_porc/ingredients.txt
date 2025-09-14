@@ -7,5 +7,7 @@
 - [IMG] /assets/images/ingredients/coriandre.png | ½ sachet(s) | Coriandre
 - [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Soja, Gluten, Blé )
 - [IMG] /assets/images/ingredients/sauce_asiatique_sucree.png | 1 sachet(s) | Sauce asiatique sucrée | (Contient: Soja, Gluten, Blé )
-- [IMG] /assets/images/ingredients/nouilles_ble.png | 100 g | Nouilles de blé | (Contient: Gluten, Blé )
+- [IMG] /assets/images/ingredients/contient_gluten_ble.png | Nouilles de blé | (Contient: Gluten, Blé )
 - [IMG] /assets/images/ingredients/noix_cajou_concassees.png | 1 sachet(s) | Noix de cajou concassées | (Contient: Fruits à coque Peut contenir: Arachides, Fruits à coque, Graines de sésame)
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 2 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

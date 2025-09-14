@@ -7,3 +7,7 @@
 - [IMG] /assets/images/ingredients/persil.png | 1 sachet(s) | Persil
 - [IMG] /assets/images/ingredients/grenade.png | ½ pièce(s) | Grenade
 - [IMG] /assets/images/ingredients/yaourt_a_grecque.png | 1 pot(s) | Yaourt à la grecque | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/cube_bouillon_volaille.png | ½ pièce(s) | Cube de bouillon de volaille
+- [IMG] /assets/images/ingredients/huile_olive.png | 1.5 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/beurre.png | 2 cc | Beurre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

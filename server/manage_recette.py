@@ -186,6 +186,7 @@ def add_recette(url: str, slug: str, assets_dir: Path = Path('assets/images')):
     step_dir = dir / 'steps'
     os.makedirs(step_dir, exist_ok=True)
     plat = soup.find('img', {'alt': recipe_name})
+    image_path = None
     if plat:
         src = plat.get('src') or plat.get('data-src')
         if src:
@@ -197,32 +198,30 @@ def add_recette(url: str, slug: str, assets_dir: Path = Path('assets/images')):
             with open(image_path, 'wb') as f:
                 for chunk in resp.iter_content(1024):
                     f.write(chunk)
-            attributs = dict()
-            attributs.update({"id": str(uuid.uuid4())})
-            attributs.update({"nom": recipe_name})
-            attributs.update({"categories": shlex.split(input("categories : "))})
-            attributs.update({"image_path": image_path.as_posix().removeprefix('src')})
-            attributs.update({"used": None})
-            temps_total, steps_paths = parse_recipe_page(url, slug, assets_dir)
-            ingredients_path = parse_ingredients(url, slug,  assets_dir)
-            attributs.update({"temps_total": temps_total})
-            attributs.update({"steps": steps_paths})
-            attributs.update({"ingredients": ingredients_path})
-            now = datetime.now().isoformat()
-            attributs.update({"created_at": now})
-            attributs.update({"updated_at": now})
-            recette = Recette(**attributs)
-            recette.new()
-            print(f'✅ Recette {recipe_name} ajoutée avec temps_total={temps_total} et {len(steps_paths)-1} étapes.')
+    attributs = dict()
+    attributs.update({"id": str(uuid.uuid4())})
+    attributs.update({"nom": recipe_name})
+    attributs.update({"categories": shlex.split(input("categories : "))})
+    attributs.update({"image_path": image_path.as_posix().removeprefix('src') if image_path else None})
+    attributs.update({"used": None})
+    temps_total, steps_paths = parse_recipe_page(url, slug, assets_dir)
+    ingredients_path = parse_ingredients(url, slug,  assets_dir)
+    attributs.update({"temps_total": temps_total})
+    attributs.update({"steps": steps_paths})
+    attributs.update({"ingredients": ingredients_path})
+    now = datetime.now().isoformat()
+    attributs.update({"created_at": now})
+    attributs.update({"updated_at": now})
+    recette = Recette(**attributs)
+    recette.new()
+    print(f'✅ Recette {recipe_name} ajoutée avec temps_total={temps_total} et {len(steps_paths)-1} étapes.')
 
 
 def clean_ingredient_name(name: str) -> str:
-    """Nettoie le nom de l’ingrédient pour en faire un nom de fichier simple."""
     name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("utf-8")
     name = name.lower().strip()
     stopwords = {"de", "du", "des", "d", "en", "au", "aux", "la", "le", "les", "et"}
     tokens = [t for t in re.split(r"\W+", name) if t and t not in stopwords]
-
     return "_".join(tokens)
 
 def parse_ingredients(url: str, slug: str, assets_dir: Path):

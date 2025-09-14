@@ -7,3 +7,6 @@
 - [IMG] /assets/images/ingredients/viande_hachee_buf.png | 1 paquet(s) | Viande hachée au bœuf
 - [IMG] /assets/images/ingredients/fromage_frais_herbes.png | 1 pot(s) | Fromage frais aux herbes | (Contient: Lait (contient du lactose) Peut contenir: Moutarde, Anhydride sulfureux et sulfites)
 - [IMG] /assets/images/ingredients/fromage_rape_a_l_italienne.png | 1 sachet(s) | Fromage râpé à l'italienne | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/bouillon_legumes.png | 350 ml | Bouillon de légumes
+- [IMG] /assets/images/ingredients/beurre.png | 1 cs | Beurre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

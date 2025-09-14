@@ -4,3 +4,8 @@
 - [IMG] /assets/images/ingredients/pain_campagne_tranche.png | 4 tranche(s) | Pain de campagne tranché | (Contient: Blé , Gluten Peut contenir: Fruits à coque, Lait (contient du lactose), Noix , Œuf, Graines de sésame)
 - [IMG] /assets/images/ingredients/tranches_poulet_cuit.png | 4 tranche(s) | Tranches de poulet cuit | (Peut contenir: Lait (contient du lactose), Soja)
 - [IMG] /assets/images/ingredients/salade.png | 1 sachet(s) | Salade
+- [IMG] /assets/images/ingredients/beurre.png | 2 cc | Beurre
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_noir.png | 1.5 cc | Vinaigre balsamique noir
+- [IMG] /assets/images/ingredients/moutarde.png | 2 cc | Moutarde
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

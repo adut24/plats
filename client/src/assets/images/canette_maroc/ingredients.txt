@@ -6,3 +6,6 @@
 - [IMG] /assets/images/ingredients/paprika_poudre.png | ½ sachet(s) | Paprika en poudre | (Contient: Anhydride sulfureux et sulfites)
 - [IMG] /assets/images/ingredients/filet_canette.png | 2 pièce(s) | Filet de canette
 - [IMG] /assets/images/ingredients/ras_el_hanout.png | ½ sachet(s) | Ras el-hanout
+- [IMG] /assets/images/ingredients/huile_olive.png | 3 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/miel.png | 1 cc | Miel
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

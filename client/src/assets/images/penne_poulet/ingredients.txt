@@ -6,3 +6,6 @@
 - [IMG] /assets/images/ingredients/pesto_rosso.png | 1 sachet(s) | Pesto rosso | (Contient: Anhydride sulfureux et sulfites)
 - [IMG] /assets/images/ingredients/salade.png | 1 sachet(s) | Salade
 - [IMG] /assets/images/ingredients/gouda_rape.png | 1 sachet(s) | Gouda râpé | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_vin_rouge_ou_cidre.png | 1 cc | Vinaigre de vin rouge ou de cidre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

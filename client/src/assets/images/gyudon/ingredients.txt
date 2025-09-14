@@ -6,3 +6,7 @@
 - [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Soja, Gluten, Blé )
 - [IMG] /assets/images/ingredients/graines_sesame.png | 1 sachet(s) | Graines de sésame | (Contient: Graines de sésame Peut contenir: Arachides, Fruits à coque)
 - [IMG] /assets/images/ingredients/eminces_buf.png | 1 paquet(s) | Émincés de bœuf | (Peut contenir: Céleri, Œuf, Moutarde, Gluten, Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 2 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/sucre.png | 2 cc | Sucre
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 2 cs | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

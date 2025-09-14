@@ -8,3 +8,6 @@
 - [IMG] /assets/images/ingredients/paprika_fume_poudre.png | 1 sachet(s) | Paprika fumé en poudre
 - [IMG] /assets/images/ingredients/epices_mexicaines.png | 1 sachet(s) | Épices mexicaines
 - [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Soja, Gluten, Blé )
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 2 cc | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

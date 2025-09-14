@@ -4,3 +4,6 @@
 - [IMG] /assets/images/ingredients/saucisse_toulouse.png | 2 pièce(s) | Saucisse de Toulouse
 - [IMG] /assets/images/ingredients/cantal_aop.png | 1 pièce(s) | Cantal AOP | (Contient: Lait (contient du lactose))
 - [IMG] /assets/images/ingredients/thym_seche.png | ½ sachet(s) | Thym séché
+- [IMG] /assets/images/ingredients/beurre.png | 2 cs | Beurre
+- [IMG] /assets/images/ingredients/lait.png | 1 filet(s) | Lait
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

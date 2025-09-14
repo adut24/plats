@@ -5,3 +5,4 @@
 - [IMG] /assets/images/ingredients/lardons_fumes.png | 1 paquet(s) | Lardons fumés | (Peut contenir: Moutarde)
 - [IMG] /assets/images/ingredients/pesto_champignons.png | 1 sachet(s) | Pesto de champignons | (Contient: Lait (contient du lactose), Anhydride sulfureux et sulfites, Noix de cajou , Fruits à coque)
 - [IMG] /assets/images/ingredients/creme_liquide.png | 1 paquet(s) | Crème liquide | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

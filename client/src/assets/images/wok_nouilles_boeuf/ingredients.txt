@@ -10,3 +10,7 @@
 - [IMG] /assets/images/ingredients/cumin_poudre.png | ⅔ sachet(s) | Cumin en poudre
 - [IMG] /assets/images/ingredients/coriandre_moulue.png | ⅓ sachet(s) | Coriandre moulue
 - [IMG] /assets/images/ingredients/cacahuetes_non_salees.png | 1 sachet(s) | Cacahuètes non salées | (Contient: Arachides Peut contenir: Fruits à coque, Noix du Brésil, Graines de sésame, Noix de pécan , Noisettes , Noix , Amandes, Pistaches , Noix de cajou , Noix de macadamia )
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_noir.png | 1 cs | Vinaigre balsamique noir
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 2 cc | Huile de tournesol
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

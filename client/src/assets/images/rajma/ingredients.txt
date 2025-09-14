@@ -9,3 +9,7 @@
 - [IMG] /assets/images/ingredients/pain_naan.png | 2 pièce(s) | Pain naan | (Contient: Lait (contient du lactose), Gluten, Blé )
 - [IMG] /assets/images/ingredients/creme_epaisse.png | 1 pot(s) | Crème épaisse | (Contient: Lait (contient du lactose))
 - [IMG] /assets/images/ingredients/noix_cajou_concassees.png | 1 sachet(s) | Noix de cajou concassées | (Contient: Fruits à coque Peut contenir: Arachides, Fruits à coque, Graines de sésame)
+- [IMG] /assets/images/ingredients/bouillon_legumes.png | 200 ml | Bouillon de légumes
+- [IMG] /assets/images/ingredients/huile_olive.png | ⅔ cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_noir.png | 1 cc | Vinaigre balsamique noir
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

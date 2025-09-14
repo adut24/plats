@@ -7,3 +7,8 @@
 - [IMG] /assets/images/ingredients/feuille_laurier.png | 1 pièce(s) | Feuille de laurier
 - [IMG] /assets/images/ingredients/pave_buf_marine.png | 2 pièce(s) | Pavé de bœuf mariné | (Peut contenir: Œuf, Moutarde, Céleri, Gluten, Lait (contient du lactose))
 - [IMG] /assets/images/ingredients/fromage_rape_a_l_italienne.png | 1 sachet(s) | Fromage râpé à l'italienne | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/bouillon_buf.png | 160 ml | Bouillon de bœuf
+- [IMG] /assets/images/ingredients/huile_olive.png | 1 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 3 cs | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/beurre.png | 10 g | Beurre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

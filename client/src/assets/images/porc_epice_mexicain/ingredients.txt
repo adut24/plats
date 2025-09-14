@@ -8,3 +8,7 @@
 - [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
 - [IMG] /assets/images/ingredients/coriandre.png | ½ sachet(s) | Coriandre
 - [IMG] /assets/images/ingredients/creme_epaisse.png | 1 pot(s) | Crème épaisse | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/bouillon_volaille.png | 350 ml | Bouillon de volaille
+- [IMG] /assets/images/ingredients/beurre.png | 2 cc | Beurre
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

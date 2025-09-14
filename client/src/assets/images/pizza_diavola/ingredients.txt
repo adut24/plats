@@ -1,0 +1,11 @@
+- [IMG] /assets/images/ingredients/chorizo.png | 1 sachet(s) | Dés de chorizo | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/sauge.png | ½ sachet(s) | Sauge
+- [IMG] /assets/images/ingredients/pain_naan.png | 2 pièce(s) | Pain naan | (Contient: Lait (contient du lactose), Gluten, Blé )
+- [IMG] /assets/images/ingredients/chair_tomates.png | ½ paquet(s) | Chair de tomates
+- [IMG] /assets/images/ingredients/ricotta.png | 1 pot(s) | Ricotta | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/gouda_rape.png | 1 sachet(s) | Gouda râpé | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/courgette.png | 1 pièce(s) | Courgette
+- [IMG] /assets/images/ingredients/piment.png | ⅓ pièce(s) | Piment
+- [IMG] /assets/images/ingredients/huile_olive.png | 1 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 1 cc | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

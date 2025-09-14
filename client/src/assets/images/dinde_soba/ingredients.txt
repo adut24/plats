@@ -8,3 +8,8 @@
 - [IMG] /assets/images/ingredients/sauce_soja.png | 1 sachet(s) | Sauce soja | (Contient: Blé , Gluten, Soja)
 - [IMG] /assets/images/ingredients/huile_sesame.png | 1 sachet(s) | Huile de sésame | (Contient: Graines de sésame)
 - [IMG] /assets/images/ingredients/graines_sesame.png | 1 sachet(s) | Graines de sésame | (Contient: Graines de sésame Peut contenir: Arachides, Fruits à coque)
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/bouillon_legumes.png | 100 ml | Bouillon de légumes
+- [IMG] /assets/images/ingredients/miel.png | 2 cc | Miel
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 1 cc | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

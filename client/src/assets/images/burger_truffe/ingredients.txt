@@ -5,3 +5,8 @@
 - [IMG] /assets/images/ingredients/pain_burger_brioche_graines.png | 2 pièce(s) | Pain burger brioché aux graines | (Contient: Lait (contient du lactose), Œuf, Blé Peut contenir: Graines de sésame, Fruits à coque)
 - [IMG] /assets/images/ingredients/salade.png | 1 sachet(s) | Salade
 - [IMG] /assets/images/ingredients/fromage_a_tartiner_a_truffe.png | 1 pot(s) | Fromage à tartiner à la truffe | (Contient: Lait (contient du lactose) Peut contenir: Moutarde, Anhydride sulfureux et sulfites)
+- [IMG] /assets/images/ingredients/huile_olive.png | 3 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/beurre.png | 2 cc | Beurre
+- [IMG] /assets/images/ingredients/sucre.png | 1 cc | Sucre
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_noir.png | 2 cc | Vinaigre balsamique noir
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

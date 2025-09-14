@@ -1,100 +1,100 @@
-#!/bin/sh
-python manage_recette.py https://www.hellofresh.fr/recipes/burger-de-boeuf-au-zaatar-and-mayo-persillee-6728909812c55222c8cc6a47 burger_zaatar
-python manage_recette.py https://www.hellofresh.fr/recipes/toastie-sucre-sale-poulet-tranche-and-brie-6827564397a36a9824b3ec0e toastie
-python manage_recette.py https://www.hellofresh.fr/recipes/curry-indien-a-la-patate-douce-and-epinards-6793a82f5fbdb4aa73bc5d7e curry_indien
-python manage_recette.py https://www.hellofresh.fr/recipes/porc-grille-a-la-taiwanaise-and-pak-choi-64fb2dd032e9107c6db8888f porc_grille_taiwan
-python manage_recette.py https://www.hellofresh.fr/recipes/poulet-croustillant-facon-katsu-japonais-67d99ad91c42c47c55720384 poulet_japonais
-python manage_recette.py https://www.hellofresh.fr/recipes/porc-epice-a-la-mexicaine-and-riz-au-curcuma-67c1c82a83714633cfd163a4 porc_epice_mexicain
-python manage_recette.py https://www.hellofresh.fr/recipes/keema-boeuf-hache-a-la-pakistanaise-and-riz-678662e12f2af0a797ee59f1 keema
-python manage_recette.py https://www.hellofresh.fr/recipes/arroz-attollado-riz-colombien-au-porc-672890bcd49f300fd6163090 arroz
-python manage_recette.py https://www.hellofresh.fr/recipes/cheesy-fries-and-poulet-grille-67488eb4178a6fd9e2e0e847 cheesy_fries
-python manage_recette.py https://www.hellofresh.fr/recipes/nasi-goreng-riz-indonesien-au-poulet-6877c95bc30d33981f9a3fa9 nasi_goreng
-python manage_recette.py https://www.hellofresh.fr/recipes/pave-de-boeuf-sauce-bercy-67b48d1818c71cd699179526 pave_bercy
-python manage_recette.py https://www.hellofresh.fr/recipes/gyudon-bowl-de-boeuf-a-la-japonaise-67d99af9859430068bc5313e gyudon
-python manage_recette.py https://www.hellofresh.fr/recipes/poelee-de-boeuf-a-la-cambodgienne-67d99ad5859430068bc530b4 poelee_cambodge
-python manage_recette.py https://www.hellofresh.fr/recipes/bibimbap-coreen-porc-hache-miso-and-sesame-6788c923b2fcedf9e18c0373 bibimbap
-python manage_recette.py https://www.hellofresh.fr/recipes/gratin-eclair-de-gnocchi-champis-and-epinards-67488ec6705b9943d7cd6603 gnocchi
-python manage_recette.py https://www.hellofresh.fr/recipes/curry-vert-thai-au-poulet-67488ece989edba91be334de curry_vert_thai
-python manage_recette.py https://www.hellofresh.fr/recipes/wok-de-nouilles-au-poulet-epice-facon-bicol-680117586553c1ce5cec1d99 wok_bicol
-python manage_recette.py https://www.hellofresh.fr/recipes/rajma-makhani-mijote-aux-haricots-noirs-67488ee2989edba91be33540 rajma
-python manage_recette.py https://www.hellofresh.fr/recipes/one-pot-tex-mex-chorizo-riz-and-cheddar-67488ed7705b9943d7cd6649 one_pot_tex_mex
-python manage_recette.py https://www.hellofresh.fr/recipes/pave-de-boeuf-and-potatoes-au-thym-facon-bistrot-67488ed8178a6fd9e2e0e8d3 boeuf_bistrot
-python manage_recette.py https://www.hellofresh.fr/recipes/manti-turcs-revisites-pates-au-boeuf-680116f0ba6118bd6bcc62b0 manti_turc
-python manage_recette.py https://www.hellofresh.fr/recipes/salade-couscous-perle-avocat-and-chevre-frais-67488eef178a6fd9e2e0e90f salade_couscous_perle
-python manage_recette.py https://www.hellofresh.fr/recipes/mijote-vivifiant-de-dinde-au-curry-jaune-67488ef3178a6fd9e2e0e92a mijote_curry_jaune
-python manage_recette.py https://www.hellofresh.fr/recipes/poulet-frit-a-la-coreenne-and-crudites-67488efe705b9943d7cd66fa poulet_frit_coreen
-python manage_recette.py https://www.hellofresh.fr/recipes/mafe-revisite-au-poulet-and-carotte-676585977de812ab26271daf mafe
-python manage_recette.py https://www.hellofresh.fr/recipes/les-fameuses-pates-carbo-a-la-francaise-68275695c4a648afcacfa847 pates_carbo
-python manage_recette.py https://www.hellofresh.fr/recipes/burrito-au-porc-marine-a-la-mexicaine-6798b43d5fbdb4aa73bc95d5 burrito
-python manage_recette.py https://www.hellofresh.fr/recipes/keftas-de-boeuf-and-semoule-aux-epices-680117705886e6cfbf377b84 kefta
-python manage_recette.py https://www.hellofresh.fr/recipes/porc-au-caramel-vietnamien-and-riz-676585257de812ab26271c2c porc_caramel
-python manage_recette.py https://www.hellofresh.fr/recipes/taquitos-porc-hache-and-ecrase-davocat-releve-678a5a6c7767bb70db190e46 taquito
-python manage_recette.py https://www.hellofresh.fr/recipes/wok-de-dinde-au-cumin-a-la-chinoise-67b48d7b381832d7707159fb wok_cumin
-python manage_recette.py https://www.hellofresh.fr/recipes/riz-saute-chinois-multi-legumes-676585290d25660579f40505 riz_saute
-python manage_recette.py https://www.hellofresh.fr/recipes/poulet-frites-sauce-poulette-facon-bistrot-676585809905c923d7fd51df poulet_frites
-python manage_recette.py https://www.hellofresh.fr/recipes/wok-de-nouilles-sautees-au-boeuf-marine-676585820d25660579f40611 wok_boeuf
-python manage_recette.py https://www.hellofresh.fr/recipes/poulet-and-reduction-fraise-balsamique-676585810d25660579f40608 poulet_dore_fraise
-python manage_recette.py https://www.hellofresh.fr/recipes/cordon-bleu-maison-jambon-and-mozzarella-6765857d9905c923d7fd51c4 cordon_bleu
-python manage_recette.py https://www.hellofresh.fr/recipes/pizza-naan-creme-de-pesto-mozza-and-jambon-67935c219b089f6681df50b0 pizza_naan
-python manage_recette.py https://www.hellofresh.fr/recipes/pave-de-boeuf-and-sauce-secrete-comme-au-bearn-6793a7fe3357e10ed3034e16 pave_estragon
-python manage_recette.py https://www.hellofresh.fr/recipes/pates-montagnardes-au-cantal-aop-and-lardons-68594c065bd0c12080033324 pates_montagnardes
-python manage_recette.py https://www.hellofresh.fr/recipes/le-burger-haut-de-gamme-au-fromage-a-la-truffe-6793a8005fbdb4aa73bc5cc0 burger_truffe
-python manage_recette.py https://www.hellofresh.fr/recipes/schnitzel-de-porc-and-sauce-bbq-maison-6799e499029e601edf04d433 schnitzel_porc
-python manage_recette.py https://www.hellofresh.fr/recipes/sunny-curry-a-la-dinde-nouilles-and-coco-6793a80f5fbdb4aa73bc5d07 curry_dinde
-python manage_recette.py https://www.hellofresh.fr/recipes/burrito-bowl-porc-and-cheddar-a-la-mexicaine-67e51e3db4bd646df8361358 burrito_bowl
-python manage_recette.py https://www.hellofresh.fr/recipes/nouilles-au-boeuf-sautees-a-la-thai-6797553189d6104200fdc42d nouilles_boeuf_saute
-python manage_recette.py https://www.hellofresh.fr/recipes/tacos-de-laitue-and-poulet-a-la-thai-67b48d3618c71cd69917957c tacos_poulet_teriyaki
-python manage_recette.py https://www.hellofresh.fr/recipes/boeuf-piquant-saute-facon-lomo-saltado-peruvien-67e3fdec5da69e89cdb0e3a1 boeuf_piquant
-python manage_recette.py https://www.hellofresh.fr/recipes/tranche-de-carre-de-porc-and-puree-aux-marrons-6793a83f5fbdb4aa73bc5db6 porc_marrons
-python manage_recette.py https://www.hellofresh.fr/recipes/bicol-express-philippin-porc-au-lait-de-coco-67d99af4dffcefea9daafcf5 bicol_express
-python manage_recette.py https://www.hellofresh.fr/recipes/taco-bowl-porc-tex-mex-and-riz-citronne-68275670c4a648afcacfa7b4 taco_bowl
-python manage_recette.py https://www.hellofresh.fr/recipes/penne-and-boeuf-hache-aux-saveurs-mexicaines-67c5916f94fc119970d3293d penne_boeuf
-python manage_recette.py https://www.hellofresh.fr/recipes/sandwich-tex-mex-poulet-avocat-and-coriandre-67d99ac81c42c47c55720337 pitas_poulet
-python manage_recette.py https://www.hellofresh.fr/recipes/spaghetti-pesto-rosso-and-jambon-sec-6827563e97a36a9824b3ebf7 spaghetti_pesto
-python manage_recette.py https://www.hellofresh.fr/recipes/canette-and-sauce-sucree-salee-a-la-marocaine-67b48d3718c71cd699179585 canette_maroc
-python manage_recette.py https://www.hellofresh.fr/recipes/tenders-de-poulet-bbq-and-potatoes-67b48d87249223e3b0858546 tenders
-python manage_recette.py https://www.hellofresh.fr/recipes/la-fraiche-poulet-crudites-and-sauce-satay-681883cdd15aa7b407b738d3 poulet_satay
-python manage_recette.py https://www.hellofresh.fr/recipes/tagliata-de-boeuf-a-litalienne-and-rigatoni-680117495886e6cfbf377b0f tagliata
-python manage_recette.py https://www.hellofresh.fr/recipes/poulet-pane-au-zaatar-and-sauce-tahini-67d99accdffcefea9daafc4d poulet_zaatar
-python manage_recette.py https://www.hellofresh.fr/recipes/flash-burger-poulet-dore-and-ecrase-davocat-67d99ad5dffcefea9daafc85 burger_poulet
-python manage_recette.py https://www.hellofresh.fr/recipes/la-sportive-penne-poulet-and-pesto-rosso-686d1ad9fa13aea4b9887063 penne_poulet
-python manage_recette.py https://www.hellofresh.fr/recipes/le-vege-salade-de-nouilles-sauce-satay-68779bb17299475a5b04eb0a salade_nouilles
-python manage_recette.py https://www.hellofresh.fr/recipes/risotto-de-couscous-perle-tomates-and-fromage-67d99b01dffcefea9daafd3b risotto_couscous_perle
-python manage_recette.py https://www.hellofresh.fr/recipes/one-pot-casarecce-cremeuses-67d99b051c42c47c55720453 pates_porc_hache
-python manage_recette.py https://www.hellofresh.fr/recipes/burger-poulet-poele-and-sauce-pistou-maison-6801176e6553c1ce5cec1e06 burger_dinde
-python manage_recette.py https://www.hellofresh.fr/recipes/wok-de-dinde-sauce-umami-and-nouilles-soba-680117746553c1ce5cec1e16 dinde_soba
-python manage_recette.py https://www.hellofresh.fr/recipes/chicken-parmigiana-poulet-croustillant-and-sauce-tomate-680117785886e6cfbf377b95 poulet_parmigiana
-python manage_recette.py https://www.hellofresh.fr/recipes/poulet-marine-and-fenouil-aux-saveurs-du-moyen-orients-680116da6553c1ce5cec1c36 chich_taouk
-python manage_recette.py https://www.hellofresh.fr/recipes/nouilles-froides-dinde-and-sauce-satay-thai-680116d86553c1ce5cec1c26 nouilles_froides
-python manage_recette.py https://www.hellofresh.fr/recipes/wok-de-nouilles-boeuf-hache-and-legumes-sautes-68594b975baaf2916c053cc9 wok_nouilles_boeuf
-python manage_recette.py https://www.hellofresh.fr/recipes/nos-immanquables-spaghetti-poireau-lardons-68483ef39f34f686e2db58b7 spaghetti_lardons
-python manage_recette.py https://www.hellofresh.fr/recipes/cuisse-de-poulet-rotie-and-riz-a-lorientale-67b48d7818c71cd699179670 poulet_roti
-python manage_recette.py https://www.hellofresh.fr/recipes/boulettes-de-porc-couscous-perle-and-harissa-688382cfb6ffa7a20c3b63ff boulettes_porc
-python manage_recette.py https://www.hellofresh.fr/recipes/poulet-facon-paprikash-680117045886e6cfbf377a40 poulet_paprikash
-python manage_recette.py https://www.hellofresh.fr/recipes/aiguillettes-de-poulet-facon-teriyaki-68483ba89f34f686e2db5653 poulet_teriyaki
-python manage_recette.py https://www.hellofresh.fr/recipes/wok-de-nouilles-sautees-au-porc-hache-67d99abc1c42c47c5572030d nouilles_sautees_porc
-python manage_recette.py https://www.hellofresh.fr/recipes/penne-ragu-al-forno-au-boeuf-68011753ba6118bd6bcc63ec penne_ragu
-python manage_recette.py https://www.hellofresh.fr/recipes/linguine-chorizo-and-creme-a-lespagnole-68275653c4a648afcacfa736 linguine_chorizo
-python manage_recette.py https://www.hellofresh.fr/recipes/orzo-boeuf-hache-and-duo-de-fromages-67dbc7a7525d849789e0f680 orzo_fromages
-python manage_recette.py https://www.hellofresh.fr/recipes/orzo-pilaf-epinards-and-grana-padano-aop-681b6ee735963fcd98f3ca36 orzo_pilaf
-python manage_recette.py https://www.hellofresh.fr/recipes/saucisse-de-toulouse-and-puree-au-cantal-aop-67289097b88de70de2e9701d saucisse_toulouse
-python manage_recette.py https://www.hellofresh.fr/recipes/le-saloon-burger-au-poulet-pane-669e6fd165ce5ed4b1f96a0c saloon_burger
-python manage_recette.py https://www.hellofresh.fr/recipes/banh-mi-vietnamien-au-boeuf-5eb41b7c00a80079c7570a9b banh_mi_boeuf
-python manage_recette.py https://www.hellofresh.fr/recipes/soupe-facon-miso-ramen-au-poulet-64fb2d6771b62ce128342265 ramen_miso_poulet
-python manage_recette.py https://www.hellofresh.fr/recipes/miso-ramen-rapide-au-porc-and-soja-65cf17f469f9a536d428c8b4 ramen_porc
-python manage_recette.py https://www.hellofresh.fr/recipes/orzo-a-lespagnole-au-poulet-and-chorizo-68779cc55a587f17f459458f orzo_poulet
-python manage_recette.py https://www.hellofresh.fr/recipes/pizza-naan-diavola-au-chorizo-and-ricotta-6827568d99bb603b9b435f29 pizza_diavola
-python manage_recette.py https://www.hellofresh.fr/recipes/filet-de-canette-and-pommes-sarladaises-68275694c4a648afcacfa83f canard_sarladaises
-python manage_recette.py https://www.hellofresh.fr/recipes/tacos-poulet-croustillant-au-paprika-fume-68483c2056532819dcc17008 tacos_poulet_croustillant
-python manage_recette.py https://www.hellofresh.fr/recipes/wrap-proteine-au-poulet-and-patate-douce-rotie-68483c23b9b1c59f93d85ad6 wraps_poulet
-python manage_recette.py https://www.hellofresh.fr/recipes/cheesy-farfalle-aux-lardons-and-courgette-68483c259f34f686e2db57e8 cheesy_farfalle
-python manage_recette.py https://www.hellofresh.fr/recipes/dinde-grillee-and-couscous-perle-au-curry-68483c3756532819dcc17054 dinde_grillee_couscous_perle
-python manage_recette.py https://www.hellofresh.fr/recipes/dinde-sautee-facon-kung-pao-68483bb19f34f686e2db567a dinde_kung_pao
-python manage_recette.py https://www.hellofresh.fr/recipes/nouilles-au-boeuf-hache-facon-dan-dan-68483bb99f34f686e2db569f boeuf_dan_dan
-python manage_recette.py https://www.hellofresh.fr/recipes/burger-de-boeuf-chutney-doignons-and-gouda-685d70b9fa95d35ec97201a2 burger_chutney
-python manage_recette.py
-python manage_recette.py
-python manage_recette.py
-python manage_recette.py
-python manage_recette.py
-python manage_recette.py
+#!/usr/bin/env bash
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/burger-de-boeuf-au-zaatar-and-mayo-persillee-6728909812c55222c8cc6a47 burger_zaatar
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/toastie-sucre-sale-poulet-tranche-and-brie-6827564397a36a9824b3ec0e toastie
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/curry-indien-a-la-patate-douce-and-epinards-6793a82f5fbdb4aa73bc5d7e curry_indien
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/porc-grille-a-la-taiwanaise-and-pak-choi-64fb2dd032e9107c6db8888f porc_grille_taiwan
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/poulet-croustillant-facon-katsu-japonais-67d99ad91c42c47c55720384 poulet_japonais
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/porc-epice-a-la-mexicaine-and-riz-au-curcuma-67c1c82a83714633cfd163a4 porc_epice_mexicain
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/keema-boeuf-hache-a-la-pakistanaise-and-riz-678662e12f2af0a797ee59f1 keema
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/arroz-attollado-riz-colombien-au-porc-672890bcd49f300fd6163090 arroz
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/cheesy-fries-and-poulet-grille-67488eb4178a6fd9e2e0e847 cheesy_fries
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/nasi-goreng-riz-indonesien-au-poulet-6877c95bc30d33981f9a3fa9 nasi_goreng
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/pave-de-boeuf-sauce-bercy-67b48d1818c71cd699179526 pave_bercy
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/gyudon-bowl-de-boeuf-a-la-japonaise-67d99af9859430068bc5313e gyudon
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/poelee-de-boeuf-a-la-cambodgienne-67d99ad5859430068bc530b4 poelee_cambodge
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/bibimbap-coreen-porc-hache-miso-and-sesame-6788c923b2fcedf9e18c0373 bibimbap
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/gratin-eclair-de-gnocchi-champis-and-epinards-67488ec6705b9943d7cd6603 gnocchi
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/curry-vert-thai-au-poulet-67488ece989edba91be334de curry_vert_thai
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/wok-de-nouilles-au-poulet-epice-facon-bicol-680117586553c1ce5cec1d99 wok_bicol
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/rajma-makhani-mijote-aux-haricots-noirs-67488ee2989edba91be33540 rajma
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/one-pot-tex-mex-chorizo-riz-and-cheddar-67488ed7705b9943d7cd6649 one_pot_tex_mex
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/pave-de-boeuf-and-potatoes-au-thym-facon-bistrot-67488ed8178a6fd9e2e0e8d3 boeuf_bistrot
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/manti-turcs-revisites-pates-au-boeuf-680116f0ba6118bd6bcc62b0 manti_turc
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/salade-couscous-perle-avocat-and-chevre-frais-67488eef178a6fd9e2e0e90f salade_couscous_perle
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/mijote-vivifiant-de-dinde-au-curry-jaune-67488ef3178a6fd9e2e0e92a mijote_curry_jaune
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/poulet-frit-a-la-coreenne-and-crudites-67488efe705b9943d7cd66fa poulet_frit_coreen
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/mafe-revisite-au-poulet-and-carotte-676585977de812ab26271daf mafe
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/les-fameuses-pates-carbo-a-la-francaise-68275695c4a648afcacfa847 pates_carbo
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/burrito-au-porc-marine-a-la-mexicaine-6798b43d5fbdb4aa73bc95d5 burrito
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/keftas-de-boeuf-and-semoule-aux-epices-680117705886e6cfbf377b84 kefta
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/porc-au-caramel-vietnamien-and-riz-676585257de812ab26271c2c porc_caramel
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/taquitos-porc-hache-and-ecrase-davocat-releve-678a5a6c7767bb70db190e46 taquito
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/wok-de-dinde-au-cumin-a-la-chinoise-67b48d7b381832d7707159fb wok_cumin
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/riz-saute-chinois-multi-legumes-676585290d25660579f40505 riz_saute
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/poulet-frites-sauce-poulette-facon-bistrot-676585809905c923d7fd51df poulet_frites
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/wok-de-nouilles-sautees-au-boeuf-marine-676585820d25660579f40611 wok_boeuf
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/poulet-and-reduction-fraise-balsamique-676585810d25660579f40608 poulet_dore_fraise
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/cordon-bleu-maison-jambon-and-mozzarella-6765857d9905c923d7fd51c4 cordon_bleu
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/pizza-naan-creme-de-pesto-mozza-and-jambon-67935c219b089f6681df50b0 pizza_naan
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/pave-de-boeuf-and-sauce-secrete-comme-au-bearn-6793a7fe3357e10ed3034e16 pave_estragon
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/pates-montagnardes-au-cantal-aop-and-lardons-68594c065bd0c12080033324 pates_montagnardes
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/le-burger-haut-de-gamme-au-fromage-a-la-truffe-6793a8005fbdb4aa73bc5cc0 burger_truffe
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/schnitzel-de-porc-and-sauce-bbq-maison-6799e499029e601edf04d433 schnitzel_porc
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/sunny-curry-a-la-dinde-nouilles-and-coco-6793a80f5fbdb4aa73bc5d07 curry_dinde
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/burrito-bowl-porc-and-cheddar-a-la-mexicaine-67e51e3db4bd646df8361358 burrito_bowl
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/nouilles-au-boeuf-sautees-a-la-thai-6797553189d6104200fdc42d nouilles_boeuf_saute
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/tacos-de-laitue-and-poulet-a-la-thai-67b48d3618c71cd69917957c tacos_poulet_teriyaki
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/boeuf-piquant-saute-facon-lomo-saltado-peruvien-67e3fdec5da69e89cdb0e3a1 boeuf_piquant
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/tranche-de-carre-de-porc-and-puree-aux-marrons-6793a83f5fbdb4aa73bc5db6 porc_marrons
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/bicol-express-philippin-porc-au-lait-de-coco-67d99af4dffcefea9daafcf5 bicol_express
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/taco-bowl-porc-tex-mex-and-riz-citronne-68275670c4a648afcacfa7b4 taco_bowl
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/penne-and-boeuf-hache-aux-saveurs-mexicaines-67c5916f94fc119970d3293d penne_boeuf
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/sandwich-tex-mex-poulet-avocat-and-coriandre-67d99ac81c42c47c55720337 pitas_poulet
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/spaghetti-pesto-rosso-and-jambon-sec-6827563e97a36a9824b3ebf7 spaghetti_pesto
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/canette-and-sauce-sucree-salee-a-la-marocaine-67b48d3718c71cd699179585 canette_maroc
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/tenders-de-poulet-bbq-and-potatoes-67b48d28249223e3b0858426 tenders
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/la-fraiche-poulet-crudites-and-sauce-satay-681883cdd15aa7b407b738d3 poulet_satay
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/tagliata-de-boeuf-a-litalienne-and-rigatoni-680117495886e6cfbf377b0f tagliata
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/poulet-pane-au-zaatar-and-sauce-tahini-67d99accdffcefea9daafc4d poulet_zaatar
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/flash-burger-poulet-dore-and-ecrase-davocat-67d99ad5dffcefea9daafc85 burger_poulet
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/la-sportive-penne-poulet-and-pesto-rosso-686d1ad9fa13aea4b9887063 penne_poulet
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/le-vege-salade-de-nouilles-sauce-satay-68779bb17299475a5b04eb0a salade_nouilles
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/risotto-de-couscous-perle-tomates-and-fromage-67d99b01dffcefea9daafd3b risotto_couscous_perle
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/one-pot-casarecce-cremeuses-67d99b051c42c47c55720453 pates_porc_hache
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/burger-poulet-poele-and-sauce-pistou-maison-6801176e6553c1ce5cec1e06 burger_dinde
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/wok-de-dinde-sauce-umami-and-nouilles-soba-680117746553c1ce5cec1e16 dinde_soba
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/chicken-parmigiana-poulet-croustillant-and-sauce-tomate-680117785886e6cfbf377b95 poulet_parmigiana
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/poulet-marine-and-fenouil-aux-saveurs-du-moyen-orients-680116da6553c1ce5cec1c36 chich_taouk
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/nouilles-froides-dinde-and-sauce-satay-thai-680116d86553c1ce5cec1c26 nouilles_froides
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/wok-de-nouilles-boeuf-hache-and-legumes-sautes-68594b975baaf2916c053cc9 wok_nouilles_boeuf
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/nos-immanquables-spaghetti-poireau-lardons-68483ef39f34f686e2db58b7 spaghetti_lardons
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/cuisse-de-poulet-rotie-and-riz-a-lorientale-67b48d7818c71cd699179670 poulet_roti
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/boulettes-de-porc-couscous-perle-and-harissa-688382cfb6ffa7a20c3b63ff boulettes_porc
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/poulet-facon-paprikash-680117045886e6cfbf377a40 poulet_paprikash
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/aiguillettes-de-poulet-facon-teriyaki-68483ba89f34f686e2db5653 poulet_teriyaki
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/wok-de-nouilles-sautees-au-porc-hache-67d99abc1c42c47c5572030d nouilles_sautees_porc
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/penne-ragu-al-forno-au-boeuf-68011753ba6118bd6bcc63ec penne_ragu
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/linguine-chorizo-and-creme-a-lespagnole-68275653c4a648afcacfa736 linguine_chorizo
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/orzo-boeuf-hache-and-duo-de-fromages-67dbc7a7525d849789e0f680 orzo_fromages
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/orzo-pilaf-epinards-and-grana-padano-aop-681b6ee735963fcd98f3ca36 orzo_pilaf
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/saucisse-de-toulouse-and-puree-au-cantal-aop-67289097b88de70de2e9701d saucisse_toulouse
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/le-saloon-burger-au-poulet-pane-669e6fd165ce5ed4b1f96a0c saloon_burger
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/banh-mi-vietnamien-au-boeuf-5eb41b7c00a80079c7570a9b banh_mi_boeuf
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/soupe-facon-miso-ramen-au-poulet-64fb2d6771b62ce128342265 ramen_miso_poulet
+# python3 manage_recette.py https://www.hellofresh.fr/recipes/miso-ramen-express-au-porc-and-soja-66cdd51c6041110ff0a4c647 ramen_porc
+python3 manage_recette.py https://www.hellofresh.fr/recipes/orzo-a-lespagnole-au-poulet-and-chorizo-68779cc55a587f17f459458f orzo_poulet
+python3 manage_recette.py https://www.hellofresh.fr/recipes/pizza-naan-diavola-au-chorizo-and-ricotta-6827568d99bb603b9b435f29 pizza_diavola
+python3 manage_recette.py https://www.hellofresh.fr/recipes/filet-de-canette-and-pommes-sarladaises-68275694c4a648afcacfa83f canard_sarladaises
+python3 manage_recette.py https://www.hellofresh.fr/recipes/tacos-poulet-croustillant-au-paprika-fume-68483c2056532819dcc17008 tacos_poulet_croustillant
+python3 manage_recette.py https://www.hellofresh.fr/recipes/wrap-proteine-au-poulet-and-patate-douce-rotie-68483c23b9b1c59f93d85ad6 wraps_poulet
+python3 manage_recette.py https://www.hellofresh.fr/recipes/cheesy-farfalle-aux-lardons-and-courgette-68483c259f34f686e2db57e8 cheesy_farfalle
+python3 manage_recette.py https://www.hellofresh.fr/recipes/dinde-grillee-and-couscous-perle-au-curry-68483c3756532819dcc17054 dinde_grillee_couscous_perle
+python3 manage_recette.py https://www.hellofresh.fr/recipes/dinde-sautee-facon-kung-pao-68483bb19f34f686e2db567a dinde_kung_pao
+python3 manage_recette.py https://www.hellofresh.fr/recipes/nouilles-au-boeuf-hache-facon-dan-dan-68483bb99f34f686e2db569f boeuf_dan_dan
+python3 manage_recette.py https://www.hellofresh.fr/recipes/burger-de-boeuf-chutney-doignons-and-gouda-685d70b9fa95d35ec97201a2 burger_chutney
+# python3 manage_recette.py
+# python3 manage_recette.py
+# python3 manage_recette.py
+# python3 manage_recette.py
+# python3 manage_recette.py
+# python3 manage_recette.py

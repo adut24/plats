@@ -4,7 +4,12 @@
 - [IMG] /assets/images/ingredients/menthe.png | ½ sachet(s) | Menthe
 - [IMG] /assets/images/ingredients/citron.png | ½ pièce(s) | Citron
 - [IMG] /assets/images/ingredients/viande_hachee_buf.png | 1 paquet(s) | Viande hachée au bœuf
-- [IMG] /assets/images/ingredients/melange_epices_moyen_orient.png | 1 sachet(s) | Mélange d'épices du Moyen-Orient
+- [IMG] /assets/images/ingredients/melange_epices_moyen_orient.png | ⅔ sachet(s) | Mélange d'épices du Moyen-Orient
 - [IMG] /assets/images/ingredients/epinards.png | 1 sachet(s) | Épinards
 - [IMG] /assets/images/ingredients/semoule.png | 150 g | Semoule | (Contient: Gluten, Blé Peut contenir: Soja)
 - [IMG] /assets/images/ingredients/yaourt_a_grecque.png | 1 pot(s) | Yaourt à la grecque | (Contient: Lait (contient du lactose))
+- [IMG] /assets/images/ingredients/huile_olive.png | 1 cc | Huile d'olive
+- [IMG] /assets/images/ingredients/lait.png | 1 filet(s) | Lait
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1 cc | Huile de tournesol
+- [IMG] /assets/images/ingredients/cube_bouillon_buf.png | ½ pièce(s) | Cube de bouillon de bœuf
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

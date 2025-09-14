@@ -9,3 +9,5 @@
 - [IMG] /assets/images/ingredients/curry_vert.png | ⅔ sachet(s) | Curry vert
 - [IMG] /assets/images/ingredients/lait_coco.png | 1 paquet(s) | Lait de coco
 - [IMG] /assets/images/ingredients/sauce_poisson.png | ½ sachet(s) | Sauce poisson | (Contient: Poisson)
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 1 cs | Huile de tournesol
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

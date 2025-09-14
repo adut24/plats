@@ -8,3 +8,8 @@
 - [IMG] /assets/images/ingredients/eminces_porc_marines_a_mexicaine.png | 1 paquet(s) | Émincés de porc marinés à la mexicaine | (Peut contenir: Lait (contient du lactose), Moutarde, Gluten)
 - [IMG] /assets/images/ingredients/mayonnaise.png | 1 sachet(s) | Mayonnaise | (Contient: Œuf, Moutarde)
 - [IMG] /assets/images/ingredients/paprika_fume_poudre.png | ⅔ sachet(s) | Paprika fumé en poudre
+- [IMG] /assets/images/ingredients/sucre.png | 1 cc | Sucre
+- [IMG] /assets/images/ingredients/vinaigre_vin_rouge_ou_cidre.png | 2 cc | Vinaigre de vin rouge ou de cidre
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_noir.png | 2 cc | Vinaigre balsamique noir
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

@@ -5,3 +5,8 @@
 - [IMG] /assets/images/ingredients/filet_poulet.png | 2 pièce(s) | Filet de poulet | (Peut contenir: Lait (contient du lactose), Gluten)
 - [IMG] /assets/images/ingredients/echalote.png | ½ pièce(s) | Échalote
 - [IMG] /assets/images/ingredients/confiture_fraises.png | 2 pot(s) | Confiture de fraises | (Peut contenir: Lait (contient du lactose), Fruits à coque, Moutarde, Anhydride sulfureux et sulfites)
+- [IMG] /assets/images/ingredients/huile_olive.png | 3 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/bouillon_legumes.png | 250 ml | Bouillon de légumes
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_noir.png | 1 cs | Vinaigre balsamique noir
+- [IMG] /assets/images/ingredients/beurre.png | 2 cc | Beurre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

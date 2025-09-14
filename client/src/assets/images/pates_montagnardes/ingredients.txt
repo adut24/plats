@@ -7,3 +7,6 @@
 - [IMG] /assets/images/ingredients/creme_liquide.png | 1 paquet(s) | Crème liquide | (Contient: Lait (contient du lactose))
 - [IMG] /assets/images/ingredients/epices_italiennes.png | ½ sachet(s) | Épices italiennes
 - [IMG] /assets/images/ingredients/noix_concassees.png | 1 sachet(s) | Noix concassées | (Contient: Noix , Fruits à coque Peut contenir: Arachides, Fruits à coque, Graines de sésame)
+- [IMG] /assets/images/ingredients/cube_bouillon_volaille.png | ½ pièce(s) | Cube de bouillon de volaille
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

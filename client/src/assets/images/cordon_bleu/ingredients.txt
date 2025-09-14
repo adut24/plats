@@ -6,3 +6,9 @@
 - [IMG] /assets/images/ingredients/jambon_blanc.png | 1 tranche(s) | Jambon blanc
 - [IMG] /assets/images/ingredients/chapelure_panko.png | ½ sachet(s) | Chapelure panko | (Contient: Gluten, Blé )
 - [IMG] /assets/images/ingredients/sucrine.png | 1 pièce(s) | Sucrine
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/uf.png | 1 pièce(s) | Œuf
+- [IMG] /assets/images/ingredients/farine.png | 2 cs | Farine
+- [IMG] /assets/images/ingredients/beurre.png | 2 cs | Beurre
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_noir.png | 1 cc | Vinaigre balsamique noir
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

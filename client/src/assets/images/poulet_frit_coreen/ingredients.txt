@@ -8,3 +8,10 @@
 - [IMG] /assets/images/ingredients/chapelure_panko.png | ⅔ sachet(s) | Chapelure panko | (Contient: Blé , Gluten)
 - [IMG] /assets/images/ingredients/ketchup.png | 1 sachet(s) | Ketchup
 - [IMG] /assets/images/ingredients/graines_sesame.png | 1 sachet(s) | Graines de sésame | (Contient: Graines de sésame Peut contenir: Arachides, Fruits à coque)
+- [IMG] /assets/images/ingredients/beurre.png | 1 cs | Beurre
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 3 cs | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/farine.png | 50 g | Farine
+- [IMG] /assets/images/ingredients/uf.png | 1 pièce(s) | Œuf
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 4 cc | Huile de tournesol
+- [IMG] /assets/images/ingredients/miel.png | 1 cc | Miel
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

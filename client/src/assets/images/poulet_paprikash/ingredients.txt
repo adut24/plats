@@ -6,3 +6,10 @@
 - [IMG] /assets/images/ingredients/filet_poulet.png | 2 pièce(s) | Filet de poulet | (Peut contenir: Lait (contient du lactose), Gluten)
 - [IMG] /assets/images/ingredients/concentre_tomates.png | ⅔ sachet(s) | Concentré de tomates
 - [IMG] /assets/images/ingredients/paprika_fume_poudre.png | 1 sachet(s) | Paprika fumé en poudre
+- [IMG] /assets/images/ingredients/cube_bouillon_volaille.png | ½ pièce(s) | Cube de bouillon de volaille
+- [IMG] /assets/images/ingredients/huile_olive.png | 1 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/vinaigre_balsamique_blanc_ou_riz.png | 1 cc | Vinaigre balsamique blanc ou de riz
+- [IMG] /assets/images/ingredients/beurre.png | 1 cs | Beurre
+- [IMG] /assets/images/ingredients/sucre.png | 1 cc | Sucre
+- [IMG] /assets/images/ingredients/farine.png | 1 cs | Farine
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

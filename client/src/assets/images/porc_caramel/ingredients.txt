@@ -7,3 +7,7 @@
 - [IMG] /assets/images/ingredients/riz.png | 150 g | Riz
 - [IMG] /assets/images/ingredients/tranches_carre_porc.png | 2 pièce(s) | Tranches de carré de porc
 - [IMG] /assets/images/ingredients/gomasio.png | 1 sachet(s) | Gomasio | (Contient: Graines de sésame)
+- [IMG] /assets/images/ingredients/huile_olive.png | 2 cs | Huile d'olive
+- [IMG] /assets/images/ingredients/bouillon_volaille.png | 80 ml | Bouillon de volaille
+- [IMG] /assets/images/ingredients/sucre.png | 2 cs | Sucre
+- [IMG] /assets/images/ingredients/poivre_sel.png | selon le goût | Poivre et sel

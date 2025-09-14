@@ -8,3 +8,8 @@
 - [IMG] /assets/images/ingredients/zaatar.png | 1 sachet(s) | Zaatar | (Contient: Graines de sésame)
 - [IMG] /assets/images/ingredients/yaourt_a_grecque.png | 1 pot(s) | Yaourt à la grecque | (Contient: Lait (contient du lactose))
 - [IMG] /assets/images/ingredients/sauce_tahini.png | 1 sachet(s) | Sauce tahini | (Contient: Graines de sésame Peut contenir: Lupin)
+- [IMG] /assets/images/ingredients/bouillon_legumes.png | 100 ml | Bouillon de légumes
+- [IMG] /assets/images/ingredients/beurre.png | 2 cc | Beurre
+- [IMG] /assets/images/ingredients/farine.png | 2 cs | Farine
+- [IMG] /assets/images/ingredients/uf.png | 1 pièce(s) | Œuf
+- [IMG] /assets/images/ingredients/huile_tournesol.png | 2 cs | Huile de tournesol
