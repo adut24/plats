@@ -1,28 +1,32 @@
 <nav class="topbar">
-	<ul class="menu">
-	  <li><a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Recettes de la semaine</a></li>
-	  <li><a routerLink="/next-week" routerLinkActive="active">Prochaines recettes</a></li>
-	  <li><a routerLink="/last-month" routerLinkActive="active">Recettes passées</a></li>
-	  <li><a routerLink="/all" routerLinkActive="active">Liste des recettes</a></li>
-	</ul>
+  <ul class="menu">
+    <li>
+      <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }"
+        >Recettes de la semaine</a
+      >
+    </li>
+    <li><a routerLink="/next-week" routerLinkActive="active">Prochaines recettes</a></li>
+    <li><a routerLink="/last-month" routerLinkActive="active">Recettes passées</a></li>
+    <li><a routerLink="/all" routerLinkActive="active">Liste des recettes</a></li>
+  </ul>
 
-	<div class="search">
-	  <input
-		type="text"
-		placeholder="Rechercher une recette..."
-		[(ngModel)]="query"
-		(input)="onSearch()"
-	  />
+  <div class="search">
+    <input
+      type="text"
+      placeholder="Rechercher une recette..."
+      [(ngModel)]="query"
+      (input)="onSearch()"
+    />
 
-	  @if (results.length > 0) {
-		<ul class="results">
-		  @for (recette of results; track recette.id) {
-			<li (click)="goToRecipe(recette.id)">
-			  <img [src]="recette.image_path" alt="{{ recette.nom }}" />
-			  <span>{{ recette.nom }}</span>
-			</li>
-		  }
-		</ul>
-	  }
-	</div>
-  </nav>
+    @if (results.length > 0) {
+    <ul class="results">
+      @for (recette of results; track recette.id) {
+      <li (click)="goToRecipe(recette.id)">
+        <img [src]="recette.image_path" alt="{{ recette.nom }}" />
+        <span>{{ recette.nom }}</span>
+      </li>
+      }
+    </ul>
+    }
+  </div>
+</nav>

@@ -2,16 +2,14 @@
   <h1>Recettes de la semaine prochaine</h1>
 
   @if (!hasPredefinedRecettes) {
-    <button (click)="validateSelection()" [disabled]="!canValidate()">
-      Valider
-    </button>
+  <button (click)="validateSelection()" [disabled]="!canValidate()">Valider</button>
   }
 </div>
 
 @if (recettes | async; as recettes) {
 <div class="cards">
   @for (recette of recettes; track recette.id) {
-  <div class="card" (click)="onCardClick(recette)" [ngClass]="{ 'selected': isSelected(recette) }">
+  <div class="card" (click)="onCardClick(recette)" [ngClass]="{ selected: isSelected(recette) }">
     <img [src]="recette.image_path" alt="{{ recette.nom }}" />
     <div class="card-body">
       <h3>{{ recette.nom }}</h3>
@@ -22,9 +20,7 @@
         </span>
         }
       </div>
-      <div class="temps-total">
-       <strong>Temps total : </strong> {{ recette.temps_total }}
-      </div>
+      <div class="temps-total"><strong>Temps total : </strong> {{ recette.temps_total }}</div>
     </div>
   </div>
   }

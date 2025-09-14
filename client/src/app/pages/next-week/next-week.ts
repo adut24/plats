@@ -37,7 +37,7 @@ export class NextWeek {
 
   private buildRecettes(all: Recette[]): Recette[] {
     let recettesSemaineProchaine = all.filter((recette) => this.week_number ===
-    this.getWeekNumber(recette.used));
+      this.getWeekNumber(recette.used));
 
     if (recettesSemaineProchaine.length !== 0) {
       return recettesSemaineProchaine;

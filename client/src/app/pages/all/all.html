@@ -1,27 +1,25 @@
 <div class="header">
-	<h1>Recettes</h1>
+  <h1>Liste des recettes</h1>
 </div>
 
 @if (recettes | async; as recettes) {
 <div class="cards">
-	@for (recette of recettes; track recette.id) {
-	<div class="card">
-		<img [src]="recette.image_path" alt="{{ recette.nom }}" />
-		<div class="card-body">
-			<h3>{{ recette.nom }}</h3>
-			<div class="categories">
-				@for (categorie of recette.categories; track categorie) {
-				<span class="badge" [style.backgroundColor]="getCategoryColor(categorie)">
-					{{ categorie }}
-				</span>
-				}
-			</div>
-			<div class="temps-total">
-				<strong>Temps total : </strong> {{ recette.image_path }}
-			</div>
-		</div>
-	</div>
-	}
+  @for (recette of recettes; track recette.id) {
+  <div class="card">
+    <img [src]="recette.image_path" alt="{{ recette.nom }}" />
+    <div class="card-body">
+      <h3>{{ recette.nom }}</h3>
+      <div class="categories">
+        @for (categorie of recette.categories; track categorie) {
+        <span class="badge" [style.backgroundColor]="getCategoryColor(categorie)">
+          {{ categorie }}
+        </span>
+        }
+      </div>
+      <div class="temps-total"><strong>Temps total : </strong> {{ recette.image_path }}</div>
+    </div>
+  </div>
+  }
 </div>
 } @else {
 <p>Chargement…</p>

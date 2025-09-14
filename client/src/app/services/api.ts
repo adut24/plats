@@ -35,26 +35,30 @@ export class ApiService {
   constructor(private http: HttpClient) { }
 
   getRecettes(): Observable<Recette[]> {
-    return this.http.get<{ [key: string]: RecetteDTO }>(`${this.baseUrl}/recettes`).pipe(
-      map((recettesObj) =>
-        Object.values(recettesObj).map(this.toRecette)
-      )
-    );
+    return this.http.get<{ [key: string]: RecetteDTO }>(
+      `${this.baseUrl}/recettes`).pipe(
+        map((recettesObj) =>
+          Object.values(recettesObj).map(this.toRecette)
+        )
+      );
   }
 
   getRecette(id: string): Observable<Recette> {
-    return this.http.get<RecetteDTO>(`${this.baseUrl}/recettes/${id}`).pipe(
-      map(this.toRecette));
+    return this.http.get<RecetteDTO>(`${this.baseUrl}/recettes/${id}`)
+      .pipe(
+        map(this.toRecette));
   }
 
   updateUsageTrue(id: string): Observable<Recette> {
-    return this.http.put<RecetteDTO>(`${this.baseUrl}/used-true/${id}`, null).pipe(
-      map(this.toRecette));
+    return this.http.put<RecetteDTO>(`${this.baseUrl}/used-true/${id}`, null)
+      .pipe(
+        map(this.toRecette));
   }
 
   updateUsageFalse(id: string): Observable<Recette> {
-    return this.http.put<RecetteDTO>(`${this.baseUrl}/used-false/${id}`, null).pipe(
-      map(this.toRecette));
+    return this.http.put<RecetteDTO>(`${this.baseUrl}/used-false/${id}`, null)
+      .pipe(
+        map(this.toRecette));
   }
 
   toRecette(dto: RecetteDTO): Recette {

@@ -27,7 +27,8 @@ export class Current {
   }
 
   private buildRecettes(all: Recette[]): Recette[] {
-    return all.filter((recette) => this.week_number === this.getWeekNumber(recette.used));
+    return all.filter((recette) => this.week_number ===
+      this.getWeekNumber(recette.used));
   }
 
   getCategoryColor(cat: string): string {

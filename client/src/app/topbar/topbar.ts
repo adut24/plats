@@ -14,13 +14,15 @@ import { ApiService, Recette } from '../services/api';
   styleUrls: ['./topbar.scss']
 })
 export class Topbar implements OnInit {
-  query = '';
+  query: string = '';
   results: Recette[] = [];
   allRecettes: Recette[] = [];
 
   private searchSubject = new Subject<string>();
 
-  constructor(private api: ApiService, private router: Router, private el: ElementRef) {}
+  constructor(private api: ApiService,
+    private router: Router,
+    private el: ElementRef) { }
 
   ngOnInit() {
     this.api.getRecettes().subscribe(recettes => {
@@ -30,7 +32,8 @@ export class Topbar implements OnInit {
     this.searchSubject.pipe(
       debounceTime(300),
       distinctUntilChanged()
-    ).subscribe(() => this.filterResults());
+    )
+      .subscribe(() => this.filterResults());
   }
 
   onSearch() {
@@ -38,12 +41,16 @@ export class Topbar implements OnInit {
   }
 
   private filterResults() {
-    const q = this.query.trim().toLowerCase();
+    const q = this.query.trim()
+      .toLowerCase();
     if (!q) {
       this.results = [];
     } else {
       this.results = this.allRecettes.filter(r =>
-        r.nom.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(q)
+        r.nom.toLowerCase()
+          .normalize("NFD")
+          .replace(/[\u0300-\u036f]/g, "")
+          .includes(q)
       );
     }
   }
